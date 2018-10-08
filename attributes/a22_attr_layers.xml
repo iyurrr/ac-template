@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+			<Layer Idx="100" Name="A00  == ANALYSIS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>4C612366-8866-43BD-AFDB-395C7ACEF06A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>A00  == ANALYSIS ==</Name>
+				<Index>100</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000953</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>100</ConnectionClassId>
+			</Layer>
+			<Layer Idx="110" Name="A10  Estimations">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>58ED0A6E-76DF-4E34-860D-CD1DE62E1DAD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>A10  Estimations</Name>
+				<Index>110</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="210" Name="A21  Survey, insolation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F6D6D281-CEB3-42B9-8A0F-7B0BE9F32120</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>A21  Survey, insolation</Name>
+				<Index>210</Index>
+				<Flags/>
+				<ModiTime>1539007612</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="220" Name="A21  Survey, transport">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>55C0263F-51AD-4B34-AAE3-32377A3CCDA8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>A21  Survey, transport</Name>
+				<Index>220</Index>
+				<Flags/>
+				<ModiTime>1539007612</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="500" Name="E05  == SITE &amp; EARTHWORK ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>AFD18242-757C-4EB5-9005-7A9C5280F3D5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E05  == SITE &amp; EARTHWORK ==</Name>
+				<Index>500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="600" Name="E06  Earthwork">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7436D3D9-533E-4CA2-AD40-8DC4D3DF1484</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E06  Earthwork</Name>
+				<Index>600</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="700" Name="E07  Parking lots">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E80CF37F-2945-4AFF-A223-C3EEC9672D98</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E07  Parking lots</Name>
+				<Index>700</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="803" Name="E08  Site development">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>04A892CB-09ED-4295-9029-0C4BD013A50E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E08  Site development</Name>
+				<Index>803</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1000" Name="E10  == SUBSTRUCTURE ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D90A003D-E515-41B9-B17B-962BF4DC9F8A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E10  == SUBSTRUCTURE ==</Name>
+				<Index>1000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1100" Name="E11  Foundation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1AD95EE7-2C0A-4C8A-9744-C3AC540FA926</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E11  Foundation</Name>
+				<Index>1100</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1200" Name="E12  Basement &amp; plinth">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>67C245E7-0760-43D8-BF4C-3D6A63285085</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E12  Basement &amp; plinth</Name>
+				<Index>1200</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2000" Name="E20  == SUPERSTRUCTURE ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6DB4C1B1-AC67-419C-BD6A-8A4AF5E1E039</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E20  == SUPERSTRUCTURE ==</Name>
+				<Index>2000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2100" Name="E21  Frame">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C4A7C4E9-7173-4DFE-A2BA-8ADC476964D0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E21  Frame</Name>
+				<Index>2100</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2200" Name="E22  Bearing elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>96A95677-1F4C-459D-9477-7236848DC920</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E22  Bearing elements</Name>
+				<Index>2200</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2510" Name="E25  Walls, cladding, covering &amp; finishing">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A69938DA-A39A-4374-9DFC-41BC5649777A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E25  Walls, cladding, covering &amp; finishing</Name>
+				<Index>2510</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2520" Name="E25  Walls, curtain">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>71F5CE40-281B-45C7-ADE6-A22D9403CF8F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E25  Walls, curtain</Name>
+				<Index>2520</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2530" Name="E25  Walls, external">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>367EB2F5-04CA-4806-BBEB-A4E270885A8E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E25  Walls, external</Name>
+				<Index>2530</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2540" Name="E25  Walls, internal">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1D691ABA-2533-4AE7-8E25-5E1719EB46E2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E25  Walls, internal</Name>
+				<Index>2540</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2560" Name="E26  Partitions">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>124ABB21-89E2-4220-B696-BA2DB91E75A9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E26  Partitions</Name>
+				<Index>2560</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2570" Name="E27  Railings">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1BAB7AC6-F902-4910-8680-F67ECA12D87C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E27  Railings</Name>
+				<Index>2570</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3100" Name="E31  Floors">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E917A3A8-B831-4D1C-A6AB-7DDD94C7A8BA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E31  Floors</Name>
+				<Index>3100</Index>
+				<Flags/>
+				<ModiTime>1539001222</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3110" Name="E31  Floors covering &amp; finishing">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>13A0F2F1-A656-408B-8BCD-03D3625DA481</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E31  Floors covering &amp; finishing</Name>
+				<Index>3110</Index>
+				<Flags/>
+				<ModiTime>1539001222</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3200" Name="E32  Ceilings">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FDC45F5F-E971-42FA-97FE-8753BACCF029</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E32  Ceilings</Name>
+				<Index>3200</Index>
+				<Flags/>
+				<ModiTime>1539001222</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3210" Name="E32  Ceilings covering &amp; finishing">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>74D24C15-47C8-492B-973D-493F02AFB25D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E32  Ceilings covering &amp; finishing</Name>
+				<Index>3210</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3300" Name="E33  Roof">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BEC1E0A6-E891-41EE-B5D3-8BC4B9C754FA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E33  Roof</Name>
+				<Index>3300</Index>
+				<Flags/>
+				<ModiTime>1539001222</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3310" Name="E33  Roof covering &amp; finishing">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>910781BE-18FE-4C17-AC85-A7EDBD7F7315</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E33  Roof covering &amp; finishing</Name>
+				<Index>3310</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3320" Name="E33  Roof elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A6E1CB1E-054D-4CCF-807A-EC7D81188CD1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E33  Roof elements</Name>
+				<Index>3320</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3600" Name="E36  Stairs">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>DD9C5808-AA58-4100-A9EE-0238C9A9D1A3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E36  Stairs</Name>
+				<Index>3600</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3601" Name="E36  Ladders">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CF031F4F-95E4-4046-9DE5-12FE2D2C9C1C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E36  Ladders</Name>
+				<Index>3601</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3700" Name="E37  Ramps">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3CAC124A-92E1-4B61-8EAD-108F5A707090</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E37  Ramps</Name>
+				<Index>3700</Index>
+				<Flags/>
+				<ModiTime>1538991509</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4000" Name="E40  == EQUIPMENT &amp; FURNISHINGS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F49480EC-1F49-45FD-A58B-0C1C50088C00</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E40  == EQUIPMENT &amp; FURNISHINGS ==</Name>
+				<Index>4000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000953</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>4000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4100" Name="E41  Signage">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3F75376A-FA88-49DB-B481-B148A189D063</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E41  Signage</Name>
+				<Index>4100</Index>
+				<Flags/>
+				<ModiTime>1538762752</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4200" Name="E42  Equipment">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>43A1C78A-3DC3-4F4B-BAAA-4B4C1FCD9E89</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E42  Equipment</Name>
+				<Index>4200</Index>
+				<Flags/>
+				<ModiTime>1538762752</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4300" Name="E43  Furnishings">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>54C18CE8-E4A9-48CF-93B7-5B01399F55E0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E43  Furnishings</Name>
+				<Index>4300</Index>
+				<Flags/>
+				<ModiTime>1538762752</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4499" Name="E44  == ENGINEERING SERVICES &amp; SYSTEMS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>13E819CE-72EF-4752-80B7-ACCA77B3B70A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E44  == ENGINEERING SERVICES &amp; SYSTEMS ==</Name>
+				<Index>4499</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>4500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4500" Name="E45  Transportation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D4395F65-22E3-4F04-8D51-896D6A861D32</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E45  Transportation</Name>
+				<Index>4500</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="5000" Name="E50  Disposal">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>0AD4BF1F-6FC1-45BB-B855-E8F081AC48C6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E50  Disposal</Name>
+				<Index>5000</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="5500" Name="E55  Piped Supply">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>B548C639-FA86-46D2-958E-78B9E5F5F7F2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E55  Piped Supply</Name>
+				<Index>5500</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="6000" Name="E60  HVAC">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1C452921-629B-4CCC-A833-CBAABC9356EB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E60  HVAC</Name>
+				<Index>6000</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="7000" Name="E70  Electrical">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A6D22249-1C5E-4B6C-A037-9B5C064AAE06</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E70  Electrical</Name>
+				<Index>7000</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="7500" Name="E75  Communication, security &amp; automation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F69A1201-15DD-4F4B-80C1-38B9C8F73CD0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E75  Communication, security &amp; automation</Name>
+				<Index>7500</Index>
+				<Flags/>
+				<ModiTime>1539009138</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="8500" Name="E85  Special systems">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>46E7FC0F-908A-4281-918D-8823ED51FAEE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E85  Special systems</Name>
+				<Index>8500</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9000" Name="E90  == SPECIAL &amp; AUX ELEMENTS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E1D16DD3-549C-467F-AA51-B689EB2F7ABE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E90  == SPECIAL &amp; AUX ELEMENTS ==</Name>
+				<Index>9000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9100" Name="E91  Solids">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E70ABF2D-2D8D-49E3-9E63-D8A9F50E8529</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E91  Solids</Name>
+				<Index>9100</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9200" Name="E92  Openings">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F518ADF8-ED0B-4D23-9350-9630B0774576</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E92  Openings</Name>
+				<Index>9200</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9300" Name="E93  Operators.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>95DFD21C-0EF4-48B7-BCAB-613B51832641</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E93  Operators.WIP</Name>
+				<Index>9300</Index>
+				<Flags/>
+				<ModiTime>1539002943</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9500" Name="E95  = BIM &amp; TECH PURPOSE ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F2B5513F-AB38-46C9-BBE2-9A4351365872</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E95  = BIM &amp; TECH PURPOSE ==</Name>
+				<Index>9500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000953</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9600" Name="E96  Hotlinks">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FCB331A3-1D1F-412F-BB6A-9B11E6A08B00</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E96  Hotlinks</Name>
+				<Index>9600</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9700" Name="E97  Drawings">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D2C21719-E207-41F2-A46B-0A17E4C6B0C6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E97  Drawings</Name>
+				<Index>9700</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="9800" Name="E98  Special &amp; Technical Purpose">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C8ED5AA7-D1BA-4988-B9F3-0F00D55E3D05</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>E98  Special &amp; Technical Purpose</Name>
+				<Index>9800</Index>
+				<Flags/>
+				<ModiTime>1538991679</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="10000" Name="S00  == SPACES, ZONES, AREAS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6133BA4B-5C18-4D3B-82B2-0C08D0328AB7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>S00  == SPACES, ZONES, AREAS ==</Name>
+				<Index>10000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="10100" Name="S10  Single spaces (rooms)">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>47305D83-D7B4-41D1-8EEB-A2ABDE29E158</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>S10  Single spaces (rooms)</Name>
+				<Index>10100</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19100" Name="S91  Zone boundries">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>5C06C487-F964-4C9A-9F44-256378803B71</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>S91  Zone boundries</Name>
+				<Index>19100</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19200" Name="S92  Zone gross areas">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F61DA1E5-A308-4A03-905C-2CA6E73FF1DF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>S92  Zone gross areas</Name>
+				<Index>19200</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19300" Name="S93  Zone gross volumes">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>DDB7CBC1-44CB-4BDD-8328-24AE31EF4BA6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>S93  Zone gross volumes</Name>
+				<Index>19300</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20000" Name="T00  == TEXT &amp; DRAWING CONTENT ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>4DED6363-8DEB-4534-B510-D0425877327A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T00  == TEXT &amp; DRAWING CONTENT ==</Name>
+				<Index>20000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20100" Name="T01  Annotations">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>B9C37A28-B74E-416A-8F2F-60CB148011C7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T01  Annotations</Name>
+				<Index>20100</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20200" Name="T02  Dimensions">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F3808F89-DDA5-4163-B4C6-88A7D753F110</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T02  Dimensions</Name>
+				<Index>20200</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20201" Name="T02  Dimensions.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>383AB405-6ADD-4C2D-B54A-64A1C7ACBF90</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T02  Dimensions.WIP</Name>
+				<Index>20201</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20202" Name="T02  Dimensions, investment albums.IA">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CFB05E8F-0EAF-4315-A516-18C8444E8B31</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T02  Dimensions, investment albums.IA</Name>
+				<Index>20202</Index>
+				<Flags/>
+				<ModiTime>1539007612</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20203" Name="T02  Dimensions, structural.S">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>56A80EC8-2EDC-417A-A422-0CE54BAD74AC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T02  Dimensions, structural.S</Name>
+				<Index>20203</Index>
+				<Flags/>
+				<ModiTime>1539007612</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="20300" Name="T03  Linework &amp; Hatching.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A9E33CC5-ABA2-4696-8E74-19EF999A9AFD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T03  Linework &amp; Hatching.WIP</Name>
+				<Index>20300</Index>
+				<Flags/>
+				<ModiTime>1539002845</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="21000" Name="T10  == GRIDS &amp; MARKUPS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>DDD7F3CC-54B5-486C-8756-9B1287F743A0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T10  == GRIDS &amp; MARKUPS ==</Name>
+				<Index>21000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1100</ConnectionClassId>
+			</Layer>
+			<Layer Idx="21100" Name="T11  Grid, structural">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>8C3E993E-B351-4C01-B19E-7F0334556C01</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T11  Grid, structural</Name>
+				<Index>21100</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="21101" Name="T11  Grid, structural.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3162FA83-A1AC-4987-9F86-32A2EF00E99F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T11  Grid, structural.WIP</Name>
+				<Index>21101</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="21200" Name="T12  Grid, sectional">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7FB0A5C5-3822-45D6-8D3D-258428E886D8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T12  Grid, sectional</Name>
+				<Index>21200</Index>
+				<Flags/>
+				<ModiTime>1539005075</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22000" Name="T20  == MARKERS, VIEWS &amp; TOOLS ==">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6594F789-AAF4-4B2B-A9AC-0AAC0E8D89B4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T20  == MARKERS, VIEWS &amp; TOOLS ==</Name>
+				<Index>22000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>1539000925</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1200</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22100" Name="T21  Details &amp; Worksheets">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>717B5BD1-FDC0-4787-96F3-7A4CC127AE3D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T21  Details &amp; Worksheets</Name>
+				<Index>22100</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22200" Name="T22  Changes &amp; Revisions">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>79B67B88-B42B-476F-BEB4-B404BD7925B5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T22  Changes &amp; Revisions</Name>
+				<Index>22200</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22300" Name="T23  Elevations">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>5CDBA241-3164-4483-839A-C4C961E23C9E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T23  Elevations</Name>
+				<Index>22300</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22400" Name="T24  Levels">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EB9F97E0-793A-425A-A44E-B9B45D5E0F90</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T24  Levels</Name>
+				<Index>22400</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22500" Name="T25  Sections">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>9F887EC4-E7CB-4D0F-8223-61F1EED05DCF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>T25  Sections</Name>
+				<Index>22500</Index>
+				<Flags/>
+				<ModiTime>1538992191</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Markup Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

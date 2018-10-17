@@ -53,7 +53,7 @@
 			<BuildingMaterial Idx="1500" Name="= PREPARATORY &amp; GROUNDWORK =">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>35437B28-12D5-4B21-B825-6E67BC53D377</guid>
+						<guid>7BE2D6CA-B44F-4D6A-B9AB-F943B7FAA160</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>= PREPARATORY &amp; GROUNDWORK =</Name>
@@ -83,7 +83,7 @@
 			<BuildingMaterial Idx="1601" Name="Soil, clay">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>5C82EEFF-DA6B-4534-B2A6-C88D46E63733</guid>
+						<guid>4FED12F0-44A6-485E-A5A9-EDDD9490CE13</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Soil, clay</Name>
@@ -113,7 +113,7 @@
 			<BuildingMaterial Idx="1602" Name="Soil, earth">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>DD3409FE-D6AB-4F15-A701-AE2B7032BFC8</guid>
+						<guid>173B88AB-E131-49D3-A45C-5230E3EE35B8</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Soil, earth</Name>
@@ -143,7 +143,7 @@
 			<BuildingMaterial Idx="1603" Name="Soil, landscaping">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F5756A97-27AC-4FA1-A20F-0976048391DB</guid>
+						<guid>0EDA9F3C-4ACE-4DFE-8026-7F01A6666253</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Soil, landscaping</Name>
@@ -173,7 +173,7 @@
 			<BuildingMaterial Idx="1604" Name="Soil, natural granulars">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>31534FE9-35C1-4344-9878-B08837B5A662</guid>
+						<guid>17C590F2-E5B3-4C6F-904A-05E015489A6D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Soil, natural granulars</Name>
@@ -203,7 +203,7 @@
 			<BuildingMaterial Idx="1605" Name="Soil, recycled granulars">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>2750D8D4-EF60-4FEC-AE0C-2E23AF286801</guid>
+						<guid>AA5FF484-A3D0-4988-AADB-AD0C09389B84</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Soil, recycled granulars</Name>
@@ -233,7 +233,7 @@
 			<BuildingMaterial Idx="1606" Name="Soil, sand">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>CDD8A07E-1B19-4B20-82ED-FE9C1072BFF0</guid>
+						<guid>A80AE4B4-3E2E-40F5-A086-2C7ED8938A69</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Soil, sand</Name>
@@ -263,7 +263,7 @@
 			<BuildingMaterial Idx="1701" Name="Geo, cells &amp; composites">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>348D6A4F-9C22-44E4-88B8-87405068ADF0</guid>
+						<guid>14A28EF8-C034-4037-A619-978E1B84C915</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Geo, cells &amp; composites</Name>
@@ -293,7 +293,7 @@
 			<BuildingMaterial Idx="2000" Name="= STRUCTURE &amp; GENERAL MATERIALS =">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>C16835B6-D8AB-4C0F-9B7E-8D8505396421</guid>
+						<guid>DA355093-5B30-41AD-9A46-DEEB6D9FBAB2</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>= STRUCTURE &amp; GENERAL MATERIALS =</Name>
@@ -323,13 +323,13 @@
 			<BuildingMaterial Idx="2101" Name="Bond, bitumen-based">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>A4FD9814-B6CA-4C26-AEE7-AD778801921C</guid>
+						<guid>581F9206-EBAC-42EE-8FDF-1C72D34CBA63</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bond, bitumen-based</Name>
 				<Index>2101</Index>
 				<Flags/>
-				<ModiTime>1539719902</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M21</ID>
 				<ConnPriority>4903</ConnPriority>
@@ -345,7 +345,7 @@
 				<EmbodiedCarbon>0.55</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Вяжущие, на битумной основе</Description>
-				<ManuFacturer>Btm</ManuFacturer>
+				<ManuFacturer>ABi</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>BITUMEN</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>BITUMEN PURE</MaterialNameFromCatalog>
@@ -353,13 +353,13 @@
 			<BuildingMaterial Idx="2103" Name="Bond, cement">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>76A7148F-A437-40AE-8B19-47DBE429047F</guid>
+						<guid>13579E8A-D560-47DB-A3BC-CEB5B7000681</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bond, cement</Name>
 				<Index>2103</Index>
 				<Flags/>
-				<ModiTime>1539721473</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M21</ID>
 				<ConnPriority>4943</ConnPriority>
@@ -375,7 +375,7 @@
 				<EmbodiedCarbon>0.213</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Цементы и цементозаменители</Description>
-				<ManuFacturer>Cem</ManuFacturer>
+				<ManuFacturer>BCt</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>CEMENT W/ SAND</MaterialNameFromCatalog>
@@ -383,13 +383,13 @@
 			<BuildingMaterial Idx="2107" Name="Bond, concrete">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>3D35B348-199C-41F6-926A-A2A244D3FB90</guid>
+						<guid>17D2CCF2-9008-4780-8922-FE79C5257577</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bond, concrete</Name>
 				<Index>2107</Index>
 				<Flags/>
-				<ModiTime>1539722013</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M21</ID>
 				<ConnPriority>5508</ConnPriority>
@@ -405,7 +405,7 @@
 				<EmbodiedCarbon>0.132</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Бетон, монолитный</Description>
-				<ManuFacturer>CoS</ManuFacturer>
+				<ManuFacturer>BSc</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>CONCRETE 4</MaterialNameFromCatalog>
@@ -413,13 +413,13 @@
 			<BuildingMaterial Idx="2108" Name="Bond, concrete reinforced">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>92F83DBD-9568-4C1A-8E51-D8D431618DE4</guid>
+						<guid>887F7D59-8DE3-4235-AAE8-055CD9501511</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bond, concrete reinforced</Name>
 				<Index>2108</Index>
 				<Flags/>
-				<ModiTime>1539726353</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M21</ID>
 				<ConnPriority>5588</ConnPriority>
@@ -435,7 +435,7 @@
 				<EmbodiedCarbon>0.198</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Бетон, монолитный, армированый (жб)</Description>
-				<ManuFacturer>CoR</ManuFacturer>
+				<ManuFacturer>BRc</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>REINFORCED CONCRETE W/ 1% STEEL</MaterialNameFromCatalog>
@@ -443,13 +443,13 @@
 			<BuildingMaterial Idx="2201" Name="Precast, concrete">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>3795F631-69C9-4B4C-8283-DA5F581E4C32</guid>
+						<guid>7AC751AF-30D0-4D77-B31A-9CD21C7D15BA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Precast, concrete</Name>
 				<Index>2201</Index>
 				<Flags/>
-				<ModiTime>1539722013</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M22</ID>
 				<ConnPriority>5669</ConnPriority>
@@ -465,7 +465,7 @@
 				<EmbodiedCarbon>0.132</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Сборные бетонные конструкции</Description>
-				<ManuFacturer>CoP</ManuFacturer>
+				<ManuFacturer>PSc</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>CONCRETE 4</MaterialNameFromCatalog>
@@ -473,13 +473,13 @@
 			<BuildingMaterial Idx="2202" Name="Precast, concrete reinforced">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>CA90540B-1DF4-4C80-8571-09D5314B724A</guid>
+						<guid>6620D508-B5AA-43CA-8798-9010D48534BE</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Precast, concrete reinforced</Name>
 				<Index>2202</Index>
 				<Flags/>
-				<ModiTime>1539722013</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M22</ID>
 				<ConnPriority>5750</ConnPriority>
@@ -495,21 +495,21 @@
 				<EmbodiedCarbon>0.242</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Сборные жб конструкции</Description>
-				<ManuFacturer>CrP</ManuFacturer>
+				<ManuFacturer>PRc</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>REINFORCED CONCRETE W/ 2% STEEL</MaterialNameFromCatalog>
 			</BuildingMaterial>
-			<BuildingMaterial Idx="2301" Name="Structure Metal">
+			<BuildingMaterial Idx="2301" Name="Precast Metal">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>C5BFCD31-C1AE-49AF-9436-36CB0D40E6B7</guid>
+						<guid>05FE2172-E049-4B41-BF68-F3B945FDE7C9</guid>
 					</OdbRef>
 				</OdbObj>
-				<Name>Structure Metal</Name>
+				<Name>Precast Metal</Name>
 				<Index>2301</Index>
 				<Flags/>
-				<ModiTime>1539726319</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M23</ID>
 				<ConnPriority>4943</ConnPriority>
@@ -525,21 +525,21 @@
 				<EmbodiedCarbon>6.15</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Металл</Description>
-				<ManuFacturer>Met</ManuFacturer>
+				<ManuFacturer>PMe</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>STAINLESS STEEL</MaterialNameFromCatalog>
 			</BuildingMaterial>
-			<BuildingMaterial Idx="2302" Name="Structure Plastic">
+			<BuildingMaterial Idx="2302" Name="Precast Plastic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>B1DD99DC-DCF6-4DC0-9E38-3914939B4EB8</guid>
+						<guid>07FAE6D3-4546-41F1-8766-3A4979ECA3A2</guid>
 					</OdbRef>
 				</OdbObj>
-				<Name>Structure Plastic</Name>
+				<Name>Precast Plastic</Name>
 				<Index>2302</Index>
 				<Flags/>
-				<ModiTime>1539726319</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M23</ID>
 				<ConnPriority>4621</ConnPriority>
@@ -555,21 +555,21 @@
 				<EmbodiedCarbon>3.43</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Пластмассы</Description>
-				<ManuFacturer>Pla</ManuFacturer>
+				<ManuFacturer>PPl</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>SOLID PLASTICS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>PTFE</MaterialNameFromCatalog>
 			</BuildingMaterial>
-			<BuildingMaterial Idx="2303" Name="Structure Timber">
+			<BuildingMaterial Idx="2303" Name="Precasat Timber">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>77245976-0E92-4EC6-ADDB-34F949CEE5A2</guid>
+						<guid>32EBFAC5-9ECC-4AD7-B242-F09791638FE3</guid>
 					</OdbRef>
 				</OdbObj>
-				<Name>Structure Timber</Name>
+				<Name>Precasat Timber</Name>
 				<Index>2303</Index>
 				<Flags/>
-				<ModiTime>1539726319</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M23</ID>
 				<ConnPriority>4782</ConnPriority>
@@ -585,7 +585,7 @@
 				<EmbodiedCarbon>0.39</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Дерево</Description>
-				<ManuFacturer>Tim</ManuFacturer>
+				<ManuFacturer>PTm</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>TIMBER 4</MaterialNameFromCatalog>
@@ -593,7 +593,7 @@
 			<BuildingMaterial Idx="2401" Name="Blocks, glass">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>B9F488F5-119D-4F95-8C73-36158AEC184A</guid>
+						<guid>A8D17E76-86C7-4625-B43B-DEA3BE7C4305</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Blocks, glass</Name>
@@ -623,7 +623,7 @@
 			<BuildingMaterial Idx="2402" Name="Blocks, concrete aerated">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>BB8BBF4C-6D0E-4524-80D5-EBB7D9EE59E4</guid>
+						<guid>7EB201F1-CB3C-4C07-BFFE-AA67D63F5B93</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Blocks, concrete aerated</Name>
@@ -653,7 +653,7 @@
 			<BuildingMaterial Idx="2403" Name="Blocks, concrete">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>1EA4BDAB-9CF5-4806-9E7D-DE82AFA25034</guid>
+						<guid>8A44C99C-5C28-49C1-A634-8FBEB5736E5F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Blocks, concrete</Name>
@@ -683,7 +683,7 @@
 			<BuildingMaterial Idx="2406" Name="Blocks, ceramic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>8880A7C3-796B-40DA-BF3D-ED6F5AE51C9E</guid>
+						<guid>5FCFE378-A792-4C90-8A2C-5FE1F50BD599</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Blocks, ceramic</Name>
@@ -713,7 +713,7 @@
 			<BuildingMaterial Idx="2407" Name="Blocks, gypsum">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>1EAE059A-CB0B-4EB4-9440-29FDF0094B00</guid>
+						<guid>118FF7A2-5054-47B8-BFB4-7E4808FF0454</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Blocks, gypsum</Name>
@@ -743,7 +743,7 @@
 			<BuildingMaterial Idx="2409" Name="Brick, solid">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>0B6E8CF7-4B6E-4373-AC91-B3F1C20E73B1</guid>
+						<guid>24BF7598-6015-46E6-BC93-C12AC9C3F8C6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Brick, solid</Name>
@@ -773,7 +773,7 @@
 			<BuildingMaterial Idx="2410" Name="Brick, hollow">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>1348591B-4172-46F5-98C6-E7A9D7184AD0</guid>
+						<guid>F50CEBE8-81C0-4448-B02B-76EA5C8F0596</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Brick, hollow</Name>
@@ -803,7 +803,7 @@
 			<BuildingMaterial Idx="2411" Name="Brick, faced">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>A5DE02B0-54FC-44CD-AC1C-AE67710BE21D</guid>
+						<guid>338F37CF-C986-44B7-986E-06C591AAB8CA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Brick, faced</Name>
@@ -833,7 +833,7 @@
 			<BuildingMaterial Idx="2500" Name="= SKIN &amp; COMPONENT MATERIALS =">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>85A214A5-288D-4444-A0EE-C5EC58BA3859</guid>
+						<guid>1020B09A-C8C0-4A98-909A-D76F420848F6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>= SKIN &amp; COMPONENT MATERIALS =</Name>
@@ -863,13 +863,13 @@
 			<BuildingMaterial Idx="2601" Name="Foam, in-situ insulation">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>DEF24AC6-99A7-4935-A38F-5BC6A5789C16</guid>
+						<guid>9ECB38B4-88E2-4C70-8DB1-10176227871E</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Foam, in-situ insulation</Name>
 				<Index>2601</Index>
 				<Flags/>
-				<ModiTime>1539725312</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M26</ID>
 				<ConnPriority>4540</ConnPriority>
@@ -885,7 +885,7 @@
 				<EmbodiedCarbon>2.96</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Пены монтажные, изоляционные</Description>
-				<ManuFacturer>Fms</ManuFacturer>
+				<ManuFacturer>SFm</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>SEALANTS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>SILICONE FOAM</MaterialNameFromCatalog>
@@ -893,13 +893,13 @@
 			<BuildingMaterial Idx="2701" Name="Infill, loose insulation">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>52841542-C8E5-4DD9-8F72-17449A7B55B0</guid>
+						<guid>7A31D932-7B2E-4F35-A081-435AF383EDF4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Infill, loose insulation</Name>
 				<Index>2701</Index>
 				<Flags/>
-				<ModiTime>1539780243</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M27</ID>
 				<ConnPriority>4621</ConnPriority>
@@ -915,7 +915,7 @@
 				<EmbodiedCarbon>0.19</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Заполнители изоляционные и пр.</Description>
-				<ManuFacturer>Inf</ManuFacturer>
+				<ManuFacturer>SLi</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>CORK</MaterialNameFromCatalog>
@@ -923,7 +923,7 @@
 			<BuildingMaterial Idx="2801" Name="Skin, batt &amp; fibrous">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>C574386D-C682-4463-A50B-6AF4487A8A57</guid>
+						<guid>49299856-C958-405D-A6C4-4D7F8687F792</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, batt &amp; fibrous</Name>
@@ -953,7 +953,7 @@
 			<BuildingMaterial Idx="2803" Name="Skin, mineral wool flexible">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>EFAB276F-57C4-4BA5-A37D-D36BC1FBDE74</guid>
+						<guid>0B5FBEC3-F096-40F7-BB53-9B98424A171C</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, mineral wool flexible</Name>
@@ -983,13 +983,13 @@
 			<BuildingMaterial Idx="2804" Name="Skin, bitumen &amp; pitch sheets">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>FB0DA460-1640-4B63-A0B6-C56575BDA21A</guid>
+						<guid>CBD9E465-05CC-4886-B3EB-D298EA6634C1</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, bitumen &amp; pitch sheets</Name>
 				<Index>2804</Index>
 				<Flags/>
-				<ModiTime>1539726319</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M28</ID>
 				<ConnPriority>4863</ConnPriority>
@@ -1005,7 +1005,7 @@
 				<EmbodiedCarbon>0.066</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Листы на основе битума, смолы</Description>
-				<ManuFacturer>B&amp;P</ManuFacturer>
+				<ManuFacturer>Sbp</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>BITUMEN</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>BITUMINOUS SHEET</MaterialNameFromCatalog>
@@ -1013,7 +1013,7 @@
 			<BuildingMaterial Idx="2808" Name="Skin, netting">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>1CFDF3B1-6EDD-45BF-A3B3-FEBD170F3847</guid>
+						<guid>629C33D7-2B13-4FFE-90E2-93B83C77384D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, netting</Name>
@@ -1043,7 +1043,7 @@
 			<BuildingMaterial Idx="2809" Name="Skin, plastic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>AB1584F2-C84B-44BB-9048-B4127B30C5E7</guid>
+						<guid>F4CB58C3-09AF-4292-BE78-304570186ECC</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, plastic</Name>
@@ -1073,7 +1073,7 @@
 			<BuildingMaterial Idx="2811" Name="Skin, polymer">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>B06ACCD1-AA94-4A4C-8350-8E39A03BB9A6</guid>
+						<guid>994EAD3F-F2A7-4CE9-B82C-BE93CB058EC5</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, polymer</Name>
@@ -1103,7 +1103,7 @@
 			<BuildingMaterial Idx="2812" Name="Skin, synthetic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>08B3D198-EBCE-4FA2-B7AD-5A489CB330C3</guid>
+						<guid>350E57BA-EE98-4A8B-A98E-223D9AAB2FB0</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Skin, synthetic</Name>
@@ -1133,13 +1133,13 @@
 			<BuildingMaterial Idx="2901" Name="Board, cellular glass">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>32A2870F-FB64-4928-A24A-0543E2D7A74A</guid>
+						<guid>7C555482-C429-4F2E-9A5C-8F0DB6E50D66</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Board, cellular glass</Name>
 				<Index>2901</Index>
 				<Flags/>
-				<ModiTime>1539727007</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M29</ID>
 				<ConnPriority>5024</ConnPriority>
@@ -1155,7 +1155,7 @@
 				<EmbodiedCarbon>1.25</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Пеностекло</Description>
-				<ManuFacturer>CeG</ManuFacturer>
+				<ManuFacturer>SCg</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>THERMAL INSULATION-GLASS WOOL</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>ROOF GLASS WOOL</MaterialNameFromCatalog>
@@ -1163,7 +1163,7 @@
 			<BuildingMaterial Idx="2902" Name="Board, mineral wool hard">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>423C6391-93EE-4587-8775-AE5D731FDB21</guid>
+						<guid>DC516683-0EF7-48ED-AD4F-FB09C25BF72C</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Board, mineral wool hard</Name>
@@ -1193,7 +1193,7 @@
 			<BuildingMaterial Idx="2903" Name="Board, EPS">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>838DEAEB-D777-46D0-8CA6-9E9BDF922B01</guid>
+						<guid>9047D508-3D54-4C0A-BD09-375E74D8AA5E</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Board, EPS</Name>
@@ -1223,7 +1223,7 @@
 			<BuildingMaterial Idx="2906" Name="Board, XPS">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>FCD06074-3E92-450F-B293-C0F25565E706</guid>
+						<guid>3C900A84-D56A-46E9-B33B-4D7161A6C943</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Board, XPS</Name>
@@ -1253,7 +1253,7 @@
 			<BuildingMaterial Idx="3001" Name="Panel, composite">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>CAAB54EB-C2F1-4BA4-A7B3-AFCE40E801F1</guid>
+						<guid>36A4EE34-BF06-40B4-BC0E-C503C3C520B7</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, composite</Name>
@@ -1283,7 +1283,7 @@
 			<BuildingMaterial Idx="3002" Name="Panel, gypsum">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>884D4E22-BFFF-4BFF-A331-60E463FAE135</guid>
+						<guid>6C6B5FBB-5820-4D1B-A438-DB4592B79133</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, gypsum</Name>
@@ -1313,13 +1313,13 @@
 			<BuildingMaterial Idx="3003" Name="Panel, metallic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F1365DD6-D636-4ECC-A89C-1E153DC848F3</guid>
+						<guid>7859C23B-5DC4-43FE-8D69-D8AE45BB95FA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, metallic</Name>
 				<Index>3003</Index>
 				<Flags/>
-				<ModiTime>1539781310</ModiTime>
+				<ModiTime>1539795499</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M30</ID>
 				<ConnPriority>4863</ConnPriority>
@@ -1335,7 +1335,7 @@
 				<EmbodiedCarbon>9.16</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Панели, металлические</Description>
-				<ManuFacturer>PMe</ManuFacturer>
+				<ManuFacturer>Pme</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>ALUMINUM</MaterialNameFromCatalog>
@@ -1343,13 +1343,13 @@
 			<BuildingMaterial Idx="3004" Name="Panel, plastic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>55B88188-CE50-4AA1-A7B3-46CCC60F1CDD</guid>
+						<guid>F59447A7-39A9-4405-906A-F2347E68BDB5</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, plastic</Name>
 				<Index>3004</Index>
 				<Flags/>
-				<ModiTime>1539781310</ModiTime>
+				<ModiTime>1539795568</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M30</ID>
 				<ConnPriority>4782</ConnPriority>
@@ -1365,7 +1365,7 @@
 				<EmbodiedCarbon>3.1</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Панели, пластик</Description>
-				<ManuFacturer>PPl</ManuFacturer>
+				<ManuFacturer>Ppl</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>SOLID PLASTICS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>PVC</MaterialNameFromCatalog>
@@ -1373,7 +1373,7 @@
 			<BuildingMaterial Idx="3005" Name="Panel, plywood">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F4C29F72-CAB1-43D0-9C9F-AE83BA8753D9</guid>
+						<guid>B250C852-094D-4838-9695-A1FF2582F267</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, plywood</Name>
@@ -1403,7 +1403,7 @@
 			<BuildingMaterial Idx="3006" Name="Panel, polymer">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>03B0F4EF-6EAA-4EA6-8EFE-70B83902BB2E</guid>
+						<guid>D191FF41-AD84-43A5-8BA9-FCA0E81E14A3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, polymer</Name>
@@ -1433,13 +1433,13 @@
 			<BuildingMaterial Idx="3007" Name="Panel, timber">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>9BB68690-9818-47C8-9F5F-3A44FC2FB022</guid>
+						<guid>A5BD334A-1C29-450B-9D05-84EE88AFA9BA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Panel, timber</Name>
 				<Index>3007</Index>
 				<Flags/>
-				<ModiTime>1539781310</ModiTime>
+				<ModiTime>1539795568</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M30</ID>
 				<ConnPriority>4863</ConnPriority>
@@ -1455,7 +1455,7 @@
 				<EmbodiedCarbon>0.32</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Панели, деревянные</Description>
-				<ManuFacturer>PTm</ManuFacturer>
+				<ManuFacturer>Ptm</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>TIMBER 2</MaterialNameFromCatalog>
@@ -1463,7 +1463,7 @@
 			<BuildingMaterial Idx="3500" Name="= COVERING &amp; FINISHING MATERIALS =">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>73889979-DEBB-4CC4-87B5-4108256279BA</guid>
+						<guid>0861EF39-34D1-4DE6-AD00-23AB1A315490</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>= COVERING &amp; FINISHING MATERIALS =</Name>
@@ -1493,7 +1493,7 @@
 			<BuildingMaterial Idx="3601" Name="Coat, primer/sealer">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>E09EBDC3-F442-4651-83EA-306BAEF48641</guid>
+						<guid>A67E3893-388A-4294-9610-4EF69BC16975</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Coat, primer/sealer</Name>
@@ -1523,7 +1523,7 @@
 			<BuildingMaterial Idx="3602" Name="Coat, protective">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>11F9760B-1547-4A42-8447-AD8B481FFC64</guid>
+						<guid>31C70F4F-8305-4F53-BEC1-4332035C34F6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Coat, protective</Name>
@@ -1553,7 +1553,7 @@
 			<BuildingMaterial Idx="3701" Name="Cover, carpet">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>783BEF0E-BF5D-46CD-851A-4C64BE9B917D</guid>
+						<guid>78FDCC9B-02BE-4E19-A4B6-3D555E03ADF2</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Cover, carpet</Name>
@@ -1583,7 +1583,7 @@
 			<BuildingMaterial Idx="3702" Name="Cover, paper &amp; rolls">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>C996C626-ED6A-47D9-A563-736FA82AB2BC</guid>
+						<guid>F2081A1E-7751-4EB0-88C7-48A3702EE77A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Cover, paper &amp; rolls</Name>
@@ -1613,7 +1613,7 @@
 			<BuildingMaterial Idx="3703" Name="Cover, textile">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F1118F27-B8CF-4655-ACD9-6CEC57C983A5</guid>
+						<guid>43CCE18C-E27E-409E-8482-A43EE99AD096</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Cover, textile</Name>
@@ -1643,7 +1643,7 @@
 			<BuildingMaterial Idx="3801" Name="Finish, paints">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>01796EEA-D108-47DD-A5FC-42F0E17ABA4F</guid>
+						<guid>F0F529A1-0E9F-455F-80C6-270D132668AA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Finish, paints</Name>
@@ -1673,13 +1673,13 @@
 			<BuildingMaterial Idx="3802" Name="Finish, plaster">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>AFCC73FD-04B2-483F-B2F0-6243DB867CA5</guid>
+						<guid>CD1D8309-3F84-4A69-87BA-1AE29AAC8EEB</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Finish, plaster</Name>
 				<Index>3802</Index>
 				<Flags/>
-				<ModiTime>1539781687</ModiTime>
+				<ModiTime>1539795568</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M38</ID>
 				<ConnPriority>4621</ConnPriority>
@@ -1695,7 +1695,7 @@
 				<EmbodiedCarbon>1.2</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Тиньк, внутренний</Description>
-				<ManuFacturer>PsI</ManuFacturer>
+				<ManuFacturer>FPi</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>GYPSUM INSULATING PLASTER</MaterialNameFromCatalog>
@@ -1703,13 +1703,13 @@
 			<BuildingMaterial Idx="3803" Name="Finish, render">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>78C2C069-6785-4A23-889E-1651BF1BF479</guid>
+						<guid>230CC433-E0CC-459F-9879-287D3F47D0D3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Finish, render</Name>
 				<Index>3803</Index>
 				<Flags/>
-				<ModiTime>1539781687</ModiTime>
+				<ModiTime>1539795568</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M38</ID>
 				<ConnPriority>4701</ConnPriority>
@@ -1725,7 +1725,7 @@
 				<EmbodiedCarbon>0.22</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Тиньк, наружный</Description>
-				<ManuFacturer>PsE</ManuFacturer>
+				<ManuFacturer>FRe</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>LIME W/ SAND</MaterialNameFromCatalog>
@@ -1733,13 +1733,13 @@
 			<BuildingMaterial Idx="3804" Name="Finish, render mosaic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>347711A9-E31B-4949-8F8F-238A1566AF99</guid>
+						<guid>D1860642-F0C6-4136-9B4A-404CDE3DB371</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Finish, render mosaic</Name>
 				<Index>3804</Index>
 				<Flags/>
-				<ModiTime>1539781687</ModiTime>
+				<ModiTime>1539795568</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<ID>M38</ID>
 				<ConnPriority>4701</ConnPriority>
@@ -1755,7 +1755,7 @@
 				<EmbodiedCarbon>0.13</EmbodiedCarbon>
 				<ShowUncutLines>true</ShowUncutLines>
 				<Description>Тиньк, наружный мозаичный</Description>
-				<ManuFacturer>PsM</ManuFacturer>
+				<ManuFacturer>FRm</ManuFacturer>
 				<CollisionDetection>true</CollisionDetection>
 				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
 				<MaterialNameFromCatalog>GYPSUM PLASTER 2</MaterialNameFromCatalog>
@@ -1763,7 +1763,7 @@
 			<BuildingMaterial Idx="3902" Name="Paving, grade bitumens">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>FD55754B-B92A-46C6-85FE-A1D3706A16E8</guid>
+						<guid>FBE6ABBF-7F16-4CA4-9141-B18E511592B4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Paving, grade bitumens</Name>
@@ -1793,7 +1793,7 @@
 			<BuildingMaterial Idx="4001" Name="Tile, cast stone">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>A1925053-40C9-468F-800F-56B1B9972B3B</guid>
+						<guid>DF684C8F-D454-4A48-BB20-8725FD8E40D1</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, cast stone</Name>
@@ -1823,7 +1823,7 @@
 			<BuildingMaterial Idx="4002" Name="Tile, ceramic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>4C9ED310-A0B8-4FA1-8B24-A50EA1DAC909</guid>
+						<guid>EEC34F3A-7A4C-4314-B61B-425E973A8BF0</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, ceramic</Name>
@@ -1853,7 +1853,7 @@
 			<BuildingMaterial Idx="4003" Name="Tile, concrete">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>12BB56D7-514A-4203-B8E6-9C9F26905EED</guid>
+						<guid>AA46CFCD-6152-4E4A-AADC-8D0212A99B01</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, concrete</Name>
@@ -1883,7 +1883,7 @@
 			<BuildingMaterial Idx="4004" Name="Tile, metal">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>4FC9A6F0-67ED-4A28-BA89-FAB42DEAC503</guid>
+						<guid>62CF2F8A-6DE4-40F1-858F-426D53943D84</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, metal</Name>
@@ -1913,7 +1913,7 @@
 			<BuildingMaterial Idx="4005" Name="Tile, mosaic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>D51E88C2-0FC3-4326-BDBB-E074948E66C8</guid>
+						<guid>F295FF1B-6F66-4348-9EEF-4837326F6AB6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, mosaic</Name>
@@ -1943,7 +1943,7 @@
 			<BuildingMaterial Idx="4006" Name="Tile, quarry">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>CAB2134F-98E2-439B-9D6A-B553CC425D07</guid>
+						<guid>1501B8CF-7123-49E5-A702-70770BA1AF6B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, quarry</Name>
@@ -1973,7 +1973,7 @@
 			<BuildingMaterial Idx="4007" Name="Tile, stone">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>8AD5C4DB-B4D9-41E2-B10B-4F8E0B42125E</guid>
+						<guid>F16F2F08-237F-4D61-99E2-CF03C4ED8734</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, stone</Name>
@@ -2003,7 +2003,7 @@
 			<BuildingMaterial Idx="4008" Name="Tile, terazzo">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>4D1D97B5-5D0C-448C-9535-F2D76E69DAE9</guid>
+						<guid>EA6AE83C-8C6E-4107-AAD1-B47BE663E42A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tile, terazzo</Name>
@@ -2033,7 +2033,7 @@
 			<BuildingMaterial Idx="4101" Name="Unit, wooden blocks">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>7B276C71-4BAE-43A2-BE79-E1BA19FE89A4</guid>
+						<guid>1CB2A472-D35F-445C-B3E2-0A21579774A8</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Unit, wooden blocks</Name>
@@ -2063,7 +2063,7 @@
 			<BuildingMaterial Idx="4102" Name="Unit, wooden mosaics">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F7460815-6513-46B2-9970-ED5525C281D6</guid>
+						<guid>C2ED4246-A5EA-4E94-92FA-CD3BFA35C547</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Unit, wooden mosaics</Name>
@@ -2093,7 +2093,7 @@
 			<BuildingMaterial Idx="9500" Name="= ENVIRONMENT, BASIC &amp; SPECIAL =">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>C326E157-7D8E-41F0-B1E8-0500C4938D08</guid>
+						<guid>5EBAAC8A-DFD5-4DB3-9BF8-EBDE41F3B03A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>= ENVIRONMENT, BASIC &amp; SPECIAL =</Name>
@@ -2123,7 +2123,7 @@
 			<BuildingMaterial Idx="9602" Name="Basic, Air Space">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F30B6F44-FB60-4D9C-909E-B9445FCAB52A</guid>
+						<guid>F45DE4CC-DC68-4A6F-A502-AB0913F28734</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, Air Space</Name>
@@ -2153,7 +2153,7 @@
 			<BuildingMaterial Idx="9603" Name="Basic, Water">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>A6A8992E-E83C-4A78-906C-7FD1273DD08B</guid>
+						<guid>2E5054D6-56F4-4D7A-909E-E7176CC22248</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, Water</Name>
@@ -2183,7 +2183,7 @@
 			<BuildingMaterial Idx="9701" Name="Basic, common">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>231A4895-FC13-4C18-AFD9-D828238C6919</guid>
+						<guid>BA487A19-18A3-40E5-9BC7-9F1D08AF5898</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, common</Name>
@@ -2213,7 +2213,7 @@
 			<BuildingMaterial Idx="9702" Name="Basic, block">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>38045C0C-5F5D-4FCF-8A41-A5B5F04B1955</guid>
+						<guid>AA5D8AD4-9FE2-4528-84E7-69754D6C809B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, block</Name>
@@ -2243,7 +2243,7 @@
 			<BuildingMaterial Idx="9703" Name="Basic, brick">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>B09A6068-5255-4C99-9936-F835EDD6F3DB</guid>
+						<guid>7E053B31-03FB-458B-8B5C-3F0F98D7E601</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, brick</Name>
@@ -2273,7 +2273,7 @@
 			<BuildingMaterial Idx="9704" Name="Basic, filler">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>3A88F891-942C-4091-B566-EC8D6AB8E65D</guid>
+						<guid>68F33437-B3F0-47F8-BEF7-8B516139C9AD</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, filler</Name>
@@ -2303,7 +2303,7 @@
 			<BuildingMaterial Idx="9705" Name="Basic, glass">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>651EEA93-039D-421F-94B9-0D1C430BD95B</guid>
+						<guid>DE182F88-99C3-48AF-B23F-796BF476941F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, glass</Name>
@@ -2333,7 +2333,7 @@
 			<BuildingMaterial Idx="9706" Name="Basic, insulation">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>323F9709-DF5A-44C0-B757-EEC51CC30DCF</guid>
+						<guid>5845F35B-F7F7-405C-97F2-A1CA835FF214</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, insulation</Name>
@@ -2363,7 +2363,7 @@
 			<BuildingMaterial Idx="9707" Name="Basic, membrane">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>A4AC9D3E-CB35-406A-9E99-D5507C84E862</guid>
+						<guid>BD70ED99-5595-41CD-B31C-C947B52823FA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, membrane</Name>
@@ -2393,7 +2393,7 @@
 			<BuildingMaterial Idx="9708" Name="Basic, metallic">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>29FBC02F-D39F-4AA8-96C1-5104D2CC4989</guid>
+						<guid>1E41D012-2045-4906-8C02-23D08DD15B37</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, metallic</Name>
@@ -2423,7 +2423,7 @@
 			<BuildingMaterial Idx="9709" Name="Basic, plaster">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>DEB621DF-D9E3-4548-B3D5-22EA04C9F13A</guid>
+						<guid>ABEB854D-263F-4EDC-92D1-5FD179C0EAB0</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, plaster</Name>
@@ -2453,7 +2453,7 @@
 			<BuildingMaterial Idx="9710" Name="Basic, polymer">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>FDE513DA-8AEB-40AE-ADFE-ECE3F53850FB</guid>
+						<guid>75C401A4-796B-4EBC-9D43-78FEF44580DD</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, polymer</Name>
@@ -2483,7 +2483,7 @@
 			<BuildingMaterial Idx="9711" Name="Basic, soil">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>1058010B-7E09-42B8-BD8F-98C57DC6100F</guid>
+						<guid>36BA74CB-4708-451D-ADA1-D1BE32036C1F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, soil</Name>
@@ -2513,7 +2513,7 @@
 			<BuildingMaterial Idx="9712" Name="Basic, stone">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>A345727F-DB75-4851-A7B1-1C458B77135B</guid>
+						<guid>CC65AC33-DC67-44B6-8F85-1D07E42CA071</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, stone</Name>
@@ -2543,7 +2543,7 @@
 			<BuildingMaterial Idx="9713" Name="Basic, structural">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>321A6F89-68DF-4A09-8CAA-9B10650B5662</guid>
+						<guid>630689D1-8147-461C-87AC-69E7AF733A95</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, structural</Name>
@@ -2573,7 +2573,7 @@
 			<BuildingMaterial Idx="9714" Name="Basic, tile">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>F7791B40-524A-47B8-95DA-6F4F94FE6F0E</guid>
+						<guid>2A6EFFA9-A2AC-468B-9A9C-987C86818303</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, tile</Name>
@@ -2603,7 +2603,7 @@
 			<BuildingMaterial Idx="9715" Name="Basic, wood">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>C5EBAAA3-FBF9-436E-8DB9-24D6132156BA</guid>
+						<guid>7D9423D0-F341-4A19-BA8F-FC8FFA7C684F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Basic, wood</Name>
@@ -2633,7 +2633,7 @@
 			<BuildingMaterial Idx="9801" Name="Bool, solid operator">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>597476D0-B39E-4D39-A77A-F15DB8431293</guid>
+						<guid>EF3BBA69-4A32-4F6F-9BA6-77004A1B8093</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bool, solid operator</Name>
@@ -2663,7 +2663,7 @@
 			<BuildingMaterial Idx="9802" Name="Bool, opening space">
 				<OdbObj Mv="3" Sv="0">
 					<OdbRef>
-						<guid>88613425-F774-455D-8067-71AA73A15CEF</guid>
+						<guid>EFA37A9B-4EF8-4BE3-9356-EFE85BB1975C</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bool, opening space</Name>

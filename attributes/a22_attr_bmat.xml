@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Markup Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+			<BuildingMaterial Idx="1500" Name="= PREPARATORY &amp; GROUNDWORK =">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>35437B28-12D5-4B21-B825-6E67BC53D377</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= PREPARATORY &amp; GROUNDWORK =</Name>
+				<Index>1500</Index>
+				<Flags/>
+				<ModiTime>1539722013</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M15</ID>
+				<ConnPriority>4200</ConnPriority>
+				<CutFill>64</CutFill>
+				<CutFillPen>1</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>49</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0</ThermalConductivity>
+				<Density>0</Density>
+				<HeatCapacity>0</HeatCapacity>
+				<EmbodiedEnergy>0</EmbodiedEnergy>
+				<EmbodiedCarbon>0</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>ПОДГОТОВИТЕЛЬНЫЕ МАТЕРИАЛЫ</Description>
+				<ManuFacturer>PRE</ManuFacturer>
+				<CollisionDetection>false</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AIR GAPS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>10MM DOWNWARD CURRENT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1601" Name="Soil, clay">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>5C82EEFF-DA6B-4534-B2A6-C88D46E63733</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Soil, clay</Name>
+				<Index>1601</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M16</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>19</CutFill>
+				<CutFillPen>173</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>33</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.4</ThermalConductivity>
+				<Density>1900</Density>
+				<HeatCapacity>1400</HeatCapacity>
+				<EmbodiedEnergy>0.43</EmbodiedEnergy>
+				<EmbodiedCarbon>0.023</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Засыпка, Глина</Description>
+				<ManuFacturer>GCl</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CLAY SOIL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1602" Name="Soil, earth">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>DD3409FE-D6AB-4F15-A701-AE2B7032BFC8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Soil, earth</Name>
+				<Index>1602</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M16</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>38</CutFill>
+				<CutFillPen>173</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>30</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.7</ThermalConductivity>
+				<Density>900</Density>
+				<HeatCapacity>1850</HeatCapacity>
+				<EmbodiedEnergy>0.42</EmbodiedEnergy>
+				<EmbodiedCarbon>0.022</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Засыпка, Грунт</Description>
+				<ManuFacturer>GEa</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SOIL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1603" Name="Soil, landscaping">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F5756A97-27AC-4FA1-A20F-0976048391DB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Soil, landscaping</Name>
+				<Index>1603</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M16</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>38</CutFill>
+				<CutFillPen>173</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>95</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.4</ThermalConductivity>
+				<Density>900</Density>
+				<HeatCapacity>2400</HeatCapacity>
+				<EmbodiedEnergy>0.42</EmbodiedEnergy>
+				<EmbodiedCarbon>0.022</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Засыпка, Грунт ущільнений</Description>
+				<ManuFacturer>GGl</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>PEAT SOIL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1604" Name="Soil, natural granulars">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>31534FE9-35C1-4344-9878-B08837B5A662</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Soil, natural granulars</Name>
+				<Index>1604</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M16</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>68</CutFill>
+				<CutFillPen>178</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>112</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.4</ThermalConductivity>
+				<Density>2200</Density>
+				<HeatCapacity>1900</HeatCapacity>
+				<EmbodiedEnergy>0.083</EmbodiedEnergy>
+				<EmbodiedCarbon>0.005</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Засыпка, Гравій</Description>
+				<ManuFacturer>GGr</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GRAVEL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1605" Name="Soil, recycled granulars">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>2750D8D4-EF60-4FEC-AE0C-2E23AF286801</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Soil, recycled granulars</Name>
+				<Index>1605</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M16</ID>
+				<ConnPriority>4661</ConnPriority>
+				<CutFill>68</CutFill>
+				<CutFillPen>178</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>111</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.4</ThermalConductivity>
+				<Density>2200</Density>
+				<HeatCapacity>1900</HeatCapacity>
+				<EmbodiedEnergy>0.083</EmbodiedEnergy>
+				<EmbodiedCarbon>0.005</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Засыпка, Керамзіт</Description>
+				<ManuFacturer>GRz</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GRAVEL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1606" Name="Soil, sand">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>CDD8A07E-1B19-4B20-82ED-FE9C1072BFF0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Soil, sand</Name>
+				<Index>1606</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M16</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>8</CutFill>
+				<CutFillPen>180</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>37</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>2.3</ThermalConductivity>
+				<Density>2200</Density>
+				<HeatCapacity>1900</HeatCapacity>
+				<EmbodiedEnergy>0.081</EmbodiedEnergy>
+				<EmbodiedCarbon>0.005</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Засыпка, Пісок</Description>
+				<ManuFacturer>GSn</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SAND</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="1701" Name="Geo, cells &amp; composites">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>348D6A4F-9C22-44E4-88B8-87405068ADF0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Geo, cells &amp; composites</Name>
+				<Index>1701</Index>
+				<Flags/>
+				<ModiTime>1539722013</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M17</ID>
+				<ConnPriority>4459</ConnPriority>
+				<CutFill>130</CutFill>
+				<CutFillPen>166</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>45</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>110</ThermalConductivity>
+				<Density>7200</Density>
+				<HeatCapacity>380</HeatCapacity>
+				<EmbodiedEnergy>53.1</EmbodiedEnergy>
+				<EmbodiedCarbon>3.09</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Геосетки, геомембраны и геокомпозиты</Description>
+				<ManuFacturer>Geo</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ZINC</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2000" Name="= STRUCTURE &amp; GENERAL MATERIALS =">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>C16835B6-D8AB-4C0F-9B7E-8D8505396421</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= STRUCTURE &amp; GENERAL MATERIALS =</Name>
+				<Index>2000</Index>
+				<Flags/>
+				<ModiTime>1539722013</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M20</ID>
+				<ConnPriority>4200</ConnPriority>
+				<CutFill>64</CutFill>
+				<CutFillPen>1</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>49</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0</ThermalConductivity>
+				<Density>0</Density>
+				<HeatCapacity>0</HeatCapacity>
+				<EmbodiedEnergy>0</EmbodiedEnergy>
+				<EmbodiedCarbon>0</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>ОСНОВНЫЕ И КОНСТРУКТИВНЫЕ МАТЕРИАЛЫ</Description>
+				<ManuFacturer>STR</ManuFacturer>
+				<CollisionDetection>false</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AIR GAPS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>10MM DOWNWARD CURRENT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2101" Name="Bond, bitumen-based">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A4FD9814-B6CA-4C26-AEE7-AD778801921C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bond, bitumen-based</Name>
+				<Index>2101</Index>
+				<Flags/>
+				<ModiTime>1539719902</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M21</ID>
+				<ConnPriority>4903</ConnPriority>
+				<CutFill>7</CutFill>
+				<CutFillPen>81</CutFillPen>
+				<CutFillBackgroundPen>162</CutFillBackgroundPen>
+				<CutMaterial>3</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.17</ThermalConductivity>
+				<Density>1050</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>42</EmbodiedEnergy>
+				<EmbodiedCarbon>0.55</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Вяжущие, на битумной основе</Description>
+				<ManuFacturer>Btm</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BITUMEN</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>BITUMEN PURE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2103" Name="Bond, cement">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>76A7148F-A437-40AE-8B19-47DBE429047F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bond, cement</Name>
+				<Index>2103</Index>
+				<Flags/>
+				<ModiTime>1539721473</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M21</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>7</CutFill>
+				<CutFillPen>149</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>119</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1</ThermalConductivity>
+				<Density>1800</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.34</EmbodiedEnergy>
+				<EmbodiedCarbon>0.213</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Цементы и цементозаменители</Description>
+				<ManuFacturer>Cem</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CEMENT W/ SAND</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2107" Name="Bond, concrete">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>3D35B348-199C-41F6-926A-A2A244D3FB90</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bond, concrete</Name>
+				<Index>2107</Index>
+				<Flags/>
+				<ModiTime>1539722013</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M21</ID>
+				<ConnPriority>5508</ConnPriority>
+				<CutFill>28</CutFill>
+				<CutFillPen>170</CutFillPen>
+				<CutFillBackgroundPen>119</CutFillBackgroundPen>
+				<CutMaterial>53</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.7</ThermalConductivity>
+				<Density>2300</Density>
+				<HeatCapacity>800</HeatCapacity>
+				<EmbodiedEnergy>0.88</EmbodiedEnergy>
+				<EmbodiedCarbon>0.132</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Бетон, монолитный</Description>
+				<ManuFacturer>CoS</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CONCRETE 4</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2108" Name="Bond, concrete reinforced">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>92F83DBD-9568-4C1A-8E51-D8D431618DE4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bond, concrete reinforced</Name>
+				<Index>2108</Index>
+				<Flags/>
+				<ModiTime>1539726353</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M21</ID>
+				<ConnPriority>5588</ConnPriority>
+				<CutFill>27</CutFill>
+				<CutFillPen>150</CutFillPen>
+				<CutFillBackgroundPen>59</CutFillBackgroundPen>
+				<CutMaterial>53</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>2.3</ThermalConductivity>
+				<Density>2300</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.92</EmbodiedEnergy>
+				<EmbodiedCarbon>0.198</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Бетон, монолитный, армированый (жб)</Description>
+				<ManuFacturer>CoR</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>REINFORCED CONCRETE W/ 1% STEEL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2201" Name="Precast, concrete">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>3795F631-69C9-4B4C-8283-DA5F581E4C32</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Precast, concrete</Name>
+				<Index>2201</Index>
+				<Flags/>
+				<ModiTime>1539722013</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M22</ID>
+				<ConnPriority>5669</ConnPriority>
+				<CutFill>26</CutFill>
+				<CutFillPen>169</CutFillPen>
+				<CutFillBackgroundPen>119</CutFillBackgroundPen>
+				<CutMaterial>53</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.7</ThermalConductivity>
+				<Density>2300</Density>
+				<HeatCapacity>800</HeatCapacity>
+				<EmbodiedEnergy>0.88</EmbodiedEnergy>
+				<EmbodiedCarbon>0.132</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Сборные бетонные конструкции</Description>
+				<ManuFacturer>CoP</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CONCRETE 4</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2202" Name="Precast, concrete reinforced">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>CA90540B-1DF4-4C80-8571-09D5314B724A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Precast, concrete reinforced</Name>
+				<Index>2202</Index>
+				<Flags/>
+				<ModiTime>1539722013</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M22</ID>
+				<ConnPriority>5750</ConnPriority>
+				<CutFill>25</CutFill>
+				<CutFillPen>170</CutFillPen>
+				<CutFillBackgroundPen>59</CutFillBackgroundPen>
+				<CutMaterial>53</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>2.5</ThermalConductivity>
+				<Density>2400</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>2.33</EmbodiedEnergy>
+				<EmbodiedCarbon>0.242</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Сборные жб конструкции</Description>
+				<ManuFacturer>CrP</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>REINFORCED CONCRETE W/ 2% STEEL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2301" Name="Structure Metal">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>C5BFCD31-C1AE-49AF-9436-36CB0D40E6B7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Structure Metal</Name>
+				<Index>2301</Index>
+				<Flags/>
+				<ModiTime>1539726319</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M23</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>22</CutFill>
+				<CutFillPen>146</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>126</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>17</ThermalConductivity>
+				<Density>7900</Density>
+				<HeatCapacity>460</HeatCapacity>
+				<EmbodiedEnergy>56.7</EmbodiedEnergy>
+				<EmbodiedCarbon>6.15</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Металл</Description>
+				<ManuFacturer>Met</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>STAINLESS STEEL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2302" Name="Structure Plastic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B1DD99DC-DCF6-4DC0-9E38-3914939B4EB8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Structure Plastic</Name>
+				<Index>2302</Index>
+				<Flags/>
+				<ModiTime>1539726319</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M23</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>22</CutFill>
+				<CutFillPen>151</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>121</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.25</ThermalConductivity>
+				<Density>2200</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>86.4</EmbodiedEnergy>
+				<EmbodiedCarbon>3.43</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Пластмассы</Description>
+				<ManuFacturer>Pla</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SOLID PLASTICS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>PTFE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2303" Name="Structure Timber">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>77245976-0E92-4EC6-ADDB-34F949CEE5A2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Structure Timber</Name>
+				<Index>2303</Index>
+				<Flags/>
+				<ModiTime>1539726319</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M23</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>19</CutFill>
+				<CutFillPen>155</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>52</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.18</ThermalConductivity>
+				<Density>700</Density>
+				<HeatCapacity>1600</HeatCapacity>
+				<EmbodiedEnergy>12.1</EmbodiedEnergy>
+				<EmbodiedCarbon>0.39</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Дерево</Description>
+				<ManuFacturer>Tim</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>TIMBER 4</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2401" Name="Blocks, glass">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B9F488F5-119D-4F95-8C73-36158AEC184A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Blocks, glass</Name>
+				<Index>2401</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>31</CutFill>
+				<CutFillPen>165</CutFillPen>
+				<CutFillBackgroundPen>99</CutFillBackgroundPen>
+				<CutMaterial>29</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.039</ThermalConductivity>
+				<Density>130</Density>
+				<HeatCapacity>800</HeatCapacity>
+				<EmbodiedEnergy>28</EmbodiedEnergy>
+				<EmbodiedCarbon>1.54</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Блоки стеклянные</Description>
+				<ManuFacturer>BGl</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>GLASS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CELLGLASS</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2402" Name="Blocks, concrete aerated">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>BB8BBF4C-6D0E-4524-80D5-EBB7D9EE59E4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Blocks, concrete aerated</Name>
+				<Index>2402</Index>
+				<Flags/>
+				<ModiTime>1539724045</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5266</ConnPriority>
+				<CutFill>7</CutFill>
+				<CutFillPen>163</CutFillPen>
+				<CutFillBackgroundPen>39</CutFillBackgroundPen>
+				<CutMaterial>132</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.13</ThermalConductivity>
+				<Density>550</Density>
+				<HeatCapacity>920</HeatCapacity>
+				<EmbodiedEnergy>0.63</EmbodiedEnergy>
+				<EmbodiedCarbon>0.07</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Газобетонные блоки</Description>
+				<ManuFacturer>BCa</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AERATED CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GASCONCRETE 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2403" Name="Blocks, concrete">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>1EA4BDAB-9CF5-4806-9E7D-DE82AFA25034</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Blocks, concrete</Name>
+				<Index>2403</Index>
+				<Flags/>
+				<ModiTime>1539723431</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5185</ConnPriority>
+				<CutFill>4</CutFill>
+				<CutFillPen>163</CutFillPen>
+				<CutFillBackgroundPen>79</CutFillBackgroundPen>
+				<CutMaterial>132</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.6</ThermalConductivity>
+				<Density>1400</Density>
+				<HeatCapacity>880</HeatCapacity>
+				<EmbodiedEnergy>0.72</EmbodiedEnergy>
+				<EmbodiedCarbon>0.088</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Блоки бетонные</Description>
+				<ManuFacturer>BCo</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CONCRETE BLOCK</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2406" Name="Blocks, ceramic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>8880A7C3-796B-40DA-BF3D-ED6F5AE51C9E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Blocks, ceramic</Name>
+				<Index>2406</Index>
+				<Flags/>
+				<ModiTime>1539724045</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5266</ConnPriority>
+				<CutFill>29</CutFill>
+				<CutFillPen>163</CutFillPen>
+				<CutFillBackgroundPen>39</CutFillBackgroundPen>
+				<CutMaterial>80</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.6</ThermalConductivity>
+				<Density>1500</Density>
+				<HeatCapacity>840</HeatCapacity>
+				<EmbodiedEnergy>3</EmbodiedEnergy>
+				<EmbodiedCarbon>0.24</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Блоки керамические</Description>
+				<ManuFacturer>BCe</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BURNT CLAY</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SOLID BRICK 2</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2407" Name="Blocks, gypsum">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>1EAE059A-CB0B-4EB4-9440-29FDF0094B00</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Blocks, gypsum</Name>
+				<Index>2407</Index>
+				<Flags/>
+				<ModiTime>1539724045</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5185</ConnPriority>
+				<CutFill>9</CutFill>
+				<CutFillPen>163</CutFillPen>
+				<CutFillBackgroundPen>99</CutFillBackgroundPen>
+				<CutMaterial>117</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.56</ThermalConductivity>
+				<Density>1500</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>2.3</EmbodiedEnergy>
+				<EmbodiedCarbon>0.16</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Блоки гипсовые</Description>
+				<ManuFacturer>BGy</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>GYPSUM</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM 4</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2409" Name="Brick, solid">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>0B6E8CF7-4B6E-4373-AC91-B3F1C20E73B1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Brick, solid</Name>
+				<Index>2409</Index>
+				<Flags/>
+				<ModiTime>1539724045</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5105</ConnPriority>
+				<CutFill>1</CutFill>
+				<CutFillPen>168</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>35</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.324</ThermalConductivity>
+				<Density>940</Density>
+				<HeatCapacity>920</HeatCapacity>
+				<EmbodiedEnergy>4.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.36</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Полнотелый кирпич</Description>
+				<ManuFacturer>BrS</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BURNT CLAY</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>BURNT CLAY BLOCK TO BE INSULATED STRONG</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2410" Name="Brick, hollow">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>1348591B-4172-46F5-98C6-E7A9D7184AD0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Brick, hollow</Name>
+				<Index>2410</Index>
+				<Flags/>
+				<ModiTime>1539724045</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5105</ConnPriority>
+				<CutFill>11</CutFill>
+				<CutFillPen>168</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>1</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.148</ThermalConductivity>
+				<Density>694</Density>
+				<HeatCapacity>920</HeatCapacity>
+				<EmbodiedEnergy>6</EmbodiedEnergy>
+				<EmbodiedCarbon>0.48</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Пустотелый кирпич</Description>
+				<ManuFacturer>BrH</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BURNT CLAY</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>BURNT CLAY BLOCK MEDIUM STRENGTH 2</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2411" Name="Brick, faced">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A5DE02B0-54FC-44CD-AC1C-AE67710BE21D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Brick, faced</Name>
+				<Index>2411</Index>
+				<Flags/>
+				<ModiTime>1539724045</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M24</ID>
+				<ConnPriority>5024</ConnPriority>
+				<CutFill>12</CutFill>
+				<CutFillPen>168</CutFillPen>
+				<CutFillBackgroundPen>59</CutFillBackgroundPen>
+				<CutMaterial>56</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.109</ThermalConductivity>
+				<Density>600</Density>
+				<HeatCapacity>920</HeatCapacity>
+				<EmbodiedEnergy>6</EmbodiedEnergy>
+				<EmbodiedCarbon>0.48</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Облицовочный кирпич</Description>
+				<ManuFacturer>BrF</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BURNT CLAY</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>BURNT CLAY BLOCK LIMITED STRENGTH 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2500" Name="= SKIN &amp; COMPONENT MATERIALS =">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>85A214A5-288D-4444-A0EE-C5EC58BA3859</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= SKIN &amp; COMPONENT MATERIALS =</Name>
+				<Index>2500</Index>
+				<Flags/>
+				<ModiTime>1539775240</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M25</ID>
+				<ConnPriority>4200</ConnPriority>
+				<CutFill>64</CutFill>
+				<CutFillPen>1</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>49</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0</ThermalConductivity>
+				<Density>0</Density>
+				<HeatCapacity>0</HeatCapacity>
+				<EmbodiedEnergy>0</EmbodiedEnergy>
+				<EmbodiedCarbon>0</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>МАТЕРИАЛЫ ДЛЯ NON-CORE СЛОЕВ</Description>
+				<ManuFacturer>SKN</ManuFacturer>
+				<CollisionDetection>false</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AIR GAPS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>10MM DOWNWARD CURRENT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2601" Name="Foam, in-situ insulation">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>DEF24AC6-99A7-4935-A38F-5BC6A5789C16</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Foam, in-situ insulation</Name>
+				<Index>2601</Index>
+				<Flags/>
+				<ModiTime>1539725312</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M26</ID>
+				<ConnPriority>4540</ConnPriority>
+				<CutFill>8</CutFill>
+				<CutFillPen>180</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>55</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.12</ThermalConductivity>
+				<Density>750</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>88</EmbodiedEnergy>
+				<EmbodiedCarbon>2.96</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Пены монтажные, изоляционные</Description>
+				<ManuFacturer>Fms</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SEALANTS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SILICONE FOAM</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2701" Name="Infill, loose insulation">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>52841542-C8E5-4DD9-8F72-17449A7B55B0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Infill, loose insulation</Name>
+				<Index>2701</Index>
+				<Flags/>
+				<ModiTime>1539780243</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M27</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>105</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>73</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.08</ThermalConductivity>
+				<Density>175</Density>
+				<HeatCapacity>1800</HeatCapacity>
+				<EmbodiedEnergy>4</EmbodiedEnergy>
+				<EmbodiedCarbon>0.19</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Заполнители изоляционные и пр.</Description>
+				<ManuFacturer>Inf</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CORK</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2801" Name="Skin, batt &amp; fibrous">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>C574386D-C682-4463-A50B-6AF4487A8A57</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, batt &amp; fibrous</Name>
+				<Index>2801</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>18</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>74</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.04</ThermalConductivity>
+				<Density>27</Density>
+				<HeatCapacity>2500</HeatCapacity>
+				<EmbodiedEnergy>14.7</EmbodiedEnergy>
+				<EmbodiedCarbon>1.12</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Волокнистые</Description>
+				<ManuFacturer>SFb</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-MINERAL WOOL</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ECOFIBER</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2803" Name="Skin, mineral wool flexible">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>EFAB276F-57C4-4BA5-A37D-D36BC1FBDE74</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, mineral wool flexible</Name>
+				<Index>2803</Index>
+				<Flags/>
+				<ModiTime>1539725312</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>18</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>73</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.037</ThermalConductivity>
+				<Density>40</Density>
+				<HeatCapacity>840</HeatCapacity>
+				<EmbodiedEnergy>14.3</EmbodiedEnergy>
+				<EmbodiedCarbon>1.08</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Минеральная вата</Description>
+				<ManuFacturer>MWS</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-MINERAL WOOL</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>MINERAL WOOL SOFT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2804" Name="Skin, bitumen &amp; pitch sheets">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>FB0DA460-1640-4B63-A0B6-C56575BDA21A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, bitumen &amp; pitch sheets</Name>
+				<Index>2804</Index>
+				<Flags/>
+				<ModiTime>1539726319</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>135</CutFill>
+				<CutFillPen>162</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>3</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.23</ThermalConductivity>
+				<Density>1100</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>2.86</EmbodiedEnergy>
+				<EmbodiedCarbon>0.066</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Листы на основе битума, смолы</Description>
+				<ManuFacturer>B&amp;P</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BITUMEN</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>BITUMINOUS SHEET</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2808" Name="Skin, netting">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>1CFDF3B1-6EDD-45BF-A3B3-FEBD170F3847</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, netting</Name>
+				<Index>2808</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>31</CutFill>
+				<CutFillPen>146</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>110</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>35</ThermalConductivity>
+				<Density>11300</Density>
+				<HeatCapacity>130</HeatCapacity>
+				<EmbodiedEnergy>25.21</EmbodiedEnergy>
+				<EmbodiedCarbon>1.67</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Сетки</Description>
+				<ManuFacturer>SNe</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>LEAD</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2809" Name="Skin, plastic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>AB1584F2-C84B-44BB-9048-B4127B30C5E7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, plastic</Name>
+				<Index>2809</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>22</CutFill>
+				<CutFillPen>171</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>120</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.17</ThermalConductivity>
+				<Density>1390</Density>
+				<HeatCapacity>900</HeatCapacity>
+				<EmbodiedEnergy>77.2</EmbodiedEnergy>
+				<EmbodiedCarbon>3.1</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Изделия из пластика</Description>
+				<ManuFacturer>SPl</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SOLID PLASTICS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>PVC</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2811" Name="Skin, polymer">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B06ACCD1-AA94-4A4C-8350-8E39A03BB9A6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, polymer</Name>
+				<Index>2811</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>171</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>71</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.19</ThermalConductivity>
+				<Density>1400</Density>
+				<HeatCapacity>1200</HeatCapacity>
+				<EmbodiedEnergy>103.83</EmbodiedEnergy>
+				<EmbodiedCarbon>7.5</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Полимерные материалы</Description>
+				<ManuFacturer>SPo</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SOLID PLASTICS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>POLYESTER RESIN</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2812" Name="Skin, synthetic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>08B3D198-EBCE-4FA2-B7AD-5A489CB330C3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Skin, synthetic</Name>
+				<Index>2812</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M28</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>78</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>70</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.25</ThermalConductivity>
+				<Density>1150</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>90</EmbodiedEnergy>
+				<EmbodiedCarbon>2.8</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Синтетические материалы</Description>
+				<ManuFacturer>SSy</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>RUBBERS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>EPDM</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2901" Name="Board, cellular glass">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>32A2870F-FB64-4928-A24A-0543E2D7A74A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Board, cellular glass</Name>
+				<Index>2901</Index>
+				<Flags/>
+				<ModiTime>1539727007</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M29</ID>
+				<ConnPriority>5024</ConnPriority>
+				<CutFill>18</CutFill>
+				<CutFillPen>180</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>129</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.038</ThermalConductivity>
+				<Density>14.5</Density>
+				<HeatCapacity>1030</HeatCapacity>
+				<EmbodiedEnergy>25</EmbodiedEnergy>
+				<EmbodiedCarbon>1.25</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Пеностекло</Description>
+				<ManuFacturer>CeG</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-GLASS WOOL</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ROOF GLASS WOOL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2902" Name="Board, mineral wool hard">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>423C6391-93EE-4587-8775-AE5D731FDB21</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Board, mineral wool hard</Name>
+				<Index>2902</Index>
+				<Flags/>
+				<ModiTime>1539727007</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M29</ID>
+				<ConnPriority>5105</ConnPriority>
+				<CutFill>18</CutFill>
+				<CutFillPen>154</CutFillPen>
+				<CutFillBackgroundPen>39</CutFillBackgroundPen>
+				<CutMaterial>73</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.037</ThermalConductivity>
+				<Density>40</Density>
+				<HeatCapacity>840</HeatCapacity>
+				<EmbodiedEnergy>14.3</EmbodiedEnergy>
+				<EmbodiedCarbon>1.08</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Минвата, жесткая</Description>
+				<ManuFacturer>MWH</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-MINERAL WOOL</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>MINERAL WOOL SOFT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2903" Name="Board, EPS">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>838DEAEB-D777-46D0-8CA6-9E9BDF922B01</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Board, EPS</Name>
+				<Index>2903</Index>
+				<Flags/>
+				<ModiTime>1539727007</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M29</ID>
+				<ConnPriority>5064</ConnPriority>
+				<CutFill>105</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>130</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.042</ThermalConductivity>
+				<Density>15</Density>
+				<HeatCapacity>1450</HeatCapacity>
+				<EmbodiedEnergy>76</EmbodiedEnergy>
+				<EmbodiedCarbon>3.18</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Изоляция, ППС</Description>
+				<ManuFacturer>EPS</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-PLASTIC FOAM</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>EPS 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="2906" Name="Board, XPS">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>FCD06074-3E92-450F-B293-C0F25565E706</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Board, XPS</Name>
+				<Index>2906</Index>
+				<Flags/>
+				<ModiTime>1539727007</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M29</ID>
+				<ConnPriority>5105</ConnPriority>
+				<CutFill>18</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>39</CutFillBackgroundPen>
+				<CutMaterial>130</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.037</ThermalConductivity>
+				<Density>40</Density>
+				<HeatCapacity>840</HeatCapacity>
+				<EmbodiedEnergy>14.3</EmbodiedEnergy>
+				<EmbodiedCarbon>1.08</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Минеральная вата</Description>
+				<ManuFacturer>MWS</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-MINERAL WOOL</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>MINERAL WOOL SOFT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3001" Name="Panel, composite">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>CAAB54EB-C2F1-4BA4-A7B3-AFCE40E801F1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, composite</Name>
+				<Index>3001</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>31</CutFill>
+				<CutFillPen>78</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>66</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.43</ThermalConductivity>
+				<Density>1200</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.8</EmbodiedEnergy>
+				<EmbodiedCarbon>0.13</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели композитные</Description>
+				<ManuFacturer>PCm</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>GYPSUM</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM 3</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3002" Name="Panel, gypsum">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>884D4E22-BFFF-4BFF-A331-60E463FAE135</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, gypsum</Name>
+				<Index>3002</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>9</CutFill>
+				<CutFillPen>177</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>117</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.25</ThermalConductivity>
+				<Density>900</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>6.75</EmbodiedEnergy>
+				<EmbodiedCarbon>0.39</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели, гипсовые/гипсокартонные</Description>
+				<ManuFacturer>PGy</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>GYPSUM</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM PLASTERBOARD</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3003" Name="Panel, metallic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F1365DD6-D636-4ECC-A89C-1E153DC848F3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, metallic</Name>
+				<Index>3003</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>12</CutFill>
+				<CutFillPen>146</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>100</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>160</ThermalConductivity>
+				<Density>2800</Density>
+				<HeatCapacity>880</HeatCapacity>
+				<EmbodiedEnergy>155</EmbodiedEnergy>
+				<EmbodiedCarbon>9.16</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели, металлические</Description>
+				<ManuFacturer>PMe</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ALUMINUM</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3004" Name="Panel, plastic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>55B88188-CE50-4AA1-A7B3-46CCC60F1CDD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, plastic</Name>
+				<Index>3004</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>171</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>20</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.17</ThermalConductivity>
+				<Density>1390</Density>
+				<HeatCapacity>900</HeatCapacity>
+				<EmbodiedEnergy>77.2</EmbodiedEnergy>
+				<EmbodiedCarbon>3.1</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели, пластик</Description>
+				<ManuFacturer>PPl</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SOLID PLASTICS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>PVC</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3005" Name="Panel, plywood">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F4C29F72-CAB1-43D0-9C9F-AE83BA8753D9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, plywood</Name>
+				<Index>3005</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>108</CutFill>
+				<CutFillPen>175</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>73</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.13</ThermalConductivity>
+				<Density>500</Density>
+				<HeatCapacity>1600</HeatCapacity>
+				<EmbodiedEnergy>13.1</EmbodiedEnergy>
+				<EmbodiedCarbon>0.64</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели, фанера</Description>
+				<ManuFacturer>PPw</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>PLYWOOD 2</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3006" Name="Panel, polymer">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>03B0F4EF-6EAA-4EA6-8EFE-70B83902BB2E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, polymer</Name>
+				<Index>3006</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>171</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>70</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.4</ThermalConductivity>
+				<Density>1700</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>135</EmbodiedEnergy>
+				<EmbodiedCarbon>5</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели, полимер</Description>
+				<ManuFacturer>PPo</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>RUBBERS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>POLYSULFIDE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3007" Name="Panel, timber">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>9BB68690-9818-47C8-9F5F-3A44FC2FB022</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panel, timber</Name>
+				<Index>3007</Index>
+				<Flags/>
+				<ModiTime>1539781310</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M30</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>107</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>52</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.13</ThermalConductivity>
+				<Density>500</Density>
+				<HeatCapacity>2500</HeatCapacity>
+				<EmbodiedEnergy>7.11</EmbodiedEnergy>
+				<EmbodiedCarbon>0.32</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Панели, деревянные</Description>
+				<ManuFacturer>PTm</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>TIMBER 2</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3500" Name="= COVERING &amp; FINISHING MATERIALS =">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>73889979-DEBB-4CC4-87B5-4108256279BA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= COVERING &amp; FINISHING MATERIALS =</Name>
+				<Index>3500</Index>
+				<Flags/>
+				<ModiTime>1539729228</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M35</ID>
+				<ConnPriority>4200</ConnPriority>
+				<CutFill>64</CutFill>
+				<CutFillPen>1</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>49</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0</ThermalConductivity>
+				<Density>0</Density>
+				<HeatCapacity>0</HeatCapacity>
+				<EmbodiedEnergy>0</EmbodiedEnergy>
+				<EmbodiedCarbon>0</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>ПОКРЫТИЯ, ОТДЕЛКА</Description>
+				<ManuFacturer>FIN</ManuFacturer>
+				<CollisionDetection>false</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AIR GAPS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>10MM DOWNWARD CURRENT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3601" Name="Coat, primer/sealer">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>E09EBDC3-F442-4651-83EA-306BAEF48641</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Coat, primer/sealer</Name>
+				<Index>3601</Index>
+				<Flags/>
+				<ModiTime>1539731497</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M36</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>157</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>100</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.13</ThermalConductivity>
+				<Density>720</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>70</EmbodiedEnergy>
+				<EmbodiedCarbon>2.76</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Грунтовка/шпатлевка</Description>
+				<ManuFacturer>Cps</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SEALANTS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SILICA GEL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3602" Name="Coat, protective">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>11F9760B-1547-4A42-8447-AD8B481FFC64</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Coat, protective</Name>
+				<Index>3602</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M36</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>176</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>70</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.23</ThermalConductivity>
+				<Density>1240</Density>
+				<HeatCapacity>2.14</HeatCapacity>
+				<EmbodiedEnergy>115</EmbodiedEnergy>
+				<EmbodiedCarbon>4</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Защитные покрытия</Description>
+				<ManuFacturer>CPt</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>RUBBERS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>NEOPRENE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3701" Name="Cover, carpet">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>783BEF0E-BF5D-46CD-851A-4C64BE9B917D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Cover, carpet</Name>
+				<Index>3701</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M37</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>5</CutFill>
+				<CutFillPen>160</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>27</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.06</ThermalConductivity>
+				<Density>200</Density>
+				<HeatCapacity>1300</HeatCapacity>
+				<EmbodiedEnergy>74</EmbodiedEnergy>
+				<EmbodiedCarbon>3.9</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Ковровые покрытия</Description>
+				<ManuFacturer>CCp</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CARPET</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3702" Name="Cover, paper &amp; rolls">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>C996C626-ED6A-47D9-A563-736FA82AB2BC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Cover, paper &amp; rolls</Name>
+				<Index>3702</Index>
+				<Flags/>
+				<ModiTime>1539731497</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M37</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>180</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>128</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.1</ThermalConductivity>
+				<Density>270</Density>
+				<HeatCapacity>1400</HeatCapacity>
+				<EmbodiedEnergy>91</EmbodiedEnergy>
+				<EmbodiedCarbon>2.85</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Бумажные, рулонные покрытия</Description>
+				<ManuFacturer>Cpr</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CELLULAR RUBBER UNDERLAY</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3703" Name="Cover, textile">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F1118F27-B8CF-4655-ACD9-6CEC57C983A5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Cover, textile</Name>
+				<Index>3703</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M37</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>134</CutFill>
+				<CutFillPen>160</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>26</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.17</ThermalConductivity>
+				<Density>1200</Density>
+				<HeatCapacity>1400</HeatCapacity>
+				<EmbodiedEnergy>25</EmbodiedEnergy>
+				<EmbodiedCarbon>1.21</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Текстиль</Description>
+				<ManuFacturer>CTx</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>LINOLEUM</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3801" Name="Finish, paints">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>01796EEA-D108-47DD-A5FC-42F0E17ABA4F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Finish, paints</Name>
+				<Index>3801</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M38</ID>
+				<ConnPriority>4540</ConnPriority>
+				<CutFill>15</CutFill>
+				<CutFillPen>60</CutFillPen>
+				<CutFillBackgroundPen>59</CutFillBackgroundPen>
+				<CutMaterial>71</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.25</ThermalConductivity>
+				<Density>900</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>6.75</EmbodiedEnergy>
+				<EmbodiedCarbon>0.39</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Отделка, покраска</Description>
+				<ManuFacturer>FPa</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>GYPSUM</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM PLASTERBOARD</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3802" Name="Finish, plaster">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>AFCC73FD-04B2-483F-B2F0-6243DB867CA5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Finish, plaster</Name>
+				<Index>3802</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M38</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>8</CutFill>
+				<CutFillPen>176</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>2</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.18</ThermalConductivity>
+				<Density>600</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>8</EmbodiedEnergy>
+				<EmbodiedCarbon>1.2</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Тиньк, внутренний</Description>
+				<ManuFacturer>PsI</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM INSULATING PLASTER</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3803" Name="Finish, render">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>78C2C069-6785-4A23-889E-1651BF1BF479</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Finish, render</Name>
+				<Index>3803</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M38</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>9</CutFill>
+				<CutFillPen>176</CutFillPen>
+				<CutFillBackgroundPen>99</CutFillBackgroundPen>
+				<CutMaterial>81</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.8</ThermalConductivity>
+				<Density>1600</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.45</EmbodiedEnergy>
+				<EmbodiedCarbon>0.22</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Тиньк, наружный</Description>
+				<ManuFacturer>PsE</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>LIME W/ SAND</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3804" Name="Finish, render mosaic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>347711A9-E31B-4949-8F8F-238A1566AF99</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Finish, render mosaic</Name>
+				<Index>3804</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M38</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>8</CutFill>
+				<CutFillPen>176</CutFillPen>
+				<CutFillBackgroundPen>119</CutFillBackgroundPen>
+				<CutMaterial>119</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.57</ThermalConductivity>
+				<Density>1300</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.8</EmbodiedEnergy>
+				<EmbodiedCarbon>0.13</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Тиньк, наружный мозаичный</Description>
+				<ManuFacturer>PsM</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM PLASTER 2</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="3902" Name="Paving, grade bitumens">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>FD55754B-B92A-46C6-85FE-A1D3706A16E8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Paving, grade bitumens</Name>
+				<Index>3902</Index>
+				<Flags/>
+				<ModiTime>1539780243</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M39</ID>
+				<ConnPriority>5105</ConnPriority>
+				<CutFill>3</CutFill>
+				<CutFillPen>161</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>102</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.7</ThermalConductivity>
+				<Density>2100</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>3.93</EmbodiedEnergy>
+				<EmbodiedCarbon>0.076</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Битумы для дорожного покрытия</Description>
+				<ManuFacturer>Pgb</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ASPHALT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ASPHALT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4001" Name="Tile, cast stone">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A1925053-40C9-468F-800F-56B1B9972B3B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, cast stone</Name>
+				<Index>4001</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>178</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>5</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.3</ThermalConductivity>
+				<Density>1750</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.18</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, литой камень</Description>
+				<ManuFacturer>TCs</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>STONES</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ARTIFICIAL STONE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4002" Name="Tile, ceramic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>4C9ED310-A0B8-4FA1-8B24-A50EA1DAC909</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, ceramic</Name>
+				<Index>4002</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>10</CutFill>
+				<CutFillPen>164</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>104</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.5</ThermalConductivity>
+				<Density>2000</Density>
+				<HeatCapacity>900</HeatCapacity>
+				<EmbodiedEnergy>6.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.48</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, керамическая</Description>
+				<ManuFacturer>TCe</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CLAY FLOOR TILE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4003" Name="Tile, concrete">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>12BB56D7-514A-4203-B8E6-9C9F26905EED</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, concrete</Name>
+				<Index>4003</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>169</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>113</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.35</ThermalConductivity>
+				<Density>2000</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>0.78</EmbodiedEnergy>
+				<EmbodiedCarbon>0.113</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, бетонная</Description>
+				<ManuFacturer>TCo</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CONCRETE 2</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4004" Name="Tile, metal">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>4FC9A6F0-67ED-4A28-BA89-FAB42DEAC503</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, metal</Name>
+				<Index>4004</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>11</CutFill>
+				<CutFillPen>166</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>45</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>50</ThermalConductivity>
+				<Density>7500</Density>
+				<HeatCapacity>450</HeatCapacity>
+				<EmbodiedEnergy>25</EmbodiedEnergy>
+				<EmbodiedCarbon>1.21</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, металлическая</Description>
+				<ManuFacturer>TMe</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CAST IRON</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4005" Name="Tile, mosaic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>D51E88C2-0FC3-4326-BDBB-E074948E66C8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, mosaic</Name>
+				<Index>4005</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>10</CutFill>
+				<CutFillPen>164</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>115</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.5</ThermalConductivity>
+				<Density>2000</Density>
+				<HeatCapacity>900</HeatCapacity>
+				<EmbodiedEnergy>6.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.48</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, мелкая мозаическая</Description>
+				<ManuFacturer>TMo</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CLAY FLOOR TILE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4006" Name="Tile, quarry">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>CAB2134F-98E2-439B-9D6A-B553CC425D07</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, quarry</Name>
+				<Index>4006</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>164</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>7</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.55</ThermalConductivity>
+				<Density>1600</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1</EmbodiedEnergy>
+				<EmbodiedCarbon>0.06</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>unglazed floor tile, reddish-brown color</Description>
+				<ManuFacturer>TQr</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>STONES</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>POROUS ROCK</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4007" Name="Tile, stone">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>8AD5C4DB-B4D9-41E2-B10B-4F8E0B42125E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, stone</Name>
+				<Index>4007</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>164</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>7</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>2.8</ThermalConductivity>
+				<Density>2600</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>10.2</EmbodiedEnergy>
+				<EmbodiedCarbon>0.63</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, каменная</Description>
+				<ManuFacturer>TSt</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>STONES</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GRANITE 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4008" Name="Tile, terazzo">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>4D1D97B5-5D0C-448C-9535-F2D76E69DAE9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Tile, terazzo</Name>
+				<Index>4008</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M40</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>158</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>112</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>3.5</ThermalConductivity>
+				<Density>2800</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>2</EmbodiedEnergy>
+				<EmbodiedCarbon>0.13</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, терраццо</Description>
+				<ManuFacturer>TTz</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>STONES</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>MARBLE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4101" Name="Unit, wooden blocks">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>7B276C71-4BAE-43A2-BE79-E1BA19FE89A4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Unit, wooden blocks</Name>
+				<Index>4101</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M41</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>110</CutFill>
+				<CutFillPen>155</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>52</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.13</ThermalConductivity>
+				<Density>500</Density>
+				<HeatCapacity>1600</HeatCapacity>
+				<EmbodiedEnergy>6.95</EmbodiedEnergy>
+				<EmbodiedCarbon>0.29</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Доски</Description>
+				<ManuFacturer>UWb</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>TIMBER 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="4102" Name="Unit, wooden mosaics">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F7460815-6513-46B2-9970-ED5525C281D6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Unit, wooden mosaics</Name>
+				<Index>4102</Index>
+				<Flags/>
+				<ModiTime>1539781687</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M41</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>4</CutFill>
+				<CutFillPen>164</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>52</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.07</ThermalConductivity>
+				<Density>250</Density>
+				<HeatCapacity>1700</HeatCapacity>
+				<EmbodiedEnergy>9.2</EmbodiedEnergy>
+				<EmbodiedCarbon>0.64</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Паркет, деревянные мозаики</Description>
+				<ManuFacturer>UWm</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>MDF BOARD 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9500" Name="= ENVIRONMENT, BASIC &amp; SPECIAL =">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>C326E157-7D8E-41F0-B1E8-0500C4938D08</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= ENVIRONMENT, BASIC &amp; SPECIAL =</Name>
+				<Index>9500</Index>
+				<Flags/>
+				<ModiTime>1539775285</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M95</ID>
+				<ConnPriority>4200</ConnPriority>
+				<CutFill>64</CutFill>
+				<CutFillPen>1</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>49</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0</ThermalConductivity>
+				<Density>0</Density>
+				<HeatCapacity>0</HeatCapacity>
+				<EmbodiedEnergy>0</EmbodiedEnergy>
+				<EmbodiedCarbon>0</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>СРЕДА, ОБЩИЕ И СПЕЦ. МАТЕРИАЛЫ</Description>
+				<ManuFacturer>SPC</ManuFacturer>
+				<CollisionDetection>false</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AIR GAPS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>10MM DOWNWARD CURRENT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9602" Name="Basic, Air Space">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F30B6F44-FB60-4D9C-909E-B9445FCAB52A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, Air Space</Name>
+				<Index>9602</Index>
+				<Flags/>
+				<ModiTime>1539775916</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M96</ID>
+				<ConnPriority>4200</ConnPriority>
+				<CutFill>16</CutFill>
+				<CutFillPen>159</CutFillPen>
+				<CutFillBackgroundPen>0</CutFillBackgroundPen>
+				<CutMaterial>131</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.22</ThermalConductivity>
+				<Density>1.2</Density>
+				<HeatCapacity>1008</HeatCapacity>
+				<EmbodiedEnergy>0</EmbodiedEnergy>
+				<EmbodiedCarbon>0</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Воздушное пространство</Description>
+				<ManuFacturer>Air</ManuFacturer>
+				<CollisionDetection>false</CollisionDetection>
+				<MaterialGroupNameFromCatalog>AIR GAPS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>100MM DOWNWARD CURRENT</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9603" Name="Basic, Water">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A6A8992E-E83C-4A78-906C-7FD1273DD08B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, Water</Name>
+				<Index>9603</Index>
+				<Flags/>
+				<ModiTime>1539775916</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M96</ID>
+				<ConnPriority>4379</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>159</CutFillPen>
+				<CutFillBackgroundPen>0</CutFillBackgroundPen>
+				<CutMaterial>29</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.6</ThermalConductivity>
+				<Density>1000</Density>
+				<HeatCapacity>4200</HeatCapacity>
+				<EmbodiedEnergy>0.01</EmbodiedEnergy>
+				<EmbodiedCarbon>0.001</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Вода</Description>
+				<ManuFacturer>Wat</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>WATER</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9701" Name="Basic, common">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>231A4895-FC13-4C18-AFD9-D828238C6919</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, common</Name>
+				<Index>9701</Index>
+				<Flags/>
+				<ModiTime>1539777391</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4621</ConnPriority>
+				<CutFill>23</CutFill>
+				<CutFillPen>39</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>99</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.324</ThermalConductivity>
+				<Density>940</Density>
+				<HeatCapacity>920</HeatCapacity>
+				<EmbodiedEnergy>4.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.36</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Не определен</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BURNT CLAY</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>BURNT CLAY BLOCK TO BE INSULATED STRONG</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9702" Name="Basic, block">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>38045C0C-5F5D-4FCF-8A41-A5B5F04B1955</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, block</Name>
+				<Index>9702</Index>
+				<Flags/>
+				<ModiTime>1539777391</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>5</CutFill>
+				<CutFillPen>163</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>132</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.6</ThermalConductivity>
+				<Density>1400</Density>
+				<HeatCapacity>880</HeatCapacity>
+				<EmbodiedEnergy>0.72</EmbodiedEnergy>
+				<EmbodiedCarbon>0.088</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, блоки</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CONCRETE BLOCK</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9703" Name="Basic, brick">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>B09A6068-5255-4C99-9936-F835EDD6F3DB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, brick</Name>
+				<Index>9703</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>1</CutFill>
+				<CutFillPen>168</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>35</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.58</ThermalConductivity>
+				<Density>1500</Density>
+				<HeatCapacity>840</HeatCapacity>
+				<EmbodiedEnergy>3</EmbodiedEnergy>
+				<EmbodiedCarbon>0.24</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, кладка</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>BURNT CLAY</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SOLID BRICK 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9704" Name="Basic, filler">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>3A88F891-942C-4091-B566-EC8D6AB8E65D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, filler</Name>
+				<Index>9704</Index>
+				<Flags/>
+				<ModiTime>1539777391</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>180</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>68</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.035</ThermalConductivity>
+				<Density>13</Density>
+				<HeatCapacity>1450</HeatCapacity>
+				<EmbodiedEnergy>24</EmbodiedEnergy>
+				<EmbodiedCarbon>1.23</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Плитка, керамическая</Description>
+				<ManuFacturer>Tce</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-GLASS WOOL</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>INACCESSIBLE FLOOR GLASS WOOL 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9705" Name="Basic, glass">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>651EEA93-039D-421F-94B9-0D1C430BD95B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, glass</Name>
+				<Index>9705</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4701</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>165</CutFillPen>
+				<CutFillBackgroundPen>99</CutFillBackgroundPen>
+				<CutMaterial>29</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.039</ThermalConductivity>
+				<Density>130</Density>
+				<HeatCapacity>800</HeatCapacity>
+				<EmbodiedEnergy>28</EmbodiedEnergy>
+				<EmbodiedCarbon>1.54</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, стекло</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>GLASS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CELLGLASS</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9706" Name="Basic, insulation">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>323F9709-DF5A-44C0-B757-EEC51CC30DCF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, insulation</Name>
+				<Index>9706</Index>
+				<Flags/>
+				<ModiTime>1539777391</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>33</CutFill>
+				<CutFillPen>174</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>37</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.041</ThermalConductivity>
+				<Density>90</Density>
+				<HeatCapacity>1500</HeatCapacity>
+				<EmbodiedEnergy>25.2</EmbodiedEnergy>
+				<EmbodiedCarbon>1.2</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, изоляция</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>THERMAL INSULATION-MULTILAYER</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>WOOD WOOL/PS/WOOD WOOL THICK</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9707" Name="Basic, membrane">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A4AC9D3E-CB35-406A-9E99-D5507C84E862</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, membrane</Name>
+				<Index>9707</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>135</CutFill>
+				<CutFillPen>162</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>121</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.17</ThermalConductivity>
+				<Density>1200</Density>
+				<HeatCapacity>1400</HeatCapacity>
+				<EmbodiedEnergy>110</EmbodiedEnergy>
+				<EmbodiedCarbon>3.8</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, мембраны, прокладки</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>RUBBERS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>HARD RUBBER</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9708" Name="Basic, metallic">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>29FBC02F-D39F-4AA8-96C1-5104D2CC4989</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, metallic</Name>
+				<Index>9708</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4863</ConnPriority>
+				<CutFill>12</CutFill>
+				<CutFillPen>166</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>45</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>50</ThermalConductivity>
+				<Density>7500</Density>
+				<HeatCapacity>450</HeatCapacity>
+				<EmbodiedEnergy>25</EmbodiedEnergy>
+				<EmbodiedCarbon>1.21</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, металлические</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>METALS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CAST IRON</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9709" Name="Basic, plaster">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>DEB621DF-D9E3-4548-B3D5-22EA04C9F13A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, plaster</Name>
+				<Index>9709</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>10</CutFill>
+				<CutFillPen>176</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>81</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.4</ThermalConductivity>
+				<Density>1000</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.6</EmbodiedEnergy>
+				<EmbodiedCarbon>0.11</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, отделка, штукатурка</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>PLASTERS AND RENDERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>GYPSUM PLASTER 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9710" Name="Basic, polymer">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>FDE513DA-8AEB-40AE-ADFE-ECE3F53850FB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, polymer</Name>
+				<Index>9710</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>24</CutFill>
+				<CutFillPen>171</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>70</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.028</ThermalConductivity>
+				<Density>30</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>102.1</EmbodiedEnergy>
+				<EmbodiedCarbon>4.84</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, полимеры</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>SEALANTS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>POLYURETANE FOAM 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9711" Name="Basic, soil">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>1058010B-7E09-42B8-BD8F-98C57DC6100F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, soil</Name>
+				<Index>9711</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>38</CutFill>
+				<CutFillPen>173</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>67</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.7</ThermalConductivity>
+				<Density>900</Density>
+				<HeatCapacity>1850</HeatCapacity>
+				<EmbodiedEnergy>0.42</EmbodiedEnergy>
+				<EmbodiedCarbon>0.022</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, грунты, почвы, засыпки</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>ENVIRONMENT</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>SOIL</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9712" Name="Basic, stone">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>A345727F-DB75-4851-A7B1-1C458B77135B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, stone</Name>
+				<Index>9712</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>5105</ConnPriority>
+				<CutFill>14</CutFill>
+				<CutFillPen>178</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>113</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.3</ThermalConductivity>
+				<Density>1750</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>1.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.18</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, камни</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>STONES</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>ARTIFICIAL STONE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9713" Name="Basic, structural">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>321A6F89-68DF-4A09-8CAA-9B10650B5662</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, structural</Name>
+				<Index>9713</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>5266</ConnPriority>
+				<CutFill>28</CutFill>
+				<CutFillPen>169</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>66</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.44</ThermalConductivity>
+				<Density>1300</Density>
+				<HeatCapacity>1000</HeatCapacity>
+				<EmbodiedEnergy>0.45</EmbodiedEnergy>
+				<EmbodiedCarbon>0.05</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, конструктивные</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>CONCRETE</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CORK-CONCRETE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9714" Name="Basic, tile">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>F7791B40-524A-47B8-95DA-6F4F94FE6F0E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, tile</Name>
+				<Index>9714</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4782</ConnPriority>
+				<CutFill>10</CutFill>
+				<CutFillPen>164</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>104</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>1.5</ThermalConductivity>
+				<Density>2000</Density>
+				<HeatCapacity>900</HeatCapacity>
+				<EmbodiedEnergy>6.5</EmbodiedEnergy>
+				<EmbodiedCarbon>0.48</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, плитки</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CLAY FLOOR TILE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9715" Name="Basic, wood">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>C5EBAAA3-FBF9-436E-8DB9-24D6132156BA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Basic, wood</Name>
+				<Index>9715</Index>
+				<Flags/>
+				<ModiTime>1539777751</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M97</ID>
+				<ConnPriority>4943</ConnPriority>
+				<CutFill>19</CutFill>
+				<CutFillPen>175</CutFillPen>
+				<CutFillBackgroundPen>-1</CutFillBackgroundPen>
+				<CutMaterial>52</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>0.13</ThermalConductivity>
+				<Density>500</Density>
+				<HeatCapacity>1600</HeatCapacity>
+				<EmbodiedEnergy>6.95</EmbodiedEnergy>
+				<EmbodiedCarbon>0.29</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Общие, дерево</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>WOOD AND WOOD BASED PANELS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>TIMBER 1</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9801" Name="Bool, solid operator">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>597476D0-B39E-4D39-A77A-F15DB8431293</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bool, solid operator</Name>
+				<Index>9801</Index>
+				<Flags/>
+				<ModiTime>1539778046</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M98</ID>
+				<ConnPriority>5909</ConnPriority>
+				<CutFill>64</CutFill>
+				<CutFillPen>3</CutFillPen>
+				<CutFillBackgroundPen>3</CutFillBackgroundPen>
+				<CutMaterial>77</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>9999</ThermalConductivity>
+				<Density>9999</Density>
+				<HeatCapacity>9999</HeatCapacity>
+				<EmbodiedEnergy>9999</EmbodiedEnergy>
+				<EmbodiedCarbon>9999</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Солид операторы</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CLAY FLOOR TILE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+			<BuildingMaterial Idx="9802" Name="Bool, opening space">
+				<OdbObj Mv="3" Sv="0">
+					<OdbRef>
+						<guid>88613425-F774-455D-8067-71AA73A15CEF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bool, opening space</Name>
+				<Index>9802</Index>
+				<Flags/>
+				<ModiTime>1539778046</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ID>M98</ID>
+				<ConnPriority>5909</ConnPriority>
+				<CutFill>16</CutFill>
+				<CutFillPen>123</CutFillPen>
+				<CutFillBackgroundPen>0</CutFillBackgroundPen>
+				<CutMaterial>19</CutMaterial>
+				<CutFillOrientation>BuildingMaterialProjectOrigin</CutFillOrientation>
+				<ThermalConductivity>9999</ThermalConductivity>
+				<Density>9999</Density>
+				<HeatCapacity>9999</HeatCapacity>
+				<EmbodiedEnergy>9999</EmbodiedEnergy>
+				<EmbodiedCarbon>9999</EmbodiedCarbon>
+				<ShowUncutLines>true</ShowUncutLines>
+				<Description>Пространство отверстий</Description>
+				<ManuFacturer>-</ManuFacturer>
+				<CollisionDetection>true</CollisionDetection>
+				<MaterialGroupNameFromCatalog>FLOOR COVERINGS</MaterialGroupNameFromCatalog>
+				<MaterialNameFromCatalog>CLAY FLOOR TILE</MaterialNameFromCatalog>
+			</BuildingMaterial>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

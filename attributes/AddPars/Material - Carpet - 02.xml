@@ -1,0 +1,1599 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Par Guid="3D85639F-2551-46F5-9780-6D73C66A07E0" Index="94" Name="Material - Carpet - 02">
+	
+<Parameters>
+		<Integer Name="C4D_VER_MAIN">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_VER_SUB">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_CHSIZE_HORSIZE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.3</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHSIZE_VERSIZE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.3</Value>
+		</RealNum>
+		<Integer Name="C4D_CHSIZE_ANGLE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHSIZE_KEEPPROP">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHSIZE_RANDORIG">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHCOL_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHCOL_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<RealNum Name="C4D_CHCOL_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.899999976158</Value>
+		</RealNum>
+		<String Name="C4D_CHCOL_TEXTURE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["1"]]></Value>
+		</String>
+		<String Name="C4D_SHLAYER_BLENDMODE_1">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHLAYER_BLENDSTRE_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHLAYER_IMGALPHA_1">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["2"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_2">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_2">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_2">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_2">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHLAYER_BLUROFFSET_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHLAYER_BLURSCALE_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHLAYER_SHADERS_1">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["3,7"]]></Value>
+		</String>
+		<String Name="C4D_SHFILTER_BLENDMODE_3">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Screen"]]></Value>
+		</String>
+		<Integer Name="C4D_SHFILTER_BLENDSTRE_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHFILTER_IMGALPHA_3">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["4"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_4">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_4">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_4">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_4">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_BLUROFFSET_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_BLURSCALE_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHFILTER_TEXTURE_3">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["5"]]></Value>
+		</String>
+		<String Name="C4D_SHIMAGE_BLENDMODE_5">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHIMAGE_BLENDSTRE_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHIMAGE_IMGALPHA_5">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["6"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_6">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_6">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_6">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_6">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_BLUROFFSET_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_BLURSCALE_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHIMAGE_FILE_5">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Carpet Noise 01 GS"]]></Value>
+		</String>
+		<String Name="C4D_SHIMAGE_SAMPLING_5">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["MIP"]]></Value>
+		</String>
+		<Integer Name="C4D_SHIMAGE_EXPOSURE_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_HDRGAMMA_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_BLACKPOINT_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_WHITEPOINT_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_ALPHAONLY_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_MIRRORX_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHIMAGE_MIRRORY_5">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_HUE_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>155</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_SATURATION_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_LIGHTNESS_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_COLORIZE_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_BRIGHTNESS_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_CONTRAST_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_GAMMA_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_CLIP_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_LOWCLIP_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHFILTER_HIGHCLIP_3">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_BLENDMODE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHPAVEMENT_BLENDSTRE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_IMGALPHA_7">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["8"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_8">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_8">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_8">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_8">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_BLUROFFSET_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_BLURSCALE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_SHPAVEMENT_SCALE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.15</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_SEED_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>260</Value>
+		</Integer>
+		<RealNum Name="C4D_SHPAVEMENT_GAPSIZE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.91</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_GAPSOFT_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_SHPAVEMENT_CROOKEDNESS_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>2.68</Value>
+		</RealNum>
+		<RealNum Name="C4D_SHPAVEMENT_CROOKSCALE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.36</Value>
+		</RealNum>
+		<String Name="C4D_SHPAVEMENT_STONECOLOR_7">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["9"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_9">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_9">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["10,11"]]></Value>
+		</String>
+		<RealNum Name="C4D_GKRGB_COLOR_10">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.180392161012</AVal>
+				<AVal Row="2">0.239215686917</AVal>
+				<AVal Row="3">0.368627458811</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_10">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_10">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_10">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.8707</Value>
+		</RealNum>
+		<RealNum Name="C4D_GKRGB_COLOR_11">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.556862771511</AVal>
+				<AVal Row="2">0.611764729023</AVal>
+				<AVal Row="3">0.717647075653</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_11">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_11">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_11">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_ROUGHSTRUCT_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_FINESTRUCT_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_GAPCOLOR_7">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["12"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_12">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_12">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["13,14"]]></Value>
+		</String>
+		<RealNum Name="C4D_GKRGB_COLOR_13">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.258211053016</AVal>
+				<AVal Row="2">0.326530612245</AVal>
+				<AVal Row="3">0.194299207286</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_13">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_POSITION_13">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.1135</Value>
+		</RealNum>
+		<RealNum Name="C4D_GKRGB_BIAS_13">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.6324</Value>
+		</RealNum>
+		<RealNum Name="C4D_GKRGB_COLOR_14">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.690588253737</AVal>
+				<AVal Row="2">0.741176486015</AVal>
+				<AVal Row="3">0.572549045086</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_14">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_14">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_14">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_GRAINYGAPS_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_CONTGRAIN_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_SMUDGYCOLOR_7">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["15"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_15">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_15">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["16,17"]]></Value>
+		</String>
+		<RealNum Name="C4D_GKRGB_COLOR_16">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.266666680574</AVal>
+				<AVal Row="2">0.32549020648</AVal>
+				<AVal Row="3">0.447058826685</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_16">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_16">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_16">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5819</Value>
+		</RealNum>
+		<RealNum Name="C4D_GKRGB_COLOR_17">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.556862771511</AVal>
+				<AVal Row="2">0.611764729023</AVal>
+				<AVal Row="3">0.717647075653</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_17">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_17">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_17">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_SMUDGYEDGES_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_SMUDGYSIZE_7">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_CHCOL_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Multiply"]]></Value>
+		</String>
+		<Integer Name="C4D_CHCOL_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIF_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIF_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIF_LUMINANCE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIF_SPECULAR">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIF_REFLECTION">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_CHDIF_TEXTURE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["18"]]></Value>
+		</String>
+		<String Name="C4D_SHNOISE_BLENDMODE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHNOISE_BLENDSTRE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_IMGALPHA_18">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["19"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_19">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_19">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_19">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_19">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_BLUROFFSET_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_BLURSCALE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_COLOR1_18">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0</AVal>
+				<AVal Row="2">0</AVal>
+				<AVal Row="3">0</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_COLOR2_18">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_SEED_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>665</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_NOISE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Naki"]]></Value>
+		</String>
+		<Integer Name="C4D_SHNOISE_OCTAVES_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>5</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_SPACE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Texture"]]></Value>
+		</String>
+		<RealNum Name="C4D_SHNOISE_GLOBALSCALE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.0299999993295</Value>
+		</RealNum>
+		<Integer Name="C4D_SHNOISE_RELATIVESCALE_18">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_DETAILATT_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_SHNOISE_DELTA_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHNOISE_ABSOLUTE_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_CYCLES_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_LOWCLIP_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_HIGHCLIP_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_BRIGHTNESS_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_CONTRAST_18">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_CHDIF_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<RealNum Name="C4D_CHDIF_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.199999988079</Value>
+		</RealNum>
+		<Integer Name="C4D_CHLUM_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHLUM_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHLUM_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHLUM_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_CHLUM_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHTRA_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_REFRACTION">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_INTERNALREFLECTIONS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_EXITREFLECTION">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_FRESNELREFLECTIVITY">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_ADDITIVE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_CHTRA_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_CHTRA_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_ABSORPTIONCOLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHTRA_ABSORPTIONDISTANCE">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_BLURRINESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_MINSAMPLES">
+			<Description><![CDATA[""]]></Description>
+			<Value>5</Value>
+		</Integer>
+		<Integer Name="C4D_CHTRA_MAXSAMPLES">
+			<Description><![CDATA[""]]></Description>
+			<Value>128</Value>
+		</Integer>
+		<RealNum Name="C4D_CHTRA_ACCURACY">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_CHREF_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHREF_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHREF_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHREF_ADDITIVE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHREF_USEBUMP">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHREF_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_CHREF_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHREF_BLURRINESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHREF_MINSAMPLES">
+			<Description><![CDATA[""]]></Description>
+			<Value>5</Value>
+		</Integer>
+		<Integer Name="C4D_CHREF_MAXSAMPLES">
+			<Description><![CDATA[""]]></Description>
+			<Value>128</Value>
+		</Integer>
+		<RealNum Name="C4D_CHREF_ACCURACY">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_CHENV_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHENV_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHENV_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHENV_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Multiply"]]></Value>
+		</String>
+		<Integer Name="C4D_CHENV_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHENV_TILESX">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHENV_TILESY">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHENV_EXCLUSIVE">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHFOG_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHFOG_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHFOG_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHFOG_DISTANCE">
+			<Description><![CDATA[""]]></Description>
+			<Value>10</Value>
+		</Integer>
+		<Integer Name="C4D_CHBUM_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHBUM_STRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHBUM_MIPFALLOFF">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHBUM_TEXTURE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["20"]]></Value>
+		</String>
+		<String Name="C4D_SHLAYER_BLENDMODE_20">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHLAYER_BLENDSTRE_20">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHLAYER_IMGALPHA_20">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["21"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_21">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_21">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_21">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_21">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHLAYER_BLUROFFSET_20">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHLAYER_BLURSCALE_20">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHLAYER_SHADERS_20">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["22,33"]]></Value>
+		</String>
+		<String Name="C4D_SHPAVEMENT_BLENDMODE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHPAVEMENT_BLENDSTRE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_IMGALPHA_22">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["23"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_23">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_23">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_23">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_23">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_BLUROFFSET_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_BLURSCALE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_SHPAVEMENT_SCALE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.15</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_SEED_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>260</Value>
+		</Integer>
+		<RealNum Name="C4D_SHPAVEMENT_GAPSIZE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.91</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_GAPSOFT_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_SHPAVEMENT_CROOKEDNESS_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>2.68</Value>
+		</RealNum>
+		<RealNum Name="C4D_SHPAVEMENT_CROOKSCALE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.36</Value>
+		</RealNum>
+		<String Name="C4D_SHPAVEMENT_STONECOLOR_22">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["24"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_24">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_24">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["25,26"]]></Value>
+		</String>
+		<RealNum Name="C4D_GKRGB_COLOR_25">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.180392161012</AVal>
+				<AVal Row="2">0.239215686917</AVal>
+				<AVal Row="3">0.368627458811</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_25">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_25">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_25">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.8707</Value>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_COLOR_26">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_GKRGB_INTENSITY_26">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_26">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_26">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_ROUGHSTRUCT_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_FINESTRUCT_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_GAPCOLOR_22">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["27"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_27">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_27">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["28,29"]]></Value>
+		</String>
+		<Integer Name="C4D_GKRGB_COLOR_28">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0</AVal>
+				<AVal Row="2">0</AVal>
+				<AVal Row="3">0</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_GKRGB_INTENSITY_28">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_28">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_28">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.6324</Value>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_COLOR_29">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_GKRGB_INTENSITY_29">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_29">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_29">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_GRAINYGAPS_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_CONTGRAIN_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_SHPAVEMENT_SMUDGYCOLOR_22">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["30"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_30">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_30">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["31,32"]]></Value>
+		</String>
+		<RealNum Name="C4D_GKRGB_COLOR_31">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.540816326531</AVal>
+				<AVal Row="2">0.540816326531</AVal>
+				<AVal Row="3">0.540816326531</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_INTENSITY_31">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_31">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_31">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5819</Value>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_COLOR_32">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_GKRGB_INTENSITY_32">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_32">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_32">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_SHPAVEMENT_SMUDGYEDGES_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHPAVEMENT_SMUDGYSIZE_22">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_BLENDMODE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_SHNOISE_BLENDSTRE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_IMGALPHA_33">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["34"]]></Value>
+		</String>
+		<Integer Name="C4D_IMGALPHA_INVIMAGE_34">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_USEALPHA_34">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_INVALPHA_34">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_IMGALPHA_ALPFRMRGB_34">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_BLUROFFSET_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_BLURSCALE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_SHNOISE_COLOR1_33">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.392156869173</AVal>
+				<AVal Row="2">0.392156869173</AVal>
+				<AVal Row="3">0.392156869173</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_SHNOISE_COLOR2_33">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_SEED_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>665</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_NOISE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Turbulence"]]></Value>
+		</String>
+		<Integer Name="C4D_SHNOISE_OCTAVES_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>5</Value>
+		</Integer>
+		<String Name="C4D_SHNOISE_SPACE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["UV"]]></Value>
+		</String>
+		<RealNum Name="C4D_SHNOISE_GLOBALSCALE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.0499999895692</Value>
+		</RealNum>
+		<Integer Name="C4D_SHNOISE_RELATIVESCALE_33">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_DETAILATT_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_SHNOISE_DELTA_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.150000005961</Value>
+		</RealNum>
+		<Integer Name="C4D_SHNOISE_ABSOLUTE_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_CYCLES_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_LOWCLIP_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_HIGHCLIP_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_BRIGHTNESS_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_SHNOISE_CONTRAST_33">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHNOR_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHNOR_STRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHNOR_METHOD">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Tangent"]]></Value>
+		</String>
+		<Integer Name="C4D_CHNOR_FLIPX">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHNOR_FLIPY">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHNOR_FLIPZ">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHNOR_SWAPYZ">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHALP_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHALP_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<RealNum Name="C4D_CHALP_DELTA">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0.10000000149</AVal>
+				<AVal Row="2">0.10000000149</AVal>
+				<AVal Row="3">0.10000000149</AVal>
+			</ArrayValues>
+		</RealNum>
+		<Integer Name="C4D_CHALP_INVERT">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHALP_SOFT">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHALP_IMAGEALPHA">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHALP_PREMULTIPLIED">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHSPE_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHSPE_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHSPE_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHSPE_MIXMODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Normal"]]></Value>
+		</String>
+		<Integer Name="C4D_CHSPE_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<String Name="C4D_CHSPE_MODE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Plastic"]]></Value>
+		</String>
+		<RealNum Name="C4D_CHSPE_WIDTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHSPE_HEIGHT">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.20000000298</Value>
+		</RealNum>
+		<Integer Name="C4D_CHSPE_FALLOFF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHSPE_INNERWIDTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_CHGLO_BRIGHTNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_INNERSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_OUTERSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>5</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_RADIUS">
+			<Description><![CDATA[""]]></Description>
+			<Value>10</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_RANDOM">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_FREQUENCY">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHGLO_USEMATCOLOR">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_STRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_CHDIS_HEIGHT">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.05</Value>
+		</RealNum>
+		<String Name="C4D_CHDIS_TYPE">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["IntensityCentered"]]></Value>
+		</String>
+		<Integer Name="C4D_CHDIS_SUBDIVISION">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_LEVEL">
+			<Description><![CDATA[""]]></Description>
+			<Value>4</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_ROUNDGEOMETRY">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_ROUNDCONTOUR">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_MAPROUNDED">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_MAPRESULT">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_KEEPEDGES">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHDIS_BESTDISTRIBUTION">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHGRA_STATE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<String Name="C4D_CHGRA_COLOR">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["35"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_INTERPOL_35">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["SmoothKnot"]]></Value>
+		</String>
+		<String Name="C4D_GRADIENTRGB_KNOTS_35">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["36,37"]]></Value>
+		</String>
+		<Integer Name="C4D_GKRGB_COLOR_36">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">0</AVal>
+				<AVal Row="2">0</AVal>
+				<AVal Row="3">0</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_GKRGB_INTENSITY_36">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_36">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_36">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_GKRGB_COLOR_37">
+			<Description><![CDATA[""]]></Description>
+			<ArrayValues FirstDimension="3" SecondDimension="0">
+				<AVal Row="1">1</AVal>
+				<AVal Row="2">1</AVal>
+				<AVal Row="3">1</AVal>
+			</ArrayValues>
+		</Integer>
+		<Integer Name="C4D_GKRGB_INTENSITY_37">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_GKRGB_POSITION_37">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_GKRGB_BIAS_37">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHGRA_MIXSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.5</Value>
+		</RealNum>
+		<Integer Name="C4D_CHGRA_DENSITY">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_CHGRA_LENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.1</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHGRA_WIDTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.005</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHGRA_CRINKLE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.1</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHGRA_BEND">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.6</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHGRA_WETNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.05</Value>
+		</RealNum>
+		<Integer Name="C4D_CHILL_GENERATEGI">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_GENGISTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_GENGISATURAT">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_RECEIVEGI">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_RECGISTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_RECGISATURAT">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_GIPORTAL">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_GILIGHT">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_GENERATECAUSTICS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_GENCAUSTICSSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_RECEIVECAUSTICS">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<Integer Name="C4D_CHILL_RECCAUSTICSSTRENGTH">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="C4D_CHILL_RADIUS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.1</Value>
+		</RealNum>
+		<Integer Name="C4D_CHILL_CAUSTICSSAMPLES">
+			<Description><![CDATA[""]]></Description>
+			<Value>100</Value>
+		</Integer>
+		<String Name="C4D_CHILL_MODEL">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["OrenNayar"]]></Value>
+		</String>
+		<RealNum Name="C4D_CHILL_DIFFUSEFALLOFF">
+			<Description><![CDATA[""]]></Description>
+			<Value>-0.0499999970198</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHILL_DIFFUSELEVEL">
+			<Description><![CDATA[""]]></Description>
+			<Value>1.09999990463</Value>
+		</RealNum>
+		<RealNum Name="C4D_CHILL_ROUGHNESS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0.849999904633</Value>
+		</RealNum>
+	
+</Parameters>	
+</Par>

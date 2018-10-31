@@ -35,7 +35,7 @@
 			<RoomCategory Idx="1500" Name="SITE &amp; PREPARATORY ZONES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>76129546-88A8-4331-92E2-42A4073FC32B</guid>
+						<guid>635B28F1-2C51-4450-A816-E23CF5156D6C</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>SITE &amp; PREPARATORY ZONES ===</Name>
@@ -59,20 +59,20 @@
 			<RoomCategory Idx="1501" Name="Site, earthwork, prep spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>3624966B-3717-47C2-84BA-EBC713B7DB0A</guid>
+						<guid>7B05464F-C6F5-4E0D-9F98-2F34A7A74651</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Site, earthwork, prep spaces</Name>
 				<Index>1501</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541010083</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S15 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>49344</Red>
-					<Green>49344</Green>
-					<Blue>49344</Blue>
+					<Red>42148</Red>
+					<Green>42148</Green>
+					<Blue>514</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Site, earthwork, prep spaces - Zone Stamp A1 22.xml</Location>
@@ -83,7 +83,7 @@
 			<RoomCategory Idx="2000" Name="ADMINISTRATIVE, COMMERCIAL, SERVICE ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>C6FD8470-ACA3-448F-9B7D-F05B4254A304</guid>
+						<guid>8D5AFECD-B9FB-4D9E-B13B-348F5CF1BC20</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>ADMINISTRATIVE, COMMERCIAL, SERVICE ===</Name>
@@ -107,20 +107,20 @@
 			<RoomCategory Idx="2001" Name="Admin, comm, service spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>F74834F3-22EC-4793-B531-1C45772B34AD</guid>
+						<guid>AE5C46B4-9326-48CF-9D08-287DF98C3B70</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Admin, comm, service spaces</Name>
 				<Index>2001</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S20 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>62965</Red>
+					<Green>28527</Green>
+					<Blue>11822</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Admin, comm, service spaces - Zone Stamp A1 22.xml</Location>
@@ -131,20 +131,20 @@
 			<RoomCategory Idx="2101" Name="Administrative spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D1F7ADA0-15AE-4B3B-BF7F-6FAE72089479</guid>
+						<guid>921618E6-8D48-463D-8BFA-A8E45761A316</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Administrative spaces</Name>
 				<Index>2101</Index>
 				<Flags/>
-				<ModiTime>1540569936</ModiTime>
+				<ModiTime>1540998893</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S21</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>32896</Blue>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Administrative spaces - Zone Stamp A1 22.xml</Location>
@@ -155,20 +155,20 @@
 			<RoomCategory Idx="2102" Name="Meeting rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>DE952853-B8CC-4288-9893-99D372F84A74</guid>
+						<guid>59B289FD-DAA8-409C-9E31-E5511F38FD2D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Meeting rooms</Name>
 				<Index>2102</Index>
 				<Flags/>
-				<ModiTime>1540569936</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S21</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>32896</Blue>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Meeting rooms - Zone Stamp A1 22.xml</Location>
@@ -179,20 +179,20 @@
 			<RoomCategory Idx="2103" Name="Offices">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B4C96C59-F338-420F-9C4C-0D675B79BC6F</guid>
+						<guid>80DD3BB0-4B87-4BE5-AD4A-D5C38ECBD391</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Offices</Name>
 				<Index>2103</Index>
 				<Flags/>
-				<ModiTime>1540569936</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S21</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>32896</Blue>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Offices - Zone Stamp A1 22.xml</Location>
@@ -203,20 +203,20 @@
 			<RoomCategory Idx="2104" Name="Reception areas">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>23694129-C4CC-44B3-87BA-FFA76162607D</guid>
+						<guid>387842AA-C534-4980-8A5A-E0730839A4A6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Reception areas</Name>
 				<Index>2104</Index>
 				<Flags/>
-				<ModiTime>1540569936</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S21</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>32896</Blue>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Reception areas - Zone Stamp A1 22.xml</Location>
@@ -227,20 +227,20 @@
 			<RoomCategory Idx="2201" Name="Commercial spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>22FD3D26-CC3E-4FB4-AD1D-0CC8FDBE6F4F</guid>
+						<guid>E45BAB8E-F49F-43DD-9295-06AEB61F62EB</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Commercial spaces</Name>
 				<Index>2201</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Commercial spaces - Zone Stamp A1 22.xml</Location>
@@ -251,20 +251,20 @@
 			<RoomCategory Idx="2202" Name="Ambient wholesale spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>4CC8851E-B781-4DB6-A475-3EB84263AA3F</guid>
+						<guid>AB76D488-E6A0-47CF-B7F1-164B9F4A9A73</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Ambient wholesale spaces</Name>
 				<Index>2202</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Ambient wholesale spaces - Zone Stamp A1 22.xml</Location>
@@ -275,20 +275,20 @@
 			<RoomCategory Idx="2203" Name="Auction rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>90A8E7DF-452A-4677-B8EB-66BB65B91F0E</guid>
+						<guid>EDACBB1B-8017-4AB3-B935-DDE58736F7F4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Auction rooms</Name>
 				<Index>2203</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Auction rooms - Zone Stamp A1 22.xml</Location>
@@ -299,20 +299,20 @@
 			<RoomCategory Idx="2204" Name="Checkout points">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A0A59A06-0291-44FE-BA42-266F780E1879</guid>
+						<guid>587A9623-4E40-4561-97F5-AEDEEB06C506</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Checkout points</Name>
 				<Index>2204</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Checkout points - Zone Stamp A1 22.xml</Location>
@@ -323,20 +323,20 @@
 			<RoomCategory Idx="2205" Name="Department store shop floors">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>7BE97E1C-D2A7-4006-A09A-E9C5BADC3B05</guid>
+						<guid>EA8ED867-9FC7-4BED-9ED8-840F7E95D465</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Department store shop floors</Name>
 				<Index>2205</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Department store shop floors - Zone Stamp A1 22.xml</Location>
@@ -347,20 +347,20 @@
 			<RoomCategory Idx="2206" Name="Financial and professional services outlets">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B17BA90A-9910-4EA4-BCAE-1B5C869245EB</guid>
+						<guid>BB19F0D4-784B-4298-9555-085D56D90A9F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Financial and professional services outlets</Name>
 				<Index>2206</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Financial and professional services outlets - Zone Stamp A1 22.xml</Location>
@@ -371,20 +371,20 @@
 			<RoomCategory Idx="2207" Name="Fitting rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>EBB418DA-F060-4B47-BE33-C26B113B2EE6</guid>
+						<guid>C81FD2D8-0441-4B9B-B3F1-A0886C9313A8</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Fitting rooms</Name>
 				<Index>2207</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Fitting rooms - Zone Stamp A1 22.xml</Location>
@@ -395,20 +395,20 @@
 			<RoomCategory Idx="2208" Name="Food and drink outlets">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>05CC9244-6B8B-44DF-A233-BDBC7BAC48F8</guid>
+						<guid>D451E41E-3518-462C-8C0D-326168D8BD4E</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Food and drink outlets</Name>
 				<Index>2208</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Food and drink outlets - Zone Stamp A1 22.xml</Location>
@@ -419,20 +419,20 @@
 			<RoomCategory Idx="2209" Name="Hair and beauty salons">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>E57320B1-B903-494C-8B75-C2D7786BF9E4</guid>
+						<guid>EE5AE36E-39CE-4159-A3E4-56E34920148B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Hair and beauty salons</Name>
 				<Index>2209</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Hair and beauty salons - Zone Stamp A1 22.xml</Location>
@@ -443,20 +443,20 @@
 			<RoomCategory Idx="2210" Name="Kiosks">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>340F525B-36BD-4301-999E-92EE12337973</guid>
+						<guid>1269AB05-3ED2-42D3-8089-9311162FFEF4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Kiosks</Name>
 				<Index>2210</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Kiosks - Zone Stamp A1 22.xml</Location>
@@ -467,20 +467,20 @@
 			<RoomCategory Idx="2211" Name="Livestock auction rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>F755B11B-4A45-4548-B50D-67B5E69A65D1</guid>
+						<guid>9088AD79-595A-4440-9F78-D3E4288C929A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Livestock auction rooms</Name>
 				<Index>2211</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Livestock auction rooms - Zone Stamp A1 22.xml</Location>
@@ -491,20 +491,20 @@
 			<RoomCategory Idx="2212" Name="Mail order sorting and despatch facilities">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>E2936E3D-38D4-4ACD-8D14-B991C32A307F</guid>
+						<guid>571B491B-8947-4036-8E96-9816FA0BFA61</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Mail order sorting and despatch facilities</Name>
 				<Index>2212</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Mail order sorting and despatch facilities - Zone Stamp A1 22.xml</Location>
@@ -515,20 +515,20 @@
 			<RoomCategory Idx="2213" Name="Market stalls">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>EF2C05C6-2619-409B-8B49-4D5BB1059759</guid>
+						<guid>C94D2CB8-FBBE-49A4-B71E-A5612A0E5B9A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Market stalls</Name>
 				<Index>2213</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Market stalls - Zone Stamp A1 22.xml</Location>
@@ -539,20 +539,20 @@
 			<RoomCategory Idx="2214" Name="Motor vehicle showrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>74168A5F-38A2-4F98-B38B-B2152962052E</guid>
+						<guid>6B279EB5-40C3-49D8-92A3-CC32EF4B482F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Motor vehicle showrooms</Name>
 				<Index>2214</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Motor vehicle showrooms - Zone Stamp A1 22.xml</Location>
@@ -563,20 +563,20 @@
 			<RoomCategory Idx="2215" Name="Refrigerated wholesale spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B5C3E030-4592-44F2-9082-ABC8206A70D0</guid>
+						<guid>A29C3DD5-9903-4495-9DBF-8B05438C0426</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Refrigerated wholesale spaces</Name>
 				<Index>2215</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Refrigerated wholesale spaces - Zone Stamp A1 22.xml</Location>
@@ -587,20 +587,20 @@
 			<RoomCategory Idx="2216" Name="Supermarket shop floors">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>79118371-38B6-49AC-83AE-0BB3ABE13938</guid>
+						<guid>B7B76BBE-21D2-4D93-BCE4-13B530985702</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Supermarket shop floors</Name>
 				<Index>2216</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Supermarket shop floors - Zone Stamp A1 22.xml</Location>
@@ -611,20 +611,20 @@
 			<RoomCategory Idx="2217" Name="Tattoo and piercing parlours">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>E4DC81A7-F332-4E73-8AF2-764D02CEDBBD</guid>
+						<guid>E53FCE34-B079-4E18-89A4-62A893A9E6C3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Tattoo and piercing parlours</Name>
 				<Index>2217</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Tattoo and piercing parlours - Zone Stamp A1 22.xml</Location>
@@ -635,20 +635,20 @@
 			<RoomCategory Idx="2218" Name="Waste and scrap yards">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>DEFA69A1-5570-4D45-B2D4-7AE2B28707F5</guid>
+						<guid>03C1389B-5516-4A48-AF36-D93CDC6C0528</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Waste and scrap yards</Name>
 				<Index>2218</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000527</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S22</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>32896</Green>
-					<Blue>16448</Blue>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Waste and scrap yards - Zone Stamp A1 22.xml</Location>
@@ -659,20 +659,20 @@
 			<RoomCategory Idx="2301" Name="Service spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>C02FFFFE-CF30-4621-8FFF-6CAC2B350B62</guid>
+						<guid>47242EB3-D253-4A8C-9D70-B0363D7817DC</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Service spaces</Name>
 				<Index>2301</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541000560</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S23</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>48316</Green>
-					<Blue>31097</Blue>
+					<Red>57568</Red>
+					<Green>50372</Green>
+					<Blue>24415</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Service spaces - Zone Stamp A1 22.xml</Location>
@@ -683,20 +683,20 @@
 			<RoomCategory Idx="2311" Name="Legislative spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>2823161B-1B21-41D6-BA94-E48023CEBE73</guid>
+						<guid>37193230-8FF0-4839-919A-8D9F35D08E15</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Legislative spaces</Name>
 				<Index>2311</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S23</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>48316</Green>
-					<Blue>31097</Blue>
+					<Red>57568</Red>
+					<Green>50372</Green>
+					<Blue>24415</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Legislative spaces - Zone Stamp A1 22.xml</Location>
@@ -707,20 +707,20 @@
 			<RoomCategory Idx="2321" Name="Motor vehicle maintenance and fuelling spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>CCBAFE02-97B8-41B5-BC4F-E29741E94076</guid>
+						<guid>FA7DF6EE-B6E6-4DAF-8623-039BD2F6316B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Motor vehicle maintenance and fuelling spaces</Name>
 				<Index>2321</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S23</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>48316</Green>
-					<Blue>31097</Blue>
+					<Red>57568</Red>
+					<Green>50372</Green>
+					<Blue>24415</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Motor vehicle maintenance and fuelling spaces - Zone Stamp A1 22.xml</Location>
@@ -731,20 +731,20 @@
 			<RoomCategory Idx="2331" Name="Postal communications spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B62E7D5D-D577-498C-8DF1-DB47053B205A</guid>
+						<guid>DCBC29EC-E070-4838-8D6C-A38E5C79226C</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Postal communications spaces</Name>
 				<Index>2331</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S23</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>48316</Green>
-					<Blue>31097</Blue>
+					<Red>57568</Red>
+					<Green>50372</Green>
+					<Blue>24415</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Postal communications spaces - Zone Stamp A1 22.xml</Location>
@@ -755,20 +755,20 @@
 			<RoomCategory Idx="2341" Name="Security spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>05737140-4E37-4765-A254-2A1149D2F7BF</guid>
+						<guid>EBF36766-1F0A-443A-81D9-A26F1F6034E6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Security spaces</Name>
 				<Index>2341</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S23</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>48316</Green>
-					<Blue>31097</Blue>
+					<Red>57568</Red>
+					<Green>50372</Green>
+					<Blue>24415</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Security spaces - Zone Stamp A1 22.xml</Location>
@@ -779,20 +779,20 @@
 			<RoomCategory Idx="2401" Name="Special spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>9E7B817B-A71C-4E7A-99A6-3F7B5A7D86FB</guid>
+						<guid>013A5E37-21FE-499A-8557-FA379991F1FB</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Special spaces</Name>
 				<Index>2401</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Special spaces - Zone Stamp A1 22.xml</Location>
@@ -803,20 +803,20 @@
 			<RoomCategory Idx="2411" Name="Military and protective spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B21F9E16-2452-4479-BA1A-528DBBF394FC</guid>
+						<guid>E774B3CF-DD55-49CB-B8B1-DF6FE50FCE73</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Military and protective spaces</Name>
 				<Index>2411</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Military and protective spaces - Zone Stamp A1 22.xml</Location>
@@ -827,20 +827,20 @@
 			<RoomCategory Idx="2421" Name="Parade spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>885B257F-AAD5-4667-B43D-E0EDC955FF7D</guid>
+						<guid>B3233933-890D-43FA-9BFB-39F0CEBB282F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Parade spaces</Name>
 				<Index>2421</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Parade spaces - Zone Stamp A1 22.xml</Location>
@@ -851,20 +851,20 @@
 			<RoomCategory Idx="2431" Name="Judicial spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>158F459C-E02A-4E06-8E06-4EBB58B930C4</guid>
+						<guid>B98C136A-CB77-4CDE-8E6E-4C7E45D6B625</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Judicial spaces</Name>
 				<Index>2431</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Judicial spaces - Zone Stamp A1 22.xml</Location>
@@ -875,20 +875,20 @@
 			<RoomCategory Idx="2441" Name="Detention spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>C621A7EB-D442-49F2-81E8-35B0F8548C03</guid>
+						<guid>977AD754-B510-4A36-AC06-E385FB865DDF</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Detention spaces</Name>
 				<Index>2441</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Detention spaces - Zone Stamp A1 22.xml</Location>
@@ -899,20 +899,20 @@
 			<RoomCategory Idx="2451" Name="Weapons training ranges">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>7B170F90-1155-40FC-A8B6-F36580378CF8</guid>
+						<guid>5DB6D9E6-1368-4790-9987-55AD2A0B31A0</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Weapons training ranges</Name>
 				<Index>2451</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Weapons training ranges - Zone Stamp A1 22.xml</Location>
@@ -923,20 +923,20 @@
 			<RoomCategory Idx="2461" Name="Fire and rescue spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>3C45EB39-174D-432C-AB48-BBEB2698F5D5</guid>
+						<guid>1B9DACC1-93A1-4D94-A76A-BD6D2D023666</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Fire and rescue spaces</Name>
 				<Index>2461</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Fire and rescue spaces - Zone Stamp A1 22.xml</Location>
@@ -947,20 +947,20 @@
 			<RoomCategory Idx="2471" Name="Incident support spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>C4069CFA-B4E9-4E75-9CD9-ECC50BEBFA00</guid>
+						<guid>5EDC78EC-04B1-4D0A-9432-6402F6484E32</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Incident support spaces</Name>
 				<Index>2471</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008299</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S24</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>43690</Red>
+					<Green>43690</Green>
+					<Blue>21845</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Incident support spaces - Zone Stamp A1 22.xml</Location>
@@ -971,7 +971,7 @@
 			<RoomCategory Idx="2500" Name="CULTURAL, EDUCATION, SCIENTIFIC ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>F7BE25FB-F35B-47B6-A33D-F9AB663C30ED</guid>
+						<guid>C117BEB2-29BF-44EF-9AA8-5A4AC431AB8F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>CULTURAL, EDUCATION, SCIENTIFIC ===</Name>
@@ -995,20 +995,20 @@
 			<RoomCategory Idx="2501" Name="Cultural, scientific spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>49A1791F-AB41-464C-8A30-E31EB285ABC4</guid>
+						<guid>DAF41F45-065C-49DA-8949-1AC1F43A1385</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Cultural, scientific spaces</Name>
 				<Index>2501</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S25 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>42919</Red>
+					<Green>29555</Green>
+					<Blue>56283</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Cultural, scientific spaces - Zone Stamp A1 22.xml</Location>
@@ -1019,20 +1019,20 @@
 			<RoomCategory Idx="2601" Name="Educational spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>3845AE8B-1825-44E7-894A-50D9F8721F0C</guid>
+						<guid>8471BBC7-3ACD-4E12-8A29-FF1793766742</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Educational spaces</Name>
 				<Index>2601</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Educational spaces - Zone Stamp A1 22.xml</Location>
@@ -1043,20 +1043,20 @@
 			<RoomCategory Idx="2602" Name="Art classrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>7A71F625-FB46-408D-B86B-4BFD3BD8F2FE</guid>
+						<guid>C51E268A-1127-41D0-AD50-3C98BBB57DF4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Art classrooms</Name>
 				<Index>2602</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Art classrooms - Zone Stamp A1 22.xml</Location>
@@ -1067,20 +1067,20 @@
 			<RoomCategory Idx="2603" Name="Assembly halls">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>DE82D132-4498-4810-8ED1-9B81ABD7B6B3</guid>
+						<guid>90492157-655B-4EB8-A9A6-AE64530D4E9A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Assembly halls</Name>
 				<Index>2603</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Assembly halls - Zone Stamp A1 22.xml</Location>
@@ -1091,20 +1091,20 @@
 			<RoomCategory Idx="2604" Name="Biology teaching laboratories">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>E2DEA515-23B4-4DB5-8FDD-398DD3D1C151</guid>
+						<guid>C400AF6E-54C0-404A-A809-0961D28808CC</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Biology teaching laboratories</Name>
 				<Index>2604</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Biology teaching laboratories - Zone Stamp A1 22.xml</Location>
@@ -1115,20 +1115,20 @@
 			<RoomCategory Idx="2605" Name="Chemistry teaching laboratories">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>888EADF2-5C37-4DDB-9606-57BF2C7F28F4</guid>
+						<guid>2B2C8D8E-12E9-46D2-8C3C-CCFAECC31FF3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Chemistry teaching laboratories</Name>
 				<Index>2605</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Chemistry teaching laboratories - Zone Stamp A1 22.xml</Location>
@@ -1139,20 +1139,20 @@
 			<RoomCategory Idx="2606" Name="Classrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>BE92C661-136E-44BC-9938-A06B642C1DAD</guid>
+						<guid>BAEFFD19-A8E9-4D96-8BAB-3AA57D0E6717</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Classrooms</Name>
 				<Index>2606</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Classrooms - Zone Stamp A1 22.xml</Location>
@@ -1163,20 +1163,20 @@
 			<RoomCategory Idx="2607" Name="Common rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>64F270AC-BACB-4D3A-8087-03875D4707FD</guid>
+						<guid>0CD780F7-DFEA-47BB-9AE4-30C4680F850A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Common rooms</Name>
 				<Index>2607</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Common rooms - Zone Stamp A1 22.xml</Location>
@@ -1187,20 +1187,20 @@
 			<RoomCategory Idx="2608" Name="Craft classrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B940370A-209A-4304-9BEE-A44756F6A965</guid>
+						<guid>74D4CA25-492D-419D-98CD-390F96A6502D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Craft classrooms</Name>
 				<Index>2608</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Craft classrooms - Zone Stamp A1 22.xml</Location>
@@ -1211,20 +1211,20 @@
 			<RoomCategory Idx="2609" Name="Dance studios">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>023EDCA3-1420-4FC8-A5F9-95DD682E157A</guid>
+						<guid>99AFCE96-845B-4166-940B-FEB8B1B5EDFA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Dance studios</Name>
 				<Index>2609</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Dance studios - Zone Stamp A1 22.xml</Location>
@@ -1235,20 +1235,20 @@
 			<RoomCategory Idx="2610" Name="Dissection theatres">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>2E88ED67-C7AF-40D4-BCB0-D11A39C2BFAA</guid>
+						<guid>5B4422E4-724F-454C-A25D-52147A970505</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Dissection theatres</Name>
 				<Index>2610</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Dissection theatres - Zone Stamp A1 22.xml</Location>
@@ -1259,20 +1259,20 @@
 			<RoomCategory Idx="2611" Name="Drama studios">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>0DD75279-12EC-48F2-8135-DF4641138EAA</guid>
+						<guid>A69DF9EA-8AB2-41A5-86D6-1A50433957A2</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Drama studios</Name>
 				<Index>2611</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Drama studios - Zone Stamp A1 22.xml</Location>
@@ -1283,20 +1283,20 @@
 			<RoomCategory Idx="2612" Name="Driving skid pans">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>8C0041F5-C8E3-48D0-AF2D-DAAEB8C09F55</guid>
+						<guid>496F5EE0-B951-4FFE-BEB1-60863857A0B3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Driving skid pans</Name>
 				<Index>2612</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Driving skid pans - Zone Stamp A1 22.xml</Location>
@@ -1307,20 +1307,20 @@
 			<RoomCategory Idx="2613" Name="Driving tuition spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>8E98D89D-D75C-4F3F-AD37-9C4E8AB8A622</guid>
+						<guid>A4D1DB67-D2E4-4276-9986-8FBEE600492D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Driving tuition spaces</Name>
 				<Index>2613</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Driving tuition spaces - Zone Stamp A1 22.xml</Location>
@@ -1331,20 +1331,20 @@
 			<RoomCategory Idx="2614" Name="Educational workshops">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>65070075-8F79-41BE-993D-1B26324DA967</guid>
+						<guid>E64A639E-389A-464F-9BB4-D04A4F4CB0E4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Educational workshops</Name>
 				<Index>2614</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Educational workshops - Zone Stamp A1 22.xml</Location>
@@ -1355,20 +1355,20 @@
 			<RoomCategory Idx="2615" Name="Food technology classrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>3B29FE47-4325-446A-9B40-C06DCAE1B405</guid>
+						<guid>9F078273-8683-4191-92B9-6BE9AC86F00F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Food technology classrooms</Name>
 				<Index>2615</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Food technology classrooms - Zone Stamp A1 22.xml</Location>
@@ -1379,20 +1379,20 @@
 			<RoomCategory Idx="2616" Name="ICT laboratories">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>CF78D77A-5436-4AB8-928A-3206C70DF4D2</guid>
+						<guid>2AECAB19-2AE2-4F63-8C4C-58B595CC781D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>ICT laboratories</Name>
 				<Index>2616</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - ICT laboratories - Zone Stamp A1 22.xml</Location>
@@ -1403,20 +1403,20 @@
 			<RoomCategory Idx="2617" Name="Language laboratories">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>294BA3A4-FC7B-4D00-8E48-BFE885468943</guid>
+						<guid>520E19A5-790D-4F98-8322-6EA2659C87A6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Language laboratories</Name>
 				<Index>2617</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Language laboratories - Zone Stamp A1 22.xml</Location>
@@ -1427,20 +1427,20 @@
 			<RoomCategory Idx="2618" Name="Lecture theatres">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>86D4D8DA-F189-4ABC-90A3-8E0AFD8C578A</guid>
+						<guid>83330917-9263-4AAE-A48D-48345D867697</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Lecture theatres</Name>
 				<Index>2618</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Lecture theatres - Zone Stamp A1 22.xml</Location>
@@ -1451,20 +1451,20 @@
 			<RoomCategory Idx="2619" Name="Music rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>56CCEE61-FA03-4966-BFEB-FA7B49E1A2F0</guid>
+						<guid>76566F6F-FE87-4660-95AB-40EFB04599AB</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Music rooms</Name>
 				<Index>2619</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Music rooms - Zone Stamp A1 22.xml</Location>
@@ -1475,20 +1475,20 @@
 			<RoomCategory Idx="2620" Name="Physics teaching laboratories">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A9BCAE9D-0EBD-4D2A-946E-8FAD1BBD6587</guid>
+						<guid>AA283F3B-106A-45CD-A59C-4749F9F3472B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Physics teaching laboratories</Name>
 				<Index>2620</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Physics teaching laboratories - Zone Stamp A1 22.xml</Location>
@@ -1499,20 +1499,20 @@
 			<RoomCategory Idx="2621" Name="Seminar rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>2F3E799A-8528-4C1B-8D56-C74318282CF3</guid>
+						<guid>C9DF4EB2-41D2-45EA-B45D-CC29F3BA7540</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Seminar rooms</Name>
 				<Index>2621</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Seminar rooms - Zone Stamp A1 22.xml</Location>
@@ -1523,20 +1523,20 @@
 			<RoomCategory Idx="2622" Name="Study rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>56E53E80-BA78-4E4F-A4A2-7060C82150FC</guid>
+						<guid>CC4A30C2-32AD-4F23-A49C-C15CE9B42DC6</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Study rooms</Name>
 				<Index>2622</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S26</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>48316</Red>
+					<Green>38293</Green>
+					<Blue>58339</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Study rooms - Zone Stamp A1 22.xml</Location>
@@ -1547,20 +1547,20 @@
 			<RoomCategory Idx="2701" Name="Design &amp;15 exhibition spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>C2F94AF5-51B7-4A8F-89D9-621A92A9CFB8</guid>
+						<guid>C3897EE9-E022-4E20-9D59-DA5C1094F797</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Design &amp;15 exhibition spaces</Name>
 				<Index>2701</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541008478</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S27</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
 					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Green>32896</Green>
+					<Blue>65535</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Design &amp;15 exhibition spaces - Zone Stamp A1 22.xml</Location>
@@ -1571,7 +1571,7 @@
 			<RoomCategory Idx="4000" Name="RECREATION SPACES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D11549E7-E5C8-4E5D-920D-FD7B6439BE31</guid>
+						<guid>EA7B1138-9603-4850-9D33-F49917479A7D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>RECREATION SPACES ===</Name>
@@ -1595,20 +1595,20 @@
 			<RoomCategory Idx="4001" Name="Recreation spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D53E8B7C-BD51-47D6-8936-DDA52AE289C3</guid>
+						<guid>054C3BBD-93F7-4395-91C4-3D6803BE564A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Recreation spaces</Name>
 				<Index>4001</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S40 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Recreation spaces - Zone Stamp A1 22.xml</Location>
@@ -1619,20 +1619,20 @@
 			<RoomCategory Idx="4102" Name="Amusement spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>652DA316-83C7-40C1-B566-D1F2ADB1139C</guid>
+						<guid>59BB7BED-5585-44EC-8470-85C5355D72B1</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Amusement spaces</Name>
 				<Index>4102</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S41</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Amusement spaces - Zone Stamp A1 22.xml</Location>
@@ -1643,20 +1643,20 @@
 			<RoomCategory Idx="4103" Name="Dining spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>BCF6A3BB-AF66-4403-870E-C27F2507C022</guid>
+						<guid>BC0246AD-2B5B-4A59-B432-9A62325DF799</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Dining spaces</Name>
 				<Index>4103</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S41</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Dining spaces - Zone Stamp A1 22.xml</Location>
@@ -1667,20 +1667,20 @@
 			<RoomCategory Idx="4104" Name="Performing arts spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>29A29F5B-0F40-42CF-AEDE-11C0E49650D3</guid>
+						<guid>3B8AA617-423B-4360-8599-32AA7BD6AD66</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Performing arts spaces</Name>
 				<Index>4104</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S41</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Performing arts spaces - Zone Stamp A1 22.xml</Location>
@@ -1691,7 +1691,7 @@
 			<RoomCategory Idx="4200" Name="SPORTS &amp; ACTIVITY SPACES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>28B71E3E-E348-4444-926B-6F50BB2FB36E</guid>
+						<guid>851F90A1-0D11-4EDD-9861-8952F6DF9B80</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>SPORTS &amp; ACTIVITY SPACES ===</Name>
@@ -1715,20 +1715,20 @@
 			<RoomCategory Idx="4201" Name="Sports &amp; activity spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>F115C60C-2FC6-4591-853F-70B26E355D3C</guid>
+						<guid>A4369B24-ABC8-4B76-B920-F4EC504F7DD7</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Sports &amp; activity spaces</Name>
 				<Index>4201</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S42 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Sports &amp; activity spaces - Zone Stamp A1 22.xml</Location>
@@ -1739,20 +1739,20 @@
 			<RoomCategory Idx="4301" Name="Indoor activity spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D7E909AC-AD0A-44A2-A385-7AEA9CB00E1A</guid>
+						<guid>4273D7DE-FFCB-4E3E-BCDB-4B8CC1F41F92</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Indoor activity spaces</Name>
 				<Index>4301</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S43</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Indoor activity spaces - Zone Stamp A1 22.xml</Location>
@@ -1763,20 +1763,20 @@
 			<RoomCategory Idx="4302" Name="Outdoor activity spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>59BF9DB2-07FF-4D86-9763-337E24F61E9F</guid>
+						<guid>6176AF7B-3DE0-4D9E-AC4D-983B67375B4D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Outdoor activity spaces</Name>
 				<Index>4302</Index>
 				<Flags/>
-				<ModiTime>1540994260</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S43</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>65535</Red>
-					<Green>0</Green>
-					<Blue>0</Blue>
+					<Red>45232</Red>
+					<Green>49601</Green>
+					<Blue>15420</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Outdoor activity spaces - Zone Stamp A1 22.xml</Location>
@@ -1787,7 +1787,7 @@
 			<RoomCategory Idx="4500" Name="RESIDENTIAL SPACES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>0A60BEA7-9697-4198-9D7C-A395807243A5</guid>
+						<guid>9AD5E38C-9475-49CB-B4B4-1FE62A9B7781</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>RESIDENTIAL SPACES ===</Name>
@@ -1811,20 +1811,20 @@
 			<RoomCategory Idx="4501" Name="Residential spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>03B8E421-D1EE-44AB-8FF5-C6623CFC77E8</guid>
+						<guid>343B5E0B-143B-4A1F-B5AE-540225481572</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Residential spaces</Name>
 				<Index>4501</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S44 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>48830</Red>
+					<Green>57054</Green>
+					<Blue>16705</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Residential spaces - Zone Stamp A1 22.xml</Location>
@@ -1835,20 +1835,20 @@
 			<RoomCategory Idx="4502" Name="Bedrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>967ADBDD-BE47-4E1E-9F44-883901B1E429</guid>
+						<guid>AF7564D8-1B2B-4AA6-8D12-37841D9F5012</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bedrooms</Name>
 				<Index>4502</Index>
 				<Flags/>
-				<ModiTime>1540994260</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>64507</Red>
+					<Green>61937</Green>
+					<Blue>44718</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Bedrooms - Zone Stamp A1 22.xml</Location>
@@ -1859,20 +1859,20 @@
 			<RoomCategory Idx="4503" Name="Bed &amp; studies">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>9252604A-1585-470D-9B67-532EDF7C19C1</guid>
+						<guid>1FCCD696-D3E3-4613-8A89-178FE2EFB6D4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Bed &amp; studies</Name>
 				<Index>4503</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>64507</Red>
+					<Green>61937</Green>
+					<Blue>44718</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Bed &amp; studies - Zone Stamp A1 22.xml</Location>
@@ -1883,20 +1883,20 @@
 			<RoomCategory Idx="4504" Name="Entrance spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>6FEA54EE-9618-4EEF-A50B-4CCBD5027D97</guid>
+						<guid>6EF77562-F250-415E-A94B-7E266A9BCD1D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Entrance spaces</Name>
 				<Index>4504</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>49344</Red>
+					<Green>61937</Green>
+					<Blue>28013</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Entrance spaces - Zone Stamp A1 22.xml</Location>
@@ -1907,20 +1907,20 @@
 			<RoomCategory Idx="4505" Name="Corridor sites">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>F63BC7D5-B4DD-4C65-BF65-66B4DCC83CF5</guid>
+						<guid>FB8EFC30-1722-4FB8-91AE-C911A9346F74</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Corridor sites</Name>
 				<Index>4505</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>49344</Red>
+					<Green>61937</Green>
+					<Blue>28013</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Corridor sites - Zone Stamp A1 22.xml</Location>
@@ -1931,20 +1931,20 @@
 			<RoomCategory Idx="4506" Name="Guestrooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>5FFDB1DC-3C82-4780-B3E4-23A5271A3A01</guid>
+						<guid>49D82502-7E26-4E0A-92F3-0C339AD2EA08</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Guestrooms</Name>
 				<Index>4506</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>64764</Red>
+					<Green>57054</Green>
+					<Blue>44461</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Guestrooms - Zone Stamp A1 22.xml</Location>
@@ -1955,20 +1955,20 @@
 			<RoomCategory Idx="4507" Name="Dining rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B883034B-0FF6-4E06-BA87-790A794154D4</guid>
+						<guid>B3E37195-5E0A-4258-A701-962D0B24D28F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Dining rooms</Name>
 				<Index>4507</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>37779</Red>
+					<Green>57825</Green>
+					<Blue>57825</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Dining rooms - Zone Stamp A1 22.xml</Location>
@@ -1979,20 +1979,20 @@
 			<RoomCategory Idx="4508" Name="Kitchen">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>3DBF37D3-31E3-43FB-A669-B4E28D56B56B</guid>
+						<guid>EE14EC96-3C2C-4ABF-BFF9-B0D1C96B3220</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Kitchen</Name>
 				<Index>4508</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>37779</Red>
+					<Green>57825</Green>
+					<Blue>57825</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Kitchen - Zone Stamp A1 22.xml</Location>
@@ -2003,20 +2003,20 @@
 			<RoomCategory Idx="4509" Name="Living rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A93A63B8-CBB1-426E-9BD0-713AB67F8E30</guid>
+						<guid>F557ECE4-DE89-44C8-8D65-3A9D38AB7B74</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Living rooms</Name>
 				<Index>4509</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>64764</Red>
+					<Green>57054</Green>
+					<Blue>44461</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Living rooms - Zone Stamp A1 22.xml</Location>
@@ -2027,20 +2027,20 @@
 			<RoomCategory Idx="4510" Name="Workplaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>9E060D1A-93CD-45C6-A738-07BDC5B0EBF4</guid>
+						<guid>7CD95DCE-59E2-409D-B9BF-04C9A1FFF808</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Workplaces</Name>
 				<Index>4510</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Workplaces - Zone Stamp A1 22.xml</Location>
@@ -2051,20 +2051,20 @@
 			<RoomCategory Idx="4511" Name="Store rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>8AF39DB6-4B89-44AB-9156-723D34AE9BFD</guid>
+						<guid>D473CFDE-2665-448F-ABCC-E975C42EE736</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Store rooms</Name>
 				<Index>4511</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>35466</Red>
+					<Green>60138</Green>
+					<Blue>38550</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Store rooms - Zone Stamp A1 22.xml</Location>
@@ -2075,20 +2075,20 @@
 			<RoomCategory Idx="4512" Name="Sanitary">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>047A4AF7-041E-4906-900A-AAC8A3F99107</guid>
+						<guid>9647FA7A-0BA9-455C-9B16-DEC79C391C57</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Sanitary</Name>
 				<Index>4512</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>47802</Red>
+					<Green>45489</Green>
+					<Blue>63736</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Sanitary - Zone Stamp A1 22.xml</Location>
@@ -2099,20 +2099,20 @@
 			<RoomCategory Idx="4513" Name="Utility rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>46F1546B-8EF7-485B-8795-A83E8E23F9CF</guid>
+						<guid>E952915C-93BB-4C22-8732-DCCB3AD8C45A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Utility rooms</Name>
 				<Index>4513</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Utility rooms - Zone Stamp A1 22.xml</Location>
@@ -2123,20 +2123,20 @@
 			<RoomCategory Idx="4514" Name="Verandas, balconies etc">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>59E73541-28C1-4F04-9EA4-0263390C7E95</guid>
+						<guid>C52D0128-6645-4579-9CAF-A5A14F52C93F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Verandas, balconies etc</Name>
 				<Index>4514</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>54741</Red>
+					<Green>49087</Green>
+					<Blue>54741</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Verandas, balconies etc - Zone Stamp A1 22.xml</Location>
@@ -2147,20 +2147,20 @@
 			<RoomCategory Idx="4515" Name="Wardrobes, common">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>4C3F8170-B63D-4DDF-97E7-FD8C1612D0ED</guid>
+						<guid>F2D41347-4BC6-479D-BDE8-F75A9F8A7597</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Wardrobes, common</Name>
 				<Index>4515</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Wardrobes, common - Zone Stamp A1 22.xml</Location>
@@ -2171,20 +2171,20 @@
 			<RoomCategory Idx="4516" Name="Wardrobes, walk-in">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>72AA7664-2BA8-42B5-B1AD-A005509EA0E9</guid>
+						<guid>4EBE59DA-38AD-4EA6-BE2C-777E32204D67</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Wardrobes, walk-in</Name>
 				<Index>4516</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009170</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S45</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>63479</Red>
-					<Green>56540</Green>
-					<Blue>17476</Blue>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Wardrobes, walk-in - Zone Stamp A1 22.xml</Location>
@@ -2195,20 +2195,20 @@
 			<RoomCategory Idx="4601" Name="Apt Bedroom x0 Studio">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>6796F441-995D-4CCD-B913-20EFD105DE78</guid>
+						<guid>EE996936-61A3-43A9-B869-54EA9EF4FC3F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x0 Studio</Name>
 				<Index>4601</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 0C</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>56540</Red>
+					<Green>62451</Green>
+					<Blue>46774</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x0 Studio - Zone Stamp A1 22.xml</Location>
@@ -2219,20 +2219,20 @@
 			<RoomCategory Idx="4602" Name="Apt Bedroom x0 Traditional">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>75E8CBA8-3ED2-4502-87B1-B1733FB1CF31</guid>
+						<guid>E0A8E621-BE07-4E4B-A50D-7241380A1E8D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x0 Traditional</Name>
 				<Index>4602</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 0P</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>53456</Red>
+					<Green>60395</Green>
+					<Blue>32382</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x0 Traditional - Zone Stamp A1 22.xml</Location>
@@ -2243,20 +2243,20 @@
 			<RoomCategory Idx="4611" Name="Apt Bedroom x1 Studio">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>1F32786F-3B06-46FD-9B45-EE70ADCA4376</guid>
+						<guid>0580800D-AC40-4CEE-9DEA-5CFCA69E6C1B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x1 Studio</Name>
 				<Index>4611</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 1C</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>48830</Red>
+					<Green>57054</Green>
+					<Blue>16705</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x1 Studio - Zone Stamp A1 22.xml</Location>
@@ -2267,20 +2267,20 @@
 			<RoomCategory Idx="4612" Name="Apt Bedroom x1 Traditional">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>BFFE812C-9716-4994-AAC9-E5F88545718F</guid>
+						<guid>28067CF5-1008-4329-9222-64286F71B156</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x1 Traditional</Name>
 				<Index>4612</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 1P</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>54998</Red>
+					<Green>59881</Green>
+					<Blue>26985</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x1 Traditional - Zone Stamp A1 22.xml</Location>
@@ -2291,20 +2291,20 @@
 			<RoomCategory Idx="4621" Name="Apt Bedroom x2 Studio">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B9849F94-BCA8-4518-B78F-C42C838270EC</guid>
+						<guid>9CB2AD40-41BB-4188-9732-012ED909CD61</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x2 Studio</Name>
 				<Index>4621</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 2C</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>55769</Red>
+					<Green>55769</Green>
+					<Blue>12593</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x2 Studio - Zone Stamp A1 22.xml</Location>
@@ -2315,20 +2315,20 @@
 			<RoomCategory Idx="4622" Name="Apt Bedroom x2 Traditional">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>56B6302D-E5BD-45DE-85D6-8E75B8F8EF44</guid>
+						<guid>CDF99CFF-3984-46D5-9A0F-0D9AECDCF816</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x2 Traditional</Name>
 				<Index>4622</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 2P</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>62194</Red>
+					<Green>54227</Green>
+					<Blue>30583</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x2 Traditional - Zone Stamp A1 22.xml</Location>
@@ -2339,20 +2339,20 @@
 			<RoomCategory Idx="4631" Name="Apt Bedroom x3 Studio">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A216C5AE-AB21-4729-8135-1F75CC7FC80B</guid>
+						<guid>05DF0BC0-C537-4C0C-8623-3DA33A94D510</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x3 Studio</Name>
 				<Index>4631</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 3C</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>60652</Red>
+					<Green>48830</Green>
+					<Blue>13107</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x3 Studio - Zone Stamp A1 22.xml</Location>
@@ -2363,20 +2363,20 @@
 			<RoomCategory Idx="4632" Name="Apt Bedroom x3 Traditional">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>EAAC646C-8FA6-4252-9E5F-9BEA59279DA2</guid>
+						<guid>AC076A09-748A-49BE-A776-9CEE8AF5DFC0</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Apt Bedroom x3 Traditional</Name>
 				<Index>4632</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009438</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S46 3P</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>35723</Red>
-					<Green>47288</Green>
-					<Blue>18247</Blue>
+					<Red>59881</Red>
+					<Green>44718</Green>
+					<Blue>29812</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Apt Bedroom x3 Traditional - Zone Stamp A1 22.xml</Location>
@@ -2387,7 +2387,7 @@
 			<RoomCategory Idx="8000" Name="TRANSPORT SPACES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>2765963A-3BC6-4D63-A039-37B9195B7128</guid>
+						<guid>E1D351EB-04BA-4C3A-BE73-988F33B852AD</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>TRANSPORT SPACES ===</Name>
@@ -2411,20 +2411,20 @@
 			<RoomCategory Idx="8001" Name="Transport spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D464019E-6889-4C49-9F25-2AA5AA19B9B4</guid>
+						<guid>13BB80C1-78C1-4B4A-8E11-6A521B6D57EB</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Transport spaces</Name>
 				<Index>8001</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S80 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>49601</Red>
+					<Green>33410</Green>
+					<Blue>27756</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Transport spaces - Zone Stamp A1 22.xml</Location>
@@ -2435,20 +2435,20 @@
 			<RoomCategory Idx="8101" Name="Indoor car parking spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A14CB608-D48E-46D9-BD92-D6211F2E2709</guid>
+						<guid>7CEE937D-804A-42D8-8F29-15805755FE38</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Indoor car parking spaces</Name>
 				<Index>8101</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S81</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>49601</Red>
+					<Green>33410</Green>
+					<Blue>27756</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Indoor car parking spaces - Zone Stamp A1 22.xml</Location>
@@ -2459,20 +2459,20 @@
 			<RoomCategory Idx="8102" Name="Outdoor car parking spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>4D741D66-3720-4479-B72C-63B295C245F1</guid>
+						<guid>592448FF-B200-4984-902C-143134E3ECA8</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Outdoor car parking spaces</Name>
 				<Index>8102</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S81</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>53456</Red>
+					<Green>44975</Green>
+					<Blue>36494</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Outdoor car parking spaces - Zone Stamp A1 22.xml</Location>
@@ -2483,7 +2483,7 @@
 			<RoomCategory Idx="9000" Name="CIRCULATION AND STORAGES SPACES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>34839F00-B716-4E08-BB4B-F8016147818E</guid>
+						<guid>0F653540-C5C5-4B22-9A3B-E0715B6EF278</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>CIRCULATION AND STORAGES SPACES ===</Name>
@@ -2507,20 +2507,20 @@
 			<RoomCategory Idx="9001" Name="Circulation, common, storage spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>642E5730-EC15-4415-AF39-3AD5253E6642</guid>
+						<guid>541609B8-A54B-457D-960A-7E1F0F22B7F3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Circulation, common, storage spaces</Name>
 				<Index>9001</Index>
 				<Flags/>
-				<ModiTime>1540994396</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S90 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Circulation, common, storage spaces - Zone Stamp A1 22.xml</Location>
@@ -2531,20 +2531,20 @@
 			<RoomCategory Idx="9101" Name="Circulation &amp; common spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>191052C8-1B0B-414B-AD9C-447299C56FD5</guid>
+						<guid>129783E9-914E-47A9-ACF0-9C8A3D9FCECA</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Circulation &amp; common spaces</Name>
 				<Index>9101</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Circulation &amp; common spaces - Zone Stamp A1 22.xml</Location>
@@ -2555,20 +2555,20 @@
 			<RoomCategory Idx="9102" Name="Air locks">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D9258FA7-507A-4102-B173-AEF764F1AF44</guid>
+						<guid>6A949ECE-969F-4503-8C28-81FEEED8C598</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Air locks</Name>
 				<Index>9102</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Air locks - Zone Stamp A1 22.xml</Location>
@@ -2579,20 +2579,20 @@
 			<RoomCategory Idx="9103" Name="Breezeways">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>F2D30767-696F-477A-A487-76AF586219A9</guid>
+						<guid>5116484D-AE57-4932-A613-D7011EC7C50B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Breezeways</Name>
 				<Index>9103</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Breezeways - Zone Stamp A1 22.xml</Location>
@@ -2603,20 +2603,20 @@
 			<RoomCategory Idx="9104" Name="Corridors">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>D823D737-4659-45B6-B6EA-FABD106B2703</guid>
+						<guid>A403F922-7214-46A3-88EB-D349EC650172</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Corridors</Name>
 				<Index>9104</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Corridors - Zone Stamp A1 22.xml</Location>
@@ -2627,20 +2627,20 @@
 			<RoomCategory Idx="9105" Name="Covered walkways and internal bridges">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>2742725E-45C3-4441-B8C2-8892DD9A0058</guid>
+						<guid>F875DA05-5112-4592-A02C-FD2AFE38B786</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Covered walkways and internal bridges</Name>
 				<Index>9105</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Covered walkways and internal bridges - Zone Stamp A1 22.xml</Location>
@@ -2651,20 +2651,20 @@
 			<RoomCategory Idx="9106" Name="Drop-off and collection areas">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>B9DD11BE-A656-4C45-AC16-271415BB2972</guid>
+						<guid>81E4E6CC-687F-47D6-BCE0-83F10B2FA3F9</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Drop-off and collection areas</Name>
 				<Index>9106</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Drop-off and collection areas - Zone Stamp A1 22.xml</Location>
@@ -2675,20 +2675,20 @@
 			<RoomCategory Idx="9107" Name="Escalators and travellators">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>928C06CE-014D-4B63-A8CA-D121CECD35EC</guid>
+						<guid>36B22960-584E-46D6-8B37-9D1842E7FF02</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Escalators and travellators</Name>
 				<Index>9107</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Escalators and travellators - Zone Stamp A1 22.xml</Location>
@@ -2699,20 +2699,20 @@
 			<RoomCategory Idx="9108" Name="Fire stairways">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>432B6A90-2D1D-47F1-8ACA-6B229F71B811</guid>
+						<guid>1419D319-76CD-426F-B51C-35B24336DA9E</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Fire stairways</Name>
 				<Index>9108</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Fire stairways - Zone Stamp A1 22.xml</Location>
@@ -2723,20 +2723,20 @@
 			<RoomCategory Idx="9109" Name="Goods conveyors">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>E80CA3A0-BBEC-4672-AAC9-6ED7B454E495</guid>
+						<guid>2A613953-A476-46B2-ABE8-3978F48E444B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Goods conveyors</Name>
 				<Index>9109</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Goods conveyors - Zone Stamp A1 22.xml</Location>
@@ -2747,20 +2747,20 @@
 			<RoomCategory Idx="9110" Name="Hallways">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>095E22D3-CD67-482D-BB87-1DED8AD74AD4</guid>
+						<guid>45B94CA4-3FE0-453A-A9EB-5024E751C350</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Hallways</Name>
 				<Index>9110</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Hallways - Zone Stamp A1 22.xml</Location>
@@ -2771,20 +2771,20 @@
 			<RoomCategory Idx="9111" Name="Landings">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>8FD16CF9-DE6E-41CB-BDFE-ABC8A73DC0C9</guid>
+						<guid>E975D67A-1ADB-46B3-8505-0A8BB3819A65</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Landings</Name>
 				<Index>9111</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Landings - Zone Stamp A1 22.xml</Location>
@@ -2795,20 +2795,20 @@
 			<RoomCategory Idx="9112" Name="Lift cars">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>37D0713C-A2EE-440C-8EA1-EDC43CFB11CD</guid>
+						<guid>BC745D93-0E92-4E94-B3CB-0E413CA3598C</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Lift cars</Name>
 				<Index>9112</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Lift cars - Zone Stamp A1 22.xml</Location>
@@ -2819,20 +2819,20 @@
 			<RoomCategory Idx="9113" Name="Lobbies">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>5A220BDC-011A-4ECE-BC3E-B0D9D6CC63A0</guid>
+						<guid>617A7EC2-6D12-4D02-91CD-28C60FA41531</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Lobbies</Name>
 				<Index>9113</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Lobbies - Zone Stamp A1 22.xml</Location>
@@ -2843,20 +2843,20 @@
 			<RoomCategory Idx="9114" Name="Porches">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A62B995A-ADF9-4E78-8159-FFECF8FECA50</guid>
+						<guid>22BF355B-ECC9-4733-A0FF-CAF36AE85928</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Porches</Name>
 				<Index>9114</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Porches - Zone Stamp A1 22.xml</Location>
@@ -2867,20 +2867,20 @@
 			<RoomCategory Idx="9115" Name="Public squares">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>8D6ADED0-7636-413A-89A1-2D2DF4D816AD</guid>
+						<guid>1A90DC9D-432F-4E0A-A51E-5A5EBD69FD7A</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Public squares</Name>
 				<Index>9115</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Public squares - Zone Stamp A1 22.xml</Location>
@@ -2891,20 +2891,20 @@
 			<RoomCategory Idx="9116" Name="Retail circulation spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>CA32C1B1-453B-45E3-8548-C22E54505EA3</guid>
+						<guid>B3404E1A-5227-484E-BF3E-EC6C5E458C86</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Retail circulation spaces</Name>
 				<Index>9116</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Retail circulation spaces - Zone Stamp A1 22.xml</Location>
@@ -2915,20 +2915,20 @@
 			<RoomCategory Idx="9117" Name="Shelters">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>BF12BE08-B991-48F5-8440-4DB009645093</guid>
+						<guid>2BC7472D-43AF-4475-81F9-B390EE47431D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Shelters</Name>
 				<Index>9117</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Shelters - Zone Stamp A1 22.xml</Location>
@@ -2939,20 +2939,20 @@
 			<RoomCategory Idx="9118" Name="Stairways">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>0B55EB05-F657-417C-AD83-4253CD523CF2</guid>
+						<guid>7923A92F-B137-457F-87BB-603117725F91</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Stairways</Name>
 				<Index>9118</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Stairways - Zone Stamp A1 22.xml</Location>
@@ -2963,20 +2963,20 @@
 			<RoomCategory Idx="9119" Name="Vestibules">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>019D928F-F276-427A-86F3-F7B6DF379752</guid>
+						<guid>2DA8D555-7FC0-4DA7-BEA8-3E04AB202565</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Vestibules</Name>
 				<Index>9119</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Vestibules - Zone Stamp A1 22.xml</Location>
@@ -2987,20 +2987,20 @@
 			<RoomCategory Idx="9120" Name="Walkways">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>43680A0F-8C58-4B7D-87B7-8CABD84E4EE9</guid>
+						<guid>67319011-0B5D-4518-B30A-4A9AE47525EC</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Walkways</Name>
 				<Index>9120</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Walkways - Zone Stamp A1 22.xml</Location>
@@ -3011,20 +3011,20 @@
 			<RoomCategory Idx="9121" Name="Wheelchair circulation spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>8364F9F2-F9A0-4A6E-B472-5679BE9A5657</guid>
+						<guid>A5CD021C-ECF5-4802-8B3D-F0A33F133E59</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Wheelchair circulation spaces</Name>
 				<Index>9121</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009775</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S91</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>34181</Red>
-					<Green>34181</Green>
-					<Blue>34181</Blue>
+					<Red>41634</Red>
+					<Green>43433</Green>
+					<Blue>35723</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Wheelchair circulation spaces - Zone Stamp A1 22.xml</Location>
@@ -3035,20 +3035,20 @@
 			<RoomCategory Idx="9201" Name="Storage spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>0B5DBA7D-4EBD-443D-AC3B-92BADF6B1730</guid>
+						<guid>EC3F3168-A435-46D3-8282-49525A106F45</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Storage spaces</Name>
 				<Index>9201</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S92</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>32896</Red>
-					<Green>16448</Green>
-					<Blue>16448</Blue>
+					<Red>44461</Red>
+					<Green>37522</Green>
+					<Blue>40092</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Storage spaces - Zone Stamp A1 22.xml</Location>
@@ -3059,20 +3059,20 @@
 			<RoomCategory Idx="9301" Name="Unoccupied voids">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>766BB1C9-94D1-419E-8C8C-B20E85ECA835</guid>
+						<guid>D364DACE-E87E-4FB4-905C-C8E01AF58626</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Unoccupied voids</Name>
 				<Index>9301</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S93</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>32896</Red>
-					<Green>16448</Green>
-					<Blue>16448</Blue>
+					<Red>35723</Red>
+					<Green>46260</Green>
+					<Blue>40863</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Unoccupied voids - Zone Stamp A1 22.xml</Location>
@@ -3083,20 +3083,20 @@
 			<RoomCategory Idx="9401" Name="Plant and control spaces">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>834DC4FC-C30D-4DA2-97DD-FCD2027C7EC9</guid>
+						<guid>99EC2E78-BDCF-40C7-A76D-FFF4A7DF7760</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Plant and control spaces</Name>
 				<Index>9401</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Plant and control spaces - Zone Stamp A1 22.xml</Location>
@@ -3107,20 +3107,20 @@
 			<RoomCategory Idx="9402" Name="Boiler rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>FD91DF27-370B-40CC-817D-EF7653C8D67D</guid>
+						<guid>02DFD0D8-2546-42EC-8936-873CAAD4253B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Boiler rooms</Name>
 				<Index>9402</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Boiler rooms - Zone Stamp A1 22.xml</Location>
@@ -3131,20 +3131,20 @@
 			<RoomCategory Idx="9403" Name="Control rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>FB271AF7-4F85-4016-A599-2C053821D1E6</guid>
+						<guid>822B9D6E-C17D-4FFC-B995-891C68531925</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Control rooms</Name>
 				<Index>9403</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Control rooms - Zone Stamp A1 22.xml</Location>
@@ -3155,20 +3155,20 @@
 			<RoomCategory Idx="9404" Name="Furnace rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>88717E9D-0A45-4A8D-9D4F-B3277F295DA5</guid>
+						<guid>891AC951-F9CF-4420-BE18-BF6BB3524866</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Furnace rooms</Name>
 				<Index>9404</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Furnace rooms - Zone Stamp A1 22.xml</Location>
@@ -3179,20 +3179,20 @@
 			<RoomCategory Idx="9405" Name="Lift machine rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>0D2365AF-8020-4AEE-832B-CC82C2F3640D</guid>
+						<guid>90CBB008-2289-4C69-8AAF-1D18B8AC945F</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Lift machine rooms</Name>
 				<Index>9405</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Lift machine rooms - Zone Stamp A1 22.xml</Location>
@@ -3203,20 +3203,20 @@
 			<RoomCategory Idx="9406" Name="Plant rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>A94E44FD-A756-4FA9-ADEF-F0D7F964F5C1</guid>
+						<guid>AF578190-A26A-4471-9850-35BE1A45C8D3</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Plant rooms</Name>
 				<Index>9406</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Plant rooms - Zone Stamp A1 22.xml</Location>
@@ -3227,20 +3227,20 @@
 			<RoomCategory Idx="9407" Name="Server rooms">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>7E7EE0D4-EEE2-453D-A851-36EE09EE1F99</guid>
+						<guid>0FC19175-77C5-402A-9625-1276B167B24B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Server rooms</Name>
 				<Index>9407</Index>
 				<Flags/>
-				<ModiTime>1540568300</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S94</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>16448</Green>
-					<Blue>32896</Blue>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
 				</RGBColor>
 				<AddParData>
 					<Location>AddPars\Zone - Server rooms - Zone Stamp A1 22.xml</Location>
@@ -3251,7 +3251,7 @@
 			<RoomCategory Idx="9500" Name="BIM &amp; TECHNICAL PURPOSE SPACES ===">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>DA96A010-B985-4DDE-9995-DFDE82FCF740</guid>
+						<guid>7FE5C94D-F4BC-437A-816A-6D1D133EF34D</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>BIM &amp; TECHNICAL PURPOSE SPACES ===</Name>
@@ -3275,19 +3275,19 @@
 			<RoomCategory Idx="9602" Name="Gross areas">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>4534E01F-2A32-4DE7-A211-0A0EF657C18E</guid>
+						<guid>4D88FAF4-B19D-493C-A746-674EAE61F294</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Gross areas</Name>
 				<Index>9602</Index>
 				<Flags/>
-				<ModiTime>1540994847</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S96 GSA</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>32896</Green>
+					<Red>24158</Red>
+					<Green>44718</Green>
 					<Blue>65535</Blue>
 				</RGBColor>
 				<AddParData>
@@ -3299,19 +3299,19 @@
 			<RoomCategory Idx="9603" Name="Gross by purpose">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>45E60F24-F5F8-4CC8-B5AB-658E8D0ED624</guid>
+						<guid>B4F9D665-3B8A-4A87-A795-B25C38627F0B</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Gross by purpose</Name>
 				<Index>9603</Index>
 				<Flags/>
-				<ModiTime>1540994847</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S96 GSP</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>32896</Green>
+					<Red>24158</Red>
+					<Green>44718</Green>
 					<Blue>65535</Blue>
 				</RGBColor>
 				<AddParData>
@@ -3323,19 +3323,19 @@
 			<RoomCategory Idx="9604" Name="Gross volumes">
 				<OdbObj Mv="3" Sv="1">
 					<OdbRef>
-						<guid>C8A352A5-BA66-4EDF-8ACE-FA7813830C10</guid>
+						<guid>379F4DFF-0ED9-4CB5-8F60-E20AA361B8A4</guid>
 					</OdbRef>
 				</OdbObj>
 				<Name>Gross volumes</Name>
 				<Index>9604</Index>
 				<Flags/>
-				<ModiTime>1540994847</ModiTime>
+				<ModiTime>1541009901</ModiTime>
 				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
 				<Code>S96 GSV</Code>
 				<StampName>Zone Stamp A1 22</StampName>
 				<RGBColor>
-					<Red>0</Red>
-					<Green>32896</Green>
+					<Red>24158</Red>
+					<Green>44718</Green>
 					<Blue>65535</Blue>
 				</RGBColor>
 				<AddParData>
@@ -3343,6 +3343,30 @@
 				</AddParData>
 				<MainGuid>A3B6C08C-AC8D-4045-905F-3A467AB63BA7</MainGuid>
 				<RevGuid>1434D860-D63B-4664-82AC-BAA37B291268</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9999" Name="Separator">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>2F4315C9-ACE1-46E3-8AB1-D9A57DEB2C80</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Separator</Name>
+				<Index>9999</Index>
+				<Flags/>
+				<ModiTime>1540568300</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SXX ====</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>0</Red>
+					<Green>0</Green>
+					<Blue>0</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Separator - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>3BA7290C-B867-48F3-B4A4-D37DD1BA11E8</MainGuid>
+				<RevGuid>7797D7E2-4ED9-4590-BF00-8CEE90981365</RevGuid>
 			</RoomCategory>
 		</Attributes>
 		<Attributes Type="Markup Styles">

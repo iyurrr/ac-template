@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>BIM Classification - Missed</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>19</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>11</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Construction Element</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Beam</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>2</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1111834957</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Beam</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Column</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1129270357</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Column</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Curtain Wall</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1129791820</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>2</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Curtain Wall</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>14</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Curtain Wall</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Door</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1146048338</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>11E85B84-8DD1-491B-A2FE-337454A91545</MainGuid>
+								<RevGuid>2BBCCD48-1B20-4E8B-974A-C0AF37FB2C28</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Door</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Grid</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1196574028</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>31759AEF-8A25-4BAC-A237-48E1094B43E7</MainGuid>
+								<RevGuid>4B47F82B-CFF4-4BC6-B8F7-44759851837F</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Construction Element</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Mesh</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1296388936</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Site Geometry</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Morph</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1179800392</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Morph</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Railing</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1380010316</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>2</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Railing</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>14</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Railing</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Roof</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1314017094</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Roof</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Shell</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1397245260</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Shell</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Skylight</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1397446988</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>5921D56A-82F2-4253-BD84-6091E5717DC4</MainGuid>
+								<RevGuid>B94B3062-5B11-4723-AFE5-3BC024DB6561</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Skylight</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Slab</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1128614220</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Slab</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Stair</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1398030665</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>2</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Stair</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>14</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Stair</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Wall</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1463897138</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Wall</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Wall End</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1463895374</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>0F059DC2-6053-11D7-9084-000393ABEA8E</MainGuid>
+								<RevGuid>A10B81E9-F2E4-4E90-8987-5000B8FFEAB6</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Wall</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Window</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1464421956</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>4ABD0A6E-634B-4931-B3AA-9BEE01F35CDF</MainGuid>
+								<RevGuid>008D0FC9-0CBC-4117-903A-53B3D68B9FA0</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Window</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Window Corner</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1129469764</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>7DDE9DC4-66BD-41C8-8376-46D0B352F69B</MainGuid>
+								<RevGuid>F2DCDB34-469B-41FC-BD4C-1F4C7D83E775</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Window</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Mismatched Zone</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>223</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1380929357</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>A73622DE-E40A-4E63-ADB7-52D13422BD06</MainGuid>
+								<RevGuid>D7D930ED-DE44-42D3-888C-921571BB88CC</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>2</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>1</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Space</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>14</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Space</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Classification - Proxy Element</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>135</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 22</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Building Element Proxy</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Level Outiles</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>true</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>61</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>false</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>1</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM White Model</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>400</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>Dz_95_10 Validation - Classification</Name>
+		<ReferencedRule>BIM Classification - Missed</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Beam</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Column</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Curtain Wall</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Door</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Grid</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Mesh</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Morph</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Railing</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Roof</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Shell</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Skylight</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Slab</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Stair</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Wall</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Wall End</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Window</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Window Corner</ReferencedRule>
+		<ReferencedRule>BIM Classification - Mismatched Zone</ReferencedRule>
+		<ReferencedRule>BIM Classification - Proxy Element</ReferencedRule>
+		<ReferencedRule>BIM Level Outiles</ReferencedRule>
+		<ReferencedRule>BIM White Model</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

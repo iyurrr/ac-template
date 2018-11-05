@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>BIM Floating Bugs</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>19</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Element | Floating Matching</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>BIM - REVIEW &amp; VALIDATION</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="BoolVariant">
+									<Status>Normal</Status>
+									<Value>true</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM Level Outiles</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>true</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>61</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>false</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>1</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>BIM White Model</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>400</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>Dz_95_10 Validation - Floatings</Name>
+		<ReferencedRule>BIM Floating Bugs</ReferencedRule>
+		<ReferencedRule>BIM Level Outiles</ReferencedRule>
+		<ReferencedRule>BIM White Model</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

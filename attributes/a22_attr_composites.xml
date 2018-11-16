@@ -1,0 +1,5617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+			<CompositeWall Idx="18001" Name="C18 = Paving systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>BD9E64C5-D214-4F02-B1ED-9AA47F0676D7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C18 = Paving systems =</Name>
+				<Index>18001</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="18010" Name="C18 G.Gra400-D.Rcc050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>AD3DDC9C-92ED-4816-8B22-BC7F94088F44</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C18 G.Gra400-D.Rcc050</Name>
+				<Index>18010</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="18020" Name="C18 H.XPS200-G.Gra120-D.Cem040-T.Stn040">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>3C5F093B-D7AE-4224-8430-51F5827FBC2E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C18 H.XPS200-G.Gra120-D.Cem040-T.Stn040</Name>
+				<Index>18020</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21000" Name="C21 = Substructure  systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7C2C13D5-5867-409B-986A-AE39706B08F6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 = Substructure  systems =</Name>
+				<Index>21000</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21200" Name="C21 D.Rcc200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6EBA4744-62DD-4EF2-8724-372028C55B4F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 D.Rcc200</Name>
+				<Index>21200</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21250" Name="C21 D.Rcc250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A287A4EC-EA83-4337-9EE4-337EE636A659</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 D.Rcc250</Name>
+				<Index>21250</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21300" Name="C21 D.Rcc300">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>025760E0-3A1E-4B8D-91E7-7A6E2D7615F0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 D.Rcc300</Name>
+				<Index>21300</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21400" Name="C21 D.Rcc400">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>3DCAE2F9-95EB-4896-85B7-11D86149368B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 D.Rcc400</Name>
+				<Index>21400</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21600" Name="C21 D.Rcc600">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7DBCC131-B408-48BE-B00D-7C252D97D8A5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 D.Rcc600</Name>
+				<Index>21600</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="21800" Name="C21 D.Rcc800">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7AD46819-2CE8-4F45-B259-EB20AACD3E38</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C21 D.Rcc800</Name>
+				<Index>21800</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25001" Name="C25 = Monolithic &amp; panel wall structure systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>5B75CD9B-DB6C-49D8-9E77-22AB3ACF963E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 = Monolithic &amp; panel wall structure systems =</Name>
+				<Index>25001</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542388470</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25010" Name="C25 D.Rcc100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A23385F4-D6A1-4431-94E6-DB71FF2114CC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc100</Name>
+				<Index>25010</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25011" Name="C25 D.Rcc100-F.RnE010 | F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1B864B74-EA72-49B6-8A21-1FCDC1730119</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc100-F.RnE010 | F.RnE010</Name>
+				<Index>25011</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25020" Name="C25 D.Rcc200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>ABB8CEB8-F7A5-481A-A41C-F2FEC124FE9D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc200</Name>
+				<Index>25020</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25021" Name="C25 D.Rcc200-H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>DA026C5A-BE60-4262-9895-9F534C481A68</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc200-H.Mnw140-F.RnE010</Name>
+				<Index>25021</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25022" Name="C25 D.Rcc200-H.Mnw140-F.RnE010 | H.XPS100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>229ECFEC-C3E2-423F-BA42-5178FEAAAB38</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc200-H.Mnw140-F.RnE010 | H.XPS100</Name>
+				<Index>25022</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25023" Name="C25 D.Rcc200-H.Mnw150-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>5F8A24F6-F7F7-4144-9EC8-819713A694D5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc200-H.Mnw150-F.RnE010</Name>
+				<Index>25023</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25030" Name="C25 D.Rcc250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9D1D7CEE-4115-4DDF-AA45-1E8A53B1EDB2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250</Name>
+				<Index>25030</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25031" Name="C25 D.Rcc250-F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>94FE1354-8F1A-4659-9D4E-EAC718AB5ED4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-F.PsI020</Name>
+				<Index>25031</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25032" Name="C25 D.Rcc250-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F0795095-C0EE-4C7F-B2B4-58868C24ED73</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-F.PsI020 | F.PsI020</Name>
+				<Index>25032</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25033" Name="C25 D.Rcc250-F.RnE010 | H.XPS140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4DC4AA80-266B-4192-834E-2C8BAC2CAE5E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-F.RnE010 | H.XPS140-F.RnE010</Name>
+				<Index>25033</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25034" Name="C25 D.Rcc250-F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>2419B0E0-AF25-440E-8F3C-908B5EE6BF61</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-F.RnE020</Name>
+				<Index>25034</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25035" Name="C25 D.Rcc250-F.RnE020 | F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>95052172-7C39-4D1E-A5FB-29D17794A64E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-F.RnE020 | F.RnE020</Name>
+				<Index>25035</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25036" Name="C25 D.Rcc250-H.Mnw050-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>0F6665DC-DD74-4A30-90E8-AE5B7F7C0ECC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-H.Mnw050-F.RnE010</Name>
+				<Index>25036</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25037" Name="C25 D.Rcc250-H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F3FB54FB-5FDD-48EF-9E09-F53F281D7382</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-H.Mnw140-F.RnE010</Name>
+				<Index>25037</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25038" Name="C25 D.Rcc250-H.Mnw140-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>82FC51E7-A577-45A1-957C-E96B145AD0F9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-H.Mnw140-F.RnE010 | F.PsI020</Name>
+				<Index>25038</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25039" Name="C25 D.Rcc250-H.Mnw140-F.RnE010 | H.XPS140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FF813525-4214-40F3-A336-647146F6DA3E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-H.Mnw140-F.RnE010 | H.XPS140-F.RnE010</Name>
+				<Index>25039</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25040" Name="C25 D.Rcc250-H.XPS120-F.RnE030">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>0851D583-EBBF-413C-BC0B-C47879B00AC3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-H.XPS120-F.RnE030</Name>
+				<Index>25040</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25041" Name="C25 D.Rcc250-H.XPS130-F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>3E52A98A-8AAC-41B9-944B-B10BFFD6E406</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc250-H.XPS130-F.RnE020</Name>
+				<Index>25041</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25050" Name="C25 D.Rcc300">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1260B81B-4ACA-44AD-BB72-B264826A49D0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc300</Name>
+				<Index>25050</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25060" Name="C25 D.Rcc350">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>C14E20C9-04F8-4AD1-B931-03998A79BAB1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 D.Rcc350</Name>
+				<Index>25060</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25510" Name="C25 P.Rcc200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>20F94781-BF03-498A-AAA0-CA6313702FA4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 P.Rcc200</Name>
+				<Index>25510</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="25520" Name="C25 P.Scc200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F7374AED-0D3A-4B62-BF94-1A491C06629C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C25 P.Scc200</Name>
+				<Index>25520</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26000" Name="C26 = Unit wall structure systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>CCAEDEBE-0E55-4714-AD5C-227ACFBD4B75</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 = Unit wall structure systems =</Name>
+				<Index>26000</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26010" Name="C26 B.CoA100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>49EB8E12-B71E-447E-8149-6C71B1CF5D12</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA100</Name>
+				<Index>26010</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26020" Name="C26 B.CoA200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E0D86763-C8BD-418C-AF66-D28389DC8D33</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA200</Name>
+				<Index>26020</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26021" Name="C26 B.CoA200-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>DDF5B27C-A48C-4330-9D02-E34FDF374AF8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA200-F.PsI020 | F.PsI020</Name>
+				<Index>26021</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26022" Name="C26 B.CoA200-S.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B93D1DC8-A3B8-40A8-A4F0-3B85B2912923</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA200-S.Mnw140-F.RnE010</Name>
+				<Index>26022</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26023" Name="C26 B.CoA200-T.Crm050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>BFADD3CD-60BB-47A6-8CB5-F0C4EECDD143</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA200-T.Crm050</Name>
+				<Index>26023</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26030" Name="C26 B.CoA300">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>2454842D-332E-4FB8-9FAE-21D666CE76CB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA300</Name>
+				<Index>26030</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26031" Name="C26 B.CoA300-S.Mnw150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4F34501A-A044-4039-80B9-DA1044CE1547</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA300-S.Mnw150</Name>
+				<Index>26031</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26040" Name="C26 B.CoA375">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6C0D8517-887E-432F-9C28-2893114E3E46</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA375</Name>
+				<Index>26040</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26050" Name="C26 B.CoA400">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4E7D6C7D-24A6-46CE-9B16-FE18CA9A1A27</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.CoA400</Name>
+				<Index>26050</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26060" Name="C26 B.Con090">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E6C5E711-CC7A-44C2-8806-31CA947F94F4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con090</Name>
+				<Index>26060</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26070" Name="C26 B.Con115">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4CBAD2DE-C79B-40C6-A8FD-0A5BE93A7A6B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con115</Name>
+				<Index>26070</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26080" Name="C26 B.Con190">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E25908CD-F5ED-415E-9C64-70513A5147E9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con190</Name>
+				<Index>26080</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26090" Name="C26 B.Con250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E8828C82-728B-4F18-B26A-7E06A7FDF8EE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con250</Name>
+				<Index>26090</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26091" Name="C26 B.Con250 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>910E5724-22DB-4EF9-A2CC-A746368DF9E6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con250 | F.PsI020</Name>
+				<Index>26091</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26092" Name="C26 B.Con250-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>0E6BCB62-96B1-4014-B4BA-F853AA12CB67</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con250-F.PsI020 | F.PsI020</Name>
+				<Index>26092</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26093" Name="C26 B.Con250-H.Mnw150-F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EC3F38C6-44C1-427C-A49E-842979F7FFFE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Con250-H.Mnw150-F.RnE020</Name>
+				<Index>26093</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26100" Name="C26 B.Crm065">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>5DB4D1B5-0C28-42D4-9AD2-ECC7570E4D4E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm065</Name>
+				<Index>26100</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26109" Name="C26 B.Crm120">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A64FC978-3C29-4E43-8774-5A4770D2F81D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm120</Name>
+				<Index>26109</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26110" Name="C26 B.Crm120 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>74F27CA1-6DD6-4555-B772-9861B7627985</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm120 | F.PsI020</Name>
+				<Index>26110</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26111" Name="C26 B.Crm120-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D2D9954B-8CEA-4760-BFC9-3A9CAF96C602</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm120-F.PsI020 | F.PsI020</Name>
+				<Index>26111</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26112" Name="C26 B.Crm120-H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F3054C3C-C1FD-476E-A49C-5F9EEF6512A9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm120-H.Mnw140-F.RnE010</Name>
+				<Index>26112</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26119" Name="C26 B.Crm250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9CF45888-EAD4-4583-BFE7-C2127E6DABE8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250</Name>
+				<Index>26119</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26120" Name="C26 B.Crm250-F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EBA3DA47-BB66-4D9C-9322-02DED7921334</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-F.PsI020</Name>
+				<Index>26120</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26121" Name="C26 B.Crm250-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>C7132952-DC31-49CE-95FC-38172B8584CD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-F.PsI020 | F.PsI020</Name>
+				<Index>26121</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26122" Name="C26 B.Crm250-H.Mnw050-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>301D4558-F59C-4891-8078-04469C5F3062</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-H.Mnw050-F.RnE010</Name>
+				<Index>26122</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26123" Name="C26 B.Crm250-H.Mnw100-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>048008BC-9C87-415A-8C92-22569906F2F3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-H.Mnw100-F.RnE010 | F.PsI020</Name>
+				<Index>26123</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26124" Name="C26 B.Crm250-H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>5875F942-21EA-4A55-A84F-595C27596CE1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-H.Mnw140-F.RnE010</Name>
+				<Index>26124</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26125" Name="C26 B.Crm250-H.Mnw140-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>66521DB1-6DFD-4EEA-84A8-F41318330A43</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-H.Mnw140-F.RnE010 | F.PsI020</Name>
+				<Index>26125</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26126" Name="C26 B.Crm250-H.Mnw140-F.RnE010 | H.Mnw050-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D35938AE-73AB-4E68-AE09-0D3E6CAFE402</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm250-H.Mnw140-F.RnE010 | H.Mnw050-F.RnE010</Name>
+				<Index>26126</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26140" Name="C26 B.Crm380">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A9C2CF00-B1BA-4903-95AB-91A231CC2111</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm380</Name>
+				<Index>26140</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26141" Name="C26 B.Crm380 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E95EAF4B-4D2F-4E3A-BEC6-1156E3092039</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm380 | F.PsI020</Name>
+				<Index>26141</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26142" Name="C26 B.Crm380-H.Mnw140-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>CA306C61-4908-4079-A66A-7147C97A160F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm380-H.Mnw140-F.PsI010</Name>
+				<Index>26142</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26143" Name="C26 B.Crm380-H.Mnw140-F.PsI010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>99FEA4F6-8AD1-4B61-9063-3C14EC69D2E6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm380-H.Mnw140-F.PsI010 | F.PsI020</Name>
+				<Index>26143</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26150" Name="C26 B.Crm510-H.Mnw140-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D6646838-1FAF-4A3C-8CDE-E48BDC46C894</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm510-H.Mnw140-F.PsI010</Name>
+				<Index>26150</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26151" Name="C26 B.Crm510-H.Mnw140-F.PsI010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1FD40FA6-5B0C-4358-8FDC-EC506B388E93</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm510-H.Mnw140-F.PsI010 | F.PsI020</Name>
+				<Index>26151</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26160" Name="C26 B.Crm770-H.Mnw140-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>CCC1D30B-A5F8-4B2D-AB9C-47FA47FBABFC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm770-H.Mnw140-F.PsI010</Name>
+				<Index>26160</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26161" Name="C26 B.Crm770-H.Mnw140-F.PsI010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4832F583-6433-45B8-876D-35EAA4203051</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 B.Crm770-H.Mnw140-F.PsI010 | F.PsI020</Name>
+				<Index>26161</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26170" Name="C26 K.HCe065">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EF43343D-6B71-4134-B700-E9251C0E24FD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe065</Name>
+				<Index>26170</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26180" Name="C26 K.HCe120">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4381BA78-A734-486F-AFBF-50933DEF312C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe120</Name>
+				<Index>26180</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26181" Name="C26 K.HCe120 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E04AA426-E07C-4CF4-A364-8DFB1EC3CEBC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe120 | F.PsI020</Name>
+				<Index>26181</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26182" Name="C26 K.HCe120-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>88AAA790-E2C6-4EE9-A80F-EB8D97FB7A4E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe120-F.PsI020 | F.PsI020</Name>
+				<Index>26182</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26183" Name="C26 K.HCe120-H.Mnw120-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4E144A1F-4FC6-49C0-992F-0B8A5EE231EF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe120-H.Mnw120-F.RnE010 | F.PsI020</Name>
+				<Index>26183</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26200" Name="C26 K.HCe250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EBB4C9E8-D87D-4E3B-80BA-2AB2FC120452</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250</Name>
+				<Index>26200</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26201" Name="C26 K.HCe250 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F8BB8CF1-A66F-4D26-AA64-AE04F3AE3E44</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250 | F.PsI020</Name>
+				<Index>26201</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26202" Name="C26 K.HCe250-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A6D1BA30-1F72-4BA5-91A4-00235D501DE8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-F.PsI020 | F.PsI020</Name>
+				<Index>26202</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26203" Name="C26 K.HCe250-H.EPS100-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>C98E94F2-D42E-4B6D-BD4B-B2939446E85D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-H.EPS100-F.RnE010</Name>
+				<Index>26203</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26204" Name="C26 K.HCe250-H.Mnw100-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>BF41631A-3760-4086-8DDD-781A6DF6F571</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-H.Mnw100-F.RnE010 | F.PsI020</Name>
+				<Index>26204</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26205" Name="C26 K.HCe250-H.Mnw110-E.Air040-T.Crm010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>66284534-0274-411F-9926-8A373D1BFF65</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-H.Mnw110-E.Air040-T.Crm010</Name>
+				<Index>26205</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26206" Name="C26 K.HCe250-H.Mnw110-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>19B3276D-40E5-4137-A51A-E92DE86A98C2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-H.Mnw110-F.RnE010</Name>
+				<Index>26206</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26207" Name="C26 K.HCe250-H.Mnw140-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>54D59F9B-1177-4822-9934-C7E30F84B23F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-H.Mnw140-F.RnE010 | F.PsI020</Name>
+				<Index>26207</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26208" Name="C26 K.HCe250-H.Mnw150-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F34BD752-D520-4728-A33F-F1C21DCE7F41</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe250-H.Mnw150-F.RnE010</Name>
+				<Index>26208</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26220" Name="C26 K.HCe380">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6A9B0573-E3CA-4350-9D7B-9E8A29A682CF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe380</Name>
+				<Index>26220</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26221" Name="C26 K.HCe380-F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D5F589E1-A230-420F-A24F-D1463D8B5100</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe380-F.PsI020</Name>
+				<Index>26221</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26222" Name="C26 K.HCe380-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F0614D6E-6B8E-4C1E-8DF3-12698771C54A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.HCe380-F.PsI020 | F.PsI020</Name>
+				<Index>26222</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26231" Name="C26 K.SCe065">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>DF6A4318-7494-4B66-BF93-0743C4F5CEB4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe065</Name>
+				<Index>26231</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26232" Name="C26 K.SCe065-F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FF317B41-4176-4FB3-BEF6-47665709FE6B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe065-F.PsI020</Name>
+				<Index>26232</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26240" Name="C26 K.SCe120">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F5D67A7E-65EB-497C-BABD-C8EC192CB0F7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120</Name>
+				<Index>26240</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26241" Name="C26 K.SCe120 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>37B1D310-5C67-4058-A4F2-9288E4C7D763</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120 | F.PsI020</Name>
+				<Index>26241</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26242" Name="C26 K.SCe120-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FE6D8F12-D58B-458F-8677-ABA36D89A08E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-F.PsI020 | F.PsI020</Name>
+				<Index>26242</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26243" Name="C26 K.SCe120-F.RnE020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E231F549-D836-495F-A1D1-512F5467E387</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-F.RnE020 | F.PsI020</Name>
+				<Index>26243</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26244" Name="C26 K.SCe120-H.Mnw050-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>86D722FE-28C0-4B8C-B47F-403E185DE2AC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-H.Mnw050-F.PsI010</Name>
+				<Index>26244</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26245" Name="C26 K.SCe120-H.Mnw050-F.PsI010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>48AA16E8-4890-4D63-AB2C-032D0A1770BD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-H.Mnw050-F.PsI010 | F.PsI020</Name>
+				<Index>26245</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26246" Name="C26 K.SCe120-H.Mnw060 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D78E1E5F-47E5-4BE9-AED3-CEA3D70950EA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-H.Mnw060 | F.PsI020</Name>
+				<Index>26246</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26247" Name="C26 K.SCe120-H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>2BED20D5-99C4-4BEE-B088-BCCEE4227296</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-H.Mnw140-F.RnE010</Name>
+				<Index>26247</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26248" Name="C26 K.SCe120-H.Mnw140-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>C8519B95-25B9-4AB9-AFB8-BD531672A670</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-H.Mnw140-F.RnE010 | F.PsI020</Name>
+				<Index>26248</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26249" Name="C26 K.SCe120-H.XPS120-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A3F94B3D-67A0-4D32-A51B-ACB5AC89A5AA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe120-H.XPS120-F.PsI010</Name>
+				<Index>26249</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26260" Name="C26 K.SCe250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>61185284-EC12-4372-A592-CD2DA66B2AF6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250</Name>
+				<Index>26260</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26261" Name="C26 K.SCe250 | F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E86AF921-DA22-4617-92B7-D174620B4869</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250 | F.PsI010</Name>
+				<Index>26261</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26262" Name="C26 K.SCe250 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>63AF4457-599F-4BAE-8557-CBC142B0BD15</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250 | F.PsI020</Name>
+				<Index>26262</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26263" Name="C26 K.SCe250-F.PsI020 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9C1F5CCA-07E0-488C-ADF8-A3988C1E9820</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250-F.PsI020 | F.PsI020</Name>
+				<Index>26263</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26264" Name="C26 K.SCe250-F.RnE020 | F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1DDDD0FC-D88A-4982-8D5E-5EECE98F1C48</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250-F.RnE020 | F.RnE020</Name>
+				<Index>26264</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26265" Name="C26 K.SCe250-H.Mnw050-F.PsI010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6F9FDC0F-6EEF-49EE-96E2-B544AF3EAF39</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250-H.Mnw050-F.PsI010 | F.PsI020</Name>
+				<Index>26265</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26266" Name="C26 K.SCe250-H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4BCDA261-2B61-4FDA-A4A5-A43E88B17524</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250-H.Mnw140-F.RnE010</Name>
+				<Index>26266</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26267" Name="C26 K.SCe250-H.Mnw140-F.RnE010 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B8202ACE-572E-42A7-A2A7-A8F1B48D8539</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250-H.Mnw140-F.RnE010 | F.PsI020</Name>
+				<Index>26267</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26268" Name="C26 K.SCe250-S.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9810A5E5-8235-435F-B865-0D2830C5802F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe250-S.Mnw140-F.RnE010</Name>
+				<Index>26268</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26280" Name="C26 K.SCe380">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>C251017D-A0EF-4F07-8998-E3A4B447B232</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe380</Name>
+				<Index>26280</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="26281" Name="C26 K.SCe380 | F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>3ADB3BF2-BDBA-4DE0-89B3-06B6E4A8835D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C26 K.SCe380 | F.PsI020</Name>
+				<Index>26281</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="27000" Name="C27 = Wall cladding &amp; lining systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>143660E5-60FF-461F-B3BE-385D9D6754E6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C27 = Wall cladding &amp; lining systems =</Name>
+				<Index>27000</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="27011" Name="C27 E.Air100-R.Mtl150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>CB389171-5ABA-4F8A-B757-1D95ED688283</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C27 E.Air100-R.Mtl150</Name>
+				<Index>27011</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="27012" Name="C27 E.Air100-R.Mtl150 | R.Gps010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>BF22DE23-20B1-4977-9375-5116BC545728</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C27 E.Air100-R.Mtl150 | R.Gps010</Name>
+				<Index>27012</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="27021" Name="C27 H.Mnw080-E.Air010-H.CeG040 | F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6517F54D-492E-4AE5-A81D-912276FD02DF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C27 H.Mnw080-E.Air010-H.CeG040 | F.PsI010</Name>
+				<Index>27021</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="27030" Name="C27 R.Mtl150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>91D8AEA9-3C46-4754-A452-460AF763F107</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C27 R.Mtl150</Name>
+				<Index>27030</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28000" Name="C28 = Wall covering and finish systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A02860F3-3593-45B2-9E43-0D86F0A7EA23</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 = Wall covering and finish systems =</Name>
+				<Index>28000</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28010" Name="C28 B.Gps025">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>04A91E85-61AE-40E6-B877-F44702633969</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 B.Gps025</Name>
+				<Index>28010</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28020" Name="C28 B.Gps050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EE251C02-EFA1-4A77-8CD3-0B2E125538E7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 B.Gps050</Name>
+				<Index>28020</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28030" Name="C28 B.Gps075">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>CD4CB54E-0EC6-408F-8235-48F3B1136556</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 B.Gps075</Name>
+				<Index>28030</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28040" Name="C28 B.Gps125">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>91C3F6A2-D06D-491B-92BB-78ED4C960603</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 B.Gps125</Name>
+				<Index>28040</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28050" Name="C28 F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E71590ED-02D8-47DD-B02D-2C8DD484CACD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 F.PsI010</Name>
+				<Index>28050</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28051" Name="C28 F.PsI020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9615EEFE-9328-4C4E-8078-085CEA7D55DD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 F.PsI020</Name>
+				<Index>28051</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28060" Name="C28 F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D4FFFEA0-2677-41F3-8246-13A61459D984</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 F.RnE010</Name>
+				<Index>28060</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28061" Name="C28 F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>ABDBB74B-4AF1-4DA9-B7C0-4A6D242FC156</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 F.RnE020</Name>
+				<Index>28061</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28071" Name="C28 H.Mnw020-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>477912F4-B03D-4086-9869-E1F7A6358681</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw020-F.PsI010</Name>
+				<Index>28071</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28080" Name="C28 H.Mnw050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>BA0DCDCA-DDC1-4A26-8C8A-AD8422A734D2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw050</Name>
+				<Index>28080</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28081" Name="C28 H.Mnw050-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F47AADCA-6D2D-49E9-8D37-F79E84E9F830</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw050-F.PsI010</Name>
+				<Index>28081</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28082" Name="C28 H.Mnw050-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>BB95ADCA-8555-4949-8D34-2FCD6AF44049</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw050-F.RnE010</Name>
+				<Index>28082</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28090" Name="C28 H.Mnw060">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A4226920-F4B5-4C46-A996-6FA7EE65D1F5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw060</Name>
+				<Index>28090</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28100" Name="C28 H.Mnw080">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>289C795A-9943-425B-88EE-80928BC1EF8A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw080</Name>
+				<Index>28100</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28101" Name="C28 H.Mnw080-F.PsI010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A80D81BF-147D-405D-B992-12C4DC94FB3D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw080-F.PsI010</Name>
+				<Index>28101</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28102" Name="C28 H.Mnw080-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9D0DD3FD-35A4-4642-8D17-A012A61F977E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw080-F.RnE010</Name>
+				<Index>28102</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28110" Name="C28 H.Mnw100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FE7F4C21-0BFB-4EE7-86D7-2056DFAF0884</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw100</Name>
+				<Index>28110</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28111" Name="C28 H.Mnw100-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B0718450-ED75-457E-9D87-9CE0DD1BD947</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw100-F.RnE010</Name>
+				<Index>28111</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28121" Name="C28 H.Mnw110-E.Air040-T.Crm010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B4BE4C06-2969-4AE2-91AA-453D7873435F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw110-E.Air040-T.Crm010</Name>
+				<Index>28121</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28122" Name="C28 H.Mnw110-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D95692DE-ABFF-413E-8374-AEB1595A4448</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw110-F.RnE010</Name>
+				<Index>28122</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28131" Name="C28 H.Mnw120-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E265AD30-0F5F-4164-B225-DB6E347859BB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw120-F.RnE010</Name>
+				<Index>28131</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28141" Name="C28 H.Mnw130-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6AC70869-535F-47E3-9639-03CA31738E34</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw130-F.RnE010</Name>
+				<Index>28141</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28151" Name="C28 H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>85728225-BD54-4488-BD92-213E05E08940</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw140-F.RnE010</Name>
+				<Index>28151</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28160" Name="C28 H.Mnw150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>703CB199-2389-4938-A881-79C11AE716AF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw150</Name>
+				<Index>28160</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28161" Name="C28 H.Mnw150-E.Air040-T.Crm010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>2EC7D115-E8BF-42CD-B3F3-1E967AF02D5E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw150-E.Air040-T.Crm010</Name>
+				<Index>28161</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28162" Name="C28 H.Mnw150-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>0E7AAA92-49BD-485F-BAD4-29F8E9090AC9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw150-F.RnE010</Name>
+				<Index>28162</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28170" Name="C28 H.Mnw180">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>96E89C5A-35AC-4A35-B0B9-F7184C24059E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw180</Name>
+				<Index>28170</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28180" Name="C28 H.Mnw190">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FA1757B9-4A2C-478A-836C-4BCA3EF50B35</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw190</Name>
+				<Index>28180</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28181" Name="C28 H.Mnw190-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F7B98743-D863-4626-86A9-AECE11D5F057</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw190-F.RnE010</Name>
+				<Index>28181</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28190" Name="C28 H.Mnw200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>408FFD51-DB94-47B8-89D3-E3E7E2516EE3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.Mnw200</Name>
+				<Index>28190</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28200" Name="C28 H.XPS050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>83CDC2A2-ABF9-4ADD-BF38-6D07B73CC57E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS050</Name>
+				<Index>28200</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28201" Name="C28 H.XPS050-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>35BA9E6E-67E7-41B2-A682-60CC5B2DEA2B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS050-F.RnE010</Name>
+				<Index>28201</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28202" Name="C28 H.XPS050-F.RnE020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1CB3A4EB-4C1E-48A1-BAC6-53E73A1FD749</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS050-F.RnE020</Name>
+				<Index>28202</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28211" Name="C28 H.XPS080-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>92198DA4-FA43-48D5-BE75-142D67EE20DB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS080-F.RnE010</Name>
+				<Index>28211</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28220" Name="C28 H.XPS100-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>9E85E6A1-75EF-45AB-B6C8-12C58EE6D801</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS100-F.RnE010</Name>
+				<Index>28220</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28230" Name="C28 H.XPS120">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>3D47BB61-8431-4ABD-BC63-A60586C1D5CF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS120</Name>
+				<Index>28230</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28241" Name="C28 H.XPS140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6B5E8633-839A-4AB1-82D7-76B4896C134A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS140-F.RnE010</Name>
+				<Index>28241</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28242" Name="C28 H.XPS140-F.RnM010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4E062A9E-2C2A-4A3F-8D81-AF68AA839ED7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS140-F.RnM010</Name>
+				<Index>28242</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28250" Name="C28 H.XPS150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>0472C85D-7265-4828-8670-7A56A164BB25</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 H.XPS150</Name>
+				<Index>28250</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28260" Name="C28 R.Gps010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>810A71CA-A04A-4E6C-9E09-8227C7474B00</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 R.Gps010</Name>
+				<Index>28260</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28270" Name="C28 R.Gps012">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>3169D403-F63B-4239-90BE-DB5E1D4EA00C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 R.Gps012</Name>
+				<Index>28270</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="28271" Name="C28 R.Gps012-S.Mnw100-R.Gps012">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>2204BD41-9982-4063-B314-43A78831A0CF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C28 R.Gps012-S.Mnw100-R.Gps012</Name>
+				<Index>28271</Index>
+				<Flags>CompositeWall</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30001" Name="C30 = Roof, floor, decking and balcony systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E7148506-403F-4923-9350-7507FD7D040D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 = Roof, floor, decking and balcony systems =</Name>
+				<Index>30001</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30011" Name="C30 D.Cem070-G.Snd040-T.Stn040">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F05227C2-9F05-4817-BD6C-14A84C1FA8B5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Cem070-G.Snd040-T.Stn040</Name>
+				<Index>30011</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30021" Name="C30 D.Cem080-E.Air020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D761C244-644B-41ED-8513-02011E4E94E5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Cem080-E.Air020</Name>
+				<Index>30021</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30022" Name="C30 D.Cem080-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1900D538-9B24-4368-A8A6-B6123769E215</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Cem080-T.Crm020</Name>
+				<Index>30022</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30041" Name="C30 D.Cem180-G.Gra040-T.Stn080">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F2B1A3A2-DFCE-4B11-8B87-7EAE7E4B3DE5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Cem180-G.Gra040-T.Stn080</Name>
+				<Index>30041</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30050" Name="C30 D.Rcc100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>75DF0F6E-F2CB-4FA3-A5C1-BEAF63A7B391</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc100</Name>
+				<Index>30050</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30051" Name="C30 D.Rcc100 | G.Gra350">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>8F0B224D-54D9-417D-9473-B1ECD271FE40</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc100 | G.Gra350</Name>
+				<Index>30051</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30052" Name="C30 D.Rcc100-D.Cem060-T.Qry040 | G.Eth200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>60F1E60A-48A4-48CD-8545-F7B0DBBFEF20</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc100-D.Cem060-T.Qry040 | G.Eth200</Name>
+				<Index>30052</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30060" Name="C30 D.Rcc150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4BB6EEE7-B9E2-4FF7-9DFA-0C1D4F2E7EF8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc150</Name>
+				<Index>30060</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30061" Name="C30 D.Rcc150-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>F06CCEFB-9B11-4FE0-8F87-6B162293ADB1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc150-T.Crm020</Name>
+				<Index>30061</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30070" Name="C30 D.Rcc200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EAD207B7-8F53-423F-A36C-C5183577C221</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200</Name>
+				<Index>30070</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30071" Name="C30 D.Rcc200-D.Cem030-H.XPS200-G.Gra060-T.Crm040">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B0537A4A-CA90-4536-A234-372D22806D60</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200-D.Cem030-H.XPS200-G.Gra060-T.Crm040</Name>
+				<Index>30071</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30072" Name="C30 D.Rcc200-D.Cem080-E.Air020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>6B9DA147-433A-48A3-8599-601089240759</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200-D.Cem080-E.Air020</Name>
+				<Index>30072</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30073" Name="C30 D.Rcc200-D.Cem080-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D7854472-257B-4352-8E39-88B70E3292E1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200-D.Cem080-T.Crm020</Name>
+				<Index>30073</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30074" Name="C30 D.Rcc200-D.Cem100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7D25A32D-91A2-4495-8454-A9CF1762077C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200-D.Cem100</Name>
+				<Index>30074</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30075" Name="C30 D.Rcc200-D.Cem140-H.XPS200-G.Gra060-T.Crm040">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>70F6F9CD-1665-4310-853D-05F2CD5189B3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200-D.Cem140-H.XPS200-G.Gra060-T.Crm040</Name>
+				<Index>30075</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30076" Name="C30 D.Rcc200-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D01E38BC-FB2E-4DA4-B34E-C2B38CBF1B14</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc200-T.Crm020</Name>
+				<Index>30076</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30090" Name="C30 D.Rcc250">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7A9D14CA-5785-4A38-91FD-74B70DEB718D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc250</Name>
+				<Index>30090</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30091" Name="C30 D.Rcc250 | H.Mnw050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>377F7152-21DB-4E3E-BAFA-47B578CC594A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc250 | H.Mnw050</Name>
+				<Index>30091</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30092" Name="C30 D.Rcc250-D.Cem080-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>72FFA4D8-0DCC-4A63-91EE-11CE9D1D9906</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc250-D.Cem080-T.Crm020</Name>
+				<Index>30092</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30100" Name="C30 D.Rcc300">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>E5101775-5AB0-4483-9E16-FE153D5C9A35</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc300</Name>
+				<Index>30100</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30101" Name="C30 D.Rcc300-D.Cem080-E.Air020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>952EC6CF-4C55-49F6-B77F-362A6E2B0ACD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc300-D.Cem080-E.Air020</Name>
+				<Index>30101</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30102" Name="C30 D.Rcc300-D.Cem080-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>088687F0-EA9C-4FCF-B653-F6C9C942FBE9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc300-D.Cem080-T.Crm020</Name>
+				<Index>30102</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30103" Name="C30 D.Rcc300-D.Cem140-H.XPS200-G.Gra060-T.Crm040">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>72CD2FC4-71E0-474B-BB93-AC678B759642</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc300-D.Cem140-H.XPS200-G.Gra060-T.Crm040</Name>
+				<Index>30103</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30104" Name="C30 D.Rcc300-H.XPS050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>D87099B3-92BB-4F60-ACD0-96F1AA888FA5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc300-H.XPS050</Name>
+				<Index>30104</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30110" Name="C30 D.Rcc350">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>A316E141-ECC4-411F-ADF9-B381A88A42AF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc350</Name>
+				<Index>30110</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30120" Name="C30 D.Rcc400">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1B48AA35-9FF0-4757-9414-7AAA10C137C3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 D.Rcc400</Name>
+				<Index>30120</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="30131" Name="C30 H.XPS-D.Cem050-T.Crm020">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4D0A0460-2FF9-4DA2-ACC7-32B9B447922E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C30 H.XPS-D.Cem050-T.Crm020</Name>
+				<Index>30131</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31000" Name="C31 = Ceiling and soffit systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>DC684F05-900B-4364-93B0-E7048E028C12</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 = Ceiling and soffit systems =</Name>
+				<Index>31000</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31010" Name="C31 CORE | E.Air070-R.Gps010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>4FE35368-2AF8-4086-842F-1888EAE7486C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | E.Air070-R.Gps010</Name>
+				<Index>31010</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31020" Name="C31 CORE | H.EPS100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B7F4D81F-EE68-423C-AC3B-98C241FD3B9C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.EPS100</Name>
+				<Index>31020</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31021" Name="C31 CORE | H.EPS100-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>10575085-8B08-4E13-B0B6-8F8281BD8A03</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.EPS100-F.RnE010</Name>
+				<Index>31021</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31030" Name="C31 CORE | H.EPS200">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7BFE6EF2-BACB-4B21-8AE9-BBDE993D75C1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.EPS200</Name>
+				<Index>31030</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31040" Name="C31 CORE | H.Mnw030">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FCB4F611-CA52-4DAE-9611-BE03EF86808E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw030</Name>
+				<Index>31040</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31051" Name="C31 CORE | H.Mnw040-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>FE4FEC55-B187-41EC-B391-61064C89F4E7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw040-F.RnE010</Name>
+				<Index>31051</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31060" Name="C31 CORE | H.Mnw050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>B7849171-A55A-4E50-B1C3-C3D65BA68ACD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw050</Name>
+				<Index>31060</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31061" Name="C31 CORE | H.Mnw050-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>8685ABE7-B11E-41EB-A038-9D7E20121C20</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw050-F.RnE010</Name>
+				<Index>31061</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31071" Name="C31 CORE | H.Mnw100-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>5C89DE4B-0E44-4399-B53A-27612FB9AAB5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw100-F.RnE010</Name>
+				<Index>31071</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31081" Name="C31 CORE | H.Mnw140-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>1151F0A7-4FC8-4331-9239-7651A92F9B18</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw140-F.RnE010</Name>
+				<Index>31081</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31090" Name="C31 CORE | H.Mnw150">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>EC7D4F42-06AE-4F3F-9561-86C14CD70E5E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw150</Name>
+				<Index>31090</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31100" Name="C31 CORE | H.Mnw160">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>539BAF32-42FB-42A2-A572-9F71365CFC98</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw160</Name>
+				<Index>31100</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31101" Name="C31 CORE | H.Mnw160-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>DD555236-EBC3-49F4-BC86-F0C83E178C37</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw160-F.RnE010</Name>
+				<Index>31101</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31111" Name="C31 CORE | H.Mnw180-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>173EDDE7-26EE-42C2-90DA-E50202461B76</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw180-F.RnE010</Name>
+				<Index>31111</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31121" Name="C31 CORE | H.Mnw200-F.RnE010">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>03025331-AA37-48CF-A236-FA568249F25F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.Mnw200-F.RnE010</Name>
+				<Index>31121</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31130" Name="C31 CORE | H.XPS050">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>994F8CBE-7F59-4F3B-B0FD-6A441FF0ED0E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.XPS050</Name>
+				<Index>31130</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="31140" Name="C31 CORE | H.XPS100">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>88092C44-BCDB-4EF6-BFDE-F08A4EBCAA66</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C31 CORE | H.XPS100</Name>
+				<Index>31140</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542390530</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+			<CompositeWall Idx="32000" Name="C32 = Ceiling and soffit covering and finishing systems =">
+				<OdbObj Mv="5" Sv="0">
+					<OdbRef>
+						<guid>7A840363-D0D5-42DC-816C-2D00394E596F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>C32 = Ceiling and soffit covering and finishing systems =</Name>
+				<Index>32000</Index>
+				<Flags>CompositeSlab|CompositeRoof</Flags>
+				<ModiTime>1542385776</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<TotalThickness>0.1</TotalThickness>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+				<Skin>
+					<BuildingMaterialIndex>1500</BuildingMaterialIndex>
+					<EndFacePen>1</EndFacePen>
+					<FlagBits>SkinIsCore</FlagBits>
+					<FillThickness>0.1</FillThickness>
+				</Skin>
+				<SkinFaceLine>
+					<LineType>1</LineType>
+					<Pen>1</Pen>
+				</SkinFaceLine>
+			</CompositeWall>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Markup Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

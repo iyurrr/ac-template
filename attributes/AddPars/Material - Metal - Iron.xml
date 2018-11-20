@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="FF5AC928-E33C-4BAD-9B7C-270FF69B9BC8" Index="40" Name="Material - Metal - Iron">
+<Par Guid="3DFBACBE-1E9F-425B-91E1-ADA7690737FF" Index="40" Name="Material - Metal - Iron">
 	
 <Parameters>
 		<Integer Name="C4D_VER_MAIN">

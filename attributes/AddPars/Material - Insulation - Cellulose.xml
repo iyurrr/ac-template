@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="D7256BE6-2DAB-4023-9416-1AF13D0A3A41" Index="128" Name="Material - Insulation - Cellulose">
+<Par Guid="8F62F592-6D4E-4D16-B6E9-0418D83D6302" Index="128" Name="Material - Insulation - Cellulose">
 	
 <Parameters>
 		<Integer Name="C4D_VER_MAIN">

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="E3ABDFE9-CA77-4672-A1AE-EC7696C9C30A" Index="110" Name="Material - Metal - Fence Chainlink">
+<Par Guid="6D75DA44-32C6-424D-BD29-3796B1454782" Index="110" Name="Material - Metal - Fence Chainlink">
 	
 <Parameters>
 		<Integer Name="C4D_VER_MAIN">

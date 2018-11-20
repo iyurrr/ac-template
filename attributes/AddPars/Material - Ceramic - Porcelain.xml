@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="A512837A-FB62-40FA-ACA0-33737B99A70E" Index="22" Name="Material - Ceramic - Porcelain">
+<Par Guid="7D0E235D-2C17-4580-8068-99A20C1C206C" Index="22" Name="Material - Ceramic - Porcelain">
 	
 <Parameters>
 		<Integer Name="C4D_CHSIZE_HORSIZE">

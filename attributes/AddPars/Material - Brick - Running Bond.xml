@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="ACCAF810-2524-450F-996C-7DAD3944CCFF" Index="1" Name="Material - Brick - Running Bond">
+<Par Guid="10F105DA-F499-44D6-AAE3-5BB94892BE18" Index="1" Name="Material - Brick - Running Bond">
 	
 <Parameters>
 		<Integer Name="C4D_VER_MAIN">

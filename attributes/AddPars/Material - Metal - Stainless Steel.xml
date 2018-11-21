@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="DAE896FA-1EEF-4498-A6B3-4791F5627ED0" Index="11" Name="Material - Metal - Stainless Steel">
+<Par Guid="20E44087-EF33-4D89-AD32-0D4DD459E13E" Index="11" Name="Material - Metal - Stainless Steel">
 	
 <Parameters>
 		<Integer Name="C4D_VER_MAIN">

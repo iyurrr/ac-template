@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>12</ItemNum>
+		<Item>
+			<Name>T25  Sections</Name>
+			<Index>22500</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Dot &amp; Dashed</Name>
+			<Index>6</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>50 %</Name>
+			<Index>23</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Background</Name>
+			<Index>65</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Foreground</Name>
+			<Index>64</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Background</Name>
+			<Index>65</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="SectionDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>1706284B-D310-469B-8077-0573E940A98F</guid>
+			</OdbRef>
+			<CreaTime>895907</CreaTime>
+			<ModiTime>1342187</ModiTime>
+		</OdbObj>
+		<Name>Section - Secondary</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1397048148</TypeId>
+		<SubTypeSignature>0</SubTypeSignature>
+		<SectionDefault>
+			<SectionBaseDefault Mv="1" Sv="0">
+				<DefaultElem>
+					<CategoryInfo Mv="1" Sv="0">
+						<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+					</CategoryInfo>
+					<AddOnDataArray Size="1">
+						<AddOnData>
+							<Owner>
+								<ID1>1198731108</ID1>
+								<ID2>1060140852</ID2>
+							</Owner>
+							<Platform>22359</Platform>
+							<Version>2</Version>
+							<Flags>12</Flags>
+							<Data Length="1164">
+								<![CDATA[113047726964546F6F6C4D6F64756C204865616465720C07015256544401000000113047726964546F6F6C4D6F64756C204865616465720C07014C5445531F00000003000D00000053686F77436F6E737447726964000000000000F03F0000000003001200000053686F77436F6E737444696D656E73696F6E000000000000F03F0000000003000E0000004D61726B657244697374616E636500000000000010400000000003000F000000436F6E7374477269644C656E67746800000000000024400000000003000B00000044696D526566496E646578000000000000F03F0000000003001100000044696D656E73696F6E44697374616E636500000000000000C000000000030010000000546F74616C44696D526566496E646578000000000000F03F00000000030016000000546F74616C44696D656E73696F6E44697374616E6365000000000000F03F0000000001000E00000041435F4D61726B657253746172740000000000000000000000000000000001000C00000041435F4D61726B6572456E64000000000000F03F000000000000000005000A00000052656653746F726965730000000000000000000000000000000006001300000052656647726964456C656D656E744E616D65730000000000000000000000000000000003001500000053686F774F6E53656C656374656453746F7269657300000000000000000000000003001800000053686F7753656C656374656447726964456C656D656E747300000000000000000000000003001400000053656C656374656447726964456C656D656E74730000000000000000000000000300130000004F7665727269646547726964456C656D656E74000000000000F03F0000000001000B00000041435F4C696E6554797065000000000000F03F000000000000000001000A00000041435F4C696E6550656E000000000000F03F000000000000000001001100000041435F4C696E655669736962696C69747900000000000000000400000046756C6C0000000003000B0000004175746F5374616767657200000000000000000000000003000E00000053656374696F6E5265667265736800000000000000000000000003000B00000053686F774E6F6E5065727000000000000000000000000003001300000052656647726964456C656D656E744E616D657300000000000000000000000003001700000053686F77436F6E7374546F74616C44696D656E73696F6E00000000000000000000000001000F00000041435F4D61726B6572546578745F310000000000000000000000000000000001000C00000041435F5669734C656E6774680000000000000000000000000000000001000D00000041435F4D61726B657253697A650000000000000000000000000000000001000D00000041435F5465787453697A655F310000000000000000000000000000000001000E00000041435F546578745374796C655F310000000000000000000000000000000001000D00000041435F54657874466F6E745F310000000000000000000000000000000001001300000041435F4C696E655669736962696C6974795F69000000000000F03F0000000000000000]]>
+							</Data>
+						</AddOnData>
+					</AddOnDataArray>
+					<PropertyDataProxy/>
+					<ClassificationItemSet/>
+				</DefaultElem>
+				<Layer>22500</Layer>
+				<GeneralHorizontalRange>0</GeneralHorizontalRange>
+				<GeneralShowOnStories>0</GeneralShowOnStories>
+				<GeneralStoryToShowOn>0</GeneralStoryToShowOn>
+				<ShowBaseMarker>1</ShowBaseMarker>
+				<GeneralVerticalMin>0</GeneralVerticalMin>
+				<GeneralVerticalMax>6</GeneralVerticalMax>
+				<GeneralVerticalRangeRelativeToStory>false</GeneralVerticalRangeRelativeToStory>
+				<GeneralVerticalRangeStoryBase>0</GeneralVerticalRangeStoryBase>
+				<GeneralMarkedDistArea>false</GeneralMarkedDistArea>
+				<SectionLinePattern>6</SectionLinePattern>
+				<SectionLinePen>85</SectionLinePen>
+				<DepthLimitLinePattern>1</DepthLimitLinePattern>
+				<DepthLimitPen>105</DepthLimitPen>
+				<BegMarker>true</BegMarker>
+				<EndMarker>true</EndMarker>
+				<MarkerContinous>true</MarkerContinous>
+				<MarkerBegLine>true</MarkerBegLine>
+				<MarkerMiddleLine>true</MarkerMiddleLine>
+				<MarkerEndLine>true</MarkerEndLine>
+				<MarkerLineLength>15</MarkerLineLength>
+				<MarkerSize>6</MarkerSize>
+				<FontFamily>
+					<FontName>Arial Западный</FontName>
+				</FontFamily>
+				<MarkerTextSize>3</MarkerTextSize>
+				<MarkerPen>25</MarkerPen>
+				<CutPropsUseElemSectPen>true</CutPropsUseElemSectPen>
+				<CutPropsUseElemSectPen>21</CutPropsUseElemSectPen>
+				<CutPropsFillPen>101</CutPropsFillPen>
+				<CutPropsFillBGPen>0</CutPropsFillBGPen>
+				<CutPropsCutSurfaceMaterial>0</CutPropsCutSurfaceMaterial>
+				<ModelEffectsUseElemModelColor>false</ModelEffectsUseElemModelColor>
+				<ModelEffectsElemModelPen>81</ModelEffectsElemModelPen>
+				<ModelEffectsUseUncutSurfaceFill>true</ModelEffectsUseUncutSurfaceFill>
+				<ModelEffectsUncutSurfaceFillType>1</ModelEffectsUncutSurfaceFillType>
+				<ModelEffectsUncutSurfaceBGPen>-1</ModelEffectsUncutSurfaceBGPen>
+				<ModelEffectsD3Status>0</ModelEffectsD3Status>
+				<ModelEffectsSunAzimuth>45</ModelEffectsSunAzimuth>
+				<ModelEffectsSunAltitude>45</ModelEffectsSunAltitude>
+				<ModelEffectsFill>23</ModelEffectsFill>
+				<ModelEffectsFillPen>2</ModelEffectsFillPen>
+				<ModelEffectsFillBGPen>0</ModelEffectsFillBGPen>
+				<DistAreaOptsUseElemModelColor>false</DistAreaOptsUseElemModelColor>
+				<DistAreaOptsElemModelPen>7</DistAreaOptsElemModelPen>
+				<DistAreaOptsUncutSurfaceFill>true</DistAreaOptsUncutSurfaceFill>
+				<DistAreaOptsUncutSurfaceFillType>1</DistAreaOptsUncutSurfaceFillType>
+				<DistAreaOptsUncutSurfaceBGPen>-1</DistAreaOptsUncutSurfaceBGPen>
+				<DistAreaOptsD3Status>0</DistAreaOptsD3Status>
+				<DistAreaOptsFill>24</DistAreaOptsFill>
+				<DistAreaOptsFillPen>81</DistAreaOptsFillPen>
+				<DistAreaOptsFillBGPen>0</DistAreaOptsFillBGPen>
+				<SymbDefault>
+					<GDLObjectDefault Mv="3" Sv="0">
+						<GDLBasedElemDefault Mv="3" Sv="0">
+							<ModelElementDefault Mv="3" Sv="0">
+								<VBElementDefault Mv="3" Sv="0">
+									<DefaultElem>
+										<CategoryInfo Mv="1" Sv="0">
+											<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+										</CategoryInfo>
+										<AddOnDataArray Size="0"/>
+										<PropertyData/>
+										<ClassificationItemSet/>
+									</DefaultElem>
+								</VBElementDefault>
+							</ModelElementDefault>
+							<MainPen>1</MainPen>
+							<Material>0</Material>
+							<OnePen>false</OnePen>
+							<InfoString/>
+							<LibPartId Mv="1" Sv="0">
+								<Name>Built-in Section Marker.gsm</Name>
+								<MainGuid>D7C54843-B69D-412B-A603-6AE1785764E0</MainGuid>
+								<UnId>577A1A0C-B400-401D-9776-C7C460EF599E</UnId>
+							</LibPartId>
+							<MainGuid>9E938E0A-367D-40DB-84BB-B1D56EFDBF75</MainGuid>
+							<CreatorToolUnID>50C05662-4E4D-4903-B781-057EAFE789C6</CreatorToolUnID>
+							<UserGDLParamList Mv="1" Sv="0">
+								<Location>AddPars\Favorite - SectionDefault - Section - Secondary - Built-in Section Marker.gsm.xml</Location>
+							</UserGDLParamList>
+						</GDLBasedElemDefault>
+						<Layer>1</Layer>
+						<Reflected>false</Reflected>
+						<Angle>0</Angle>
+						<Level>0</Level>
+						<XRatioOrSize>1</XRatioOrSize>
+						<YRatioOrSize>1</YRatioOrSize>
+						<OffsetX>0</OffsetX>
+						<OffsetY>0</OffsetY>
+						<LightIsOn>false</LightIsOn>
+						<LightRGBColorRed>0</LightRGBColorRed>
+						<LightRGBColorGreen>0</LightRGBColorGreen>
+						<LightRGBColorBlue>0</LightRGBColorBlue>
+						<ShowContour>
+							<HomeStory>true</HomeStory>
+							<AllBelow>false</AllBelow>
+							<AllAbove>false</AllAbove>
+							<RelativeBelow>0</RelativeBelow>
+							<RelativeAbove>0</RelativeAbove>
+						</ShowContour>
+						<AutoOnStoryVisibility>false</AutoOnStoryVisibility>
+						<FixPoint>0</FixPoint>
+						<PropAssType>0</PropAssType>
+						<UseXYFixSize>true</UseXYFixSize>
+						<ContourPen>1</ContourPen>
+						<FillPen>1</FillPen>
+						<BackgroundPen>1</BackgroundPen>
+						<Fill>0</Fill>
+						<LineType>0</LineType>
+						<UseLineType>false</UseLineType>
+						<UseMaterial>false</UseMaterial>
+						<UseSectionAttributes>false</UseSectionAttributes>
+						<GravityPar>0</GravityPar>
+						<HomeStory>0</HomeStory>
+						<DimensionsChained>false</DimensionsChained>
+					</GDLObjectDefault>
+				</SymbDefault>
+				<GeneralIntendedPlanConnectivity>1</GeneralIntendedPlanConnectivity>
+				<GeneralShAppearance>2</GeneralShAppearance>
+				<StoryHandleSettingsLinePen>85</StoryHandleSettingsLinePen>
+				<StoryHandleSettingsLineType>1</StoryHandleSettingsLineType>
+				<StoryHandleSettingsLeftMarkerOn>true</StoryHandleSettingsLeftMarkerOn>
+				<StoryHandleSettingsRightMarkerOn>true</StoryHandleSettingsRightMarkerOn>
+				<StoryHandleSettingsLeftMarkerOffset>0</StoryHandleSettingsLeftMarkerOffset>
+				<StoryHandleSettingsRightMarkerOffset>0</StoryHandleSettingsRightMarkerOffset>
+				<SymbDefault>
+					<GDLObjectDefault Mv="3" Sv="0">
+						<GDLBasedElemDefault Mv="3" Sv="0">
+							<ModelElementDefault Mv="3" Sv="0">
+								<VBElementDefault Mv="3" Sv="0">
+									<DefaultElem>
+										<CategoryInfo Mv="1" Sv="0">
+											<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+										</CategoryInfo>
+										<AddOnDataArray Size="0"/>
+										<PropertyData/>
+										<ClassificationItemSet/>
+									</DefaultElem>
+								</VBElementDefault>
+							</ModelElementDefault>
+							<MainPen>1</MainPen>
+							<Material>0</Material>
+							<OnePen>false</OnePen>
+							<InfoString/>
+							<LibPartId Mv="1" Sv="0">
+								<Name>Built-in Story Marker.gsm</Name>
+								<MainGuid>19225D34-BA38-44FE-BAF2-94D57B069FC9</MainGuid>
+								<UnId>EF0E8EBE-2D78-4E4D-A55A-F094B52FCE94</UnId>
+							</LibPartId>
+							<MainGuid>7A407B90-C976-40DB-ACD5-8C3142C93727</MainGuid>
+							<CreatorToolUnID>A6CC4B6F-97A9-4EC9-B79C-964C4DF8E850</CreatorToolUnID>
+							<UserGDLParamList Mv="1" Sv="0">
+								<Location>AddPars\Favorite - SectionDefault - Section - Secondary - Built-in Story Marker.gsm.xml</Location>
+							</UserGDLParamList>
+						</GDLBasedElemDefault>
+						<Layer>1</Layer>
+						<Reflected>false</Reflected>
+						<Angle>0</Angle>
+						<Level>0</Level>
+						<XRatioOrSize>0</XRatioOrSize>
+						<YRatioOrSize>0</YRatioOrSize>
+						<OffsetX>0</OffsetX>
+						<OffsetY>0</OffsetY>
+						<LightIsOn>false</LightIsOn>
+						<LightRGBColorRed>0</LightRGBColorRed>
+						<LightRGBColorGreen>0</LightRGBColorGreen>
+						<LightRGBColorBlue>0</LightRGBColorBlue>
+						<ShowContour>
+							<HomeStory>true</HomeStory>
+							<AllBelow>false</AllBelow>
+							<AllAbove>false</AllAbove>
+							<RelativeBelow>0</RelativeBelow>
+							<RelativeAbove>0</RelativeAbove>
+						</ShowContour>
+						<AutoOnStoryVisibility>false</AutoOnStoryVisibility>
+						<FixPoint>0</FixPoint>
+						<PropAssType>0</PropAssType>
+						<UseXYFixSize>false</UseXYFixSize>
+						<ContourPen>1</ContourPen>
+						<FillPen>1</FillPen>
+						<BackgroundPen>1</BackgroundPen>
+						<Fill>0</Fill>
+						<LineType>0</LineType>
+						<UseLineType>false</UseLineType>
+						<UseMaterial>false</UseMaterial>
+						<UseSectionAttributes>false</UseSectionAttributes>
+						<GravityPar>0</GravityPar>
+						<HomeStory>0</HomeStory>
+						<DimensionsChained>false</DimensionsChained>
+					</GDLObjectDefault>
+				</SymbDefault>
+				<StoryHandleSettingsMarkerFontStyle>0</StoryHandleSettingsMarkerFontStyle>
+				<StoryHandleSettingsMarkerTextSize>2</StoryHandleSettingsMarkerTextSize>
+				<StoryHandleSettingsMarkerSize>4</StoryHandleSettingsMarkerSize>
+				<StoryHandleSettingsMarkerForceColor>25</StoryHandleSettingsMarkerForceColor>
+				<StoryHandleSettingsUseSymbolColors>true</StoryHandleSettingsUseSymbolColors>
+				<FontFamily>
+					<FontName>Arial Западный</FontName>
+				</FontFamily>
+				<StoryHandleSettingsLineOn>true</StoryHandleSettingsLineOn>
+				<GeneralVerticalRange>0</GeneralVerticalRange>
+				<ReferToDrawing>false</ReferToDrawing>
+				<ReferredView>00000000-0000-0000-0000-000000000000</ReferredView>
+				<ReferredDrawing>00000000-0000-0000-0000-000000000000</ReferredDrawing>
+				<ReferredPMViewPoint>019150D5-FE08-4B90-9D4A-7D200996D84D</ReferredPMViewPoint>
+				<CustomMarker>false</CustomMarker>
+				<ReferringLevel>1</ReferringLevel>
+				<SourceMarker>true</SourceMarker>
+				<RefName>Building Section</RefName>
+				<RefId>S-01</RefId>
+				<DBUnId>
+					<guid>71B274F6-C554-4A58-A35C-21E537FDB44D</guid>
+				</DBUnId>
+				<IdElem>52</IdElem>
+				<NeedOldDataConversion>false</NeedOldDataConversion>
+				<UserID>0</UserID>
+				<ID>0</ID>
+				<Name>Building Section</Name>
+				<ID>S-01</ID>
+				<Transparency>true</Transparency>
+				<BoundaryDisplay>2</BoundaryDisplay>
+				<BoundaryPen>1</BoundaryPen>
+				<BoundaryLineType>1</BoundaryLineType>
+				<CutElement>true</CutElement>
+			</SectionBaseDefault>
+		</SectionDefault>
+		<HasNoteDef>true</HasNoteDef>
+		<NoteDefault Mv="5" Sv="7">
+			<DocumentationElementDefault Mv="5" Sv="7">
+				<VBElementDefault Mv="5" Sv="7">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<NotePen>1</NotePen>
+			<FontFamily>
+				<FontName>@Kozuka Mincho Pr6N L Центральноевропейский</FontName>
+			</FontFamily>
+			<NoteSize>2</NoteSize>
+			<NoteAngle>0</NoteAngle>
+			<NoteStyle>0</NoteStyle>
+			<RowAnchor>0</RowAnchor>
+			<Alignment>1</Alignment>
+			<WidthFactor>1</WidthFactor>
+			<SpacingFactor>1</SpacingFactor>
+			<Effects>0</Effects>
+			<NoteUseContour>false</NoteUseContour>
+			<NoteUseFill>false</NoteUseFill>
+			<NoteContourPen>1</NoteContourPen>
+			<NoteFillPen>-1</NoteFillPen>
+			<HasLeaderLine>false</HasLeaderLine>
+			<LeaderLineStartAngle>1.0471975511966</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>false</LeaderLineStartAngleFixed>
+			<LeaderLineAttributes>
+				<ArrowForm>26</ArrowForm>
+				<ArrowSize>2</ArrowSize>
+				<ArrowPen>1</ArrowPen>
+				<LinePen>1</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>1</AnchorPoint>
+			</LeaderLineAttributes>
+			<Readable>true</Readable>
+		</NoteDefault>
+		<HasReferenceStory>false</HasReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Annotation">
+		<Folder Name="Markers"/>
+	</Folder>
+</Favorites>

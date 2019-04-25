@@ -80,7 +80,7 @@
 	! BE61CB1C-0AEF-4D59-B2F3-EC8E08F78FB5
 
 	s2 = request ("Property_Value_Of_Parent", "BE61CB1C-0AEF-4D59-B2F3-EC8E08F78FB5", _type, _dim1, _dim2, sSpaceClassification)
-	print sSpaceClassification
+	!print sSpaceClassification
 
 	
 ! STAMP

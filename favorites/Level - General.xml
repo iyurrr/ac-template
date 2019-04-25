@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>2</ItemNum>
+		<Item>
+			<Name>T24  Levels</Name>
+			<Index>22400</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="LevDimDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>00D085E0-F0C8-4DAE-9EAB-8483B92CB19F</guid>
+			</OdbRef>
+			<CreaTime>895919</CreaTime>
+			<ModiTime>1342185</ModiTime>
+		</OdbObj>
+		<Name>Level - General</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1279543629</TypeId>
+		<SubTypeSignature>0</SubTypeSignature>
+		<LevelDimensionDefault Mv="3" Sv="1">
+			<DimensionBaseDefault Mv="3" Sv="1">
+				<DocumentationElementDefault Mv="3" Sv="1">
+					<VBElementDefault Mv="3" Sv="1">
+						<DefaultElem>
+							<CategoryInfo Mv="1" Sv="0">
+								<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+							</CategoryInfo>
+							<AddOnDataArray Size="0"/>
+							<PropertyDataProxy/>
+							<ClassificationItemSet/>
+						</DefaultElem>
+					</VBElementDefault>
+				</DocumentationElementDefault>
+				<OnlyDimensionText>false</OnlyDimensionText>
+			</DimensionBaseDefault>
+			<LevDimPen>25</LevDimPen>
+			<DimForm>6</DimForm>
+			<Layer>22400</Layer>
+			<Framed>false</Framed>
+			<DimPlus>true</DimPlus>
+			<MarkerSize>4</MarkerSize>
+			<Angle>0</Angle>
+			<StaticLevel>false</StaticLevel>
+			<Origin>0</Origin>
+			<HideWithBaseElem>true</HideWithBaseElem>
+		</LevelDimensionDefault>
+		<HasNoteDef>true</HasNoteDef>
+		<NoteDefault Mv="5" Sv="7">
+			<DocumentationElementDefault Mv="5" Sv="7">
+				<VBElementDefault Mv="5" Sv="7">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<NotePen>25</NotePen>
+			<FontFamily>
+				<FontName>Arial Западный</FontName>
+			</FontFamily>
+			<NoteSize>2.20000004768372</NoteSize>
+			<NoteAngle>0</NoteAngle>
+			<NoteStyle>0</NoteStyle>
+			<RowAnchor>0</RowAnchor>
+			<Alignment>1</Alignment>
+			<WidthFactor>1</WidthFactor>
+			<SpacingFactor>1</SpacingFactor>
+			<Effects>0</Effects>
+			<NoteUseContour>true</NoteUseContour>
+			<NoteUseFill>true</NoteUseFill>
+			<NoteContourPen>65</NoteContourPen>
+			<NoteFillPen>-1</NoteFillPen>
+			<HasLeaderLine>false</HasLeaderLine>
+			<LeaderLineStartAngle>1.5707963267949</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>true</LeaderLineStartAngleFixed>
+			<LeaderLineAttributes>
+				<ArrowForm>26</ArrowForm>
+				<ArrowSize>2</ArrowSize>
+				<ArrowPen>45</ArrowPen>
+				<LinePen>85</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>3</AnchorPoint>
+			</LeaderLineAttributes>
+			<Readable>false</Readable>
+		</NoteDefault>
+		<HasReferenceStory>false</HasReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Annotation">
+		<Folder Name="Markers"/>
+	</Folder>
+</Favorites>

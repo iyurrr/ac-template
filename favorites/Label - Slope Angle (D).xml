@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>5</ItemNum>
+		<Item>
+			<Name>T01  Annotations</Name>
+			<Index>20100</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>T01  Annotations</Name>
+			<Index>20100</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>T01  Annotations</Name>
+			<Index>20100</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="LabelDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>E1EA74CA-B406-4042-8DE9-A44CA687D8CA</guid>
+			</OdbRef>
+			<CreaTime>1342168</CreaTime>
+			<ModiTime>1342191</ModiTime>
+		</OdbObj>
+		<Name>Label - Slope Angle (D)</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1279345228</TypeId>
+		<SubTypeSignature>0</SubTypeSignature>
+		<LabelDefault Mv="6" Sv="1">
+			<DocumentationElementDefault Mv="6" Sv="1">
+				<VBElementDefault Mv="6" Sv="1">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<ContentType>0</ContentType>
+			<Dummy>false</Dummy>
+			<Dummy>false</Dummy>
+			<LeaderLineAttributes>
+				<ArrowForm>30</ArrowForm>
+				<ArrowSize>1</ArrowSize>
+				<ArrowPen>45</ArrowPen>
+				<LinePen>85</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>3</AnchorPoint>
+			</LeaderLineAttributes>
+			<Framed>false</Framed>
+			<WordTextDirection>2</WordTextDirection>
+			<SymbTextDirection>1</SymbTextDirection>
+			<WordAngle>1.5707963267949</WordAngle>
+			<SymbAngle>0</SymbAngle>
+			<WordHasLeaderLine>true</WordHasLeaderLine>
+			<SymbHasLeaderLine>true</SymbHasLeaderLine>
+			<RichText>
+				<RotAngle>1.5707963267949</RotAngle>
+				<WidthFactor>1</WidthFactor>
+				<CharSpaceFactor>1</CharSpaceFactor>
+				<IsFixed>true</IsFixed>
+				<CharCode>11</CharCode>
+				<Content>&lt;PROPERTY-ROOFS/Slope Angle (D)&gt;</Content>
+				<NParagraph>1</NParagraph>
+				<RichText>
+					<From>0</From>
+					<Range>32</Range>
+					<Justification>0</Justification>
+					<FirstIndentInModelUnit>0</FirstIndentInModelUnit>
+					<IndentInModelUnit>0</IndentInModelUnit>
+					<RightIndentInModelUnit>0</RightIndentInModelUnit>
+					<LineSpacingInModelUnit>-1</LineSpacingInModelUnit>
+					<NEOLPosition>1</NEOLPosition>
+					<EolPositions>31</EolPositions>
+					<NRuns>1</NRuns>
+					<Run>
+						<From>0</From>
+						<Range>32</Range>
+						<CharStyle>
+							<Effects>8192</Effects>
+							<Font>
+								<Style>0</Style>
+								<FontFamily>
+									<FontFamilyInfo>
+										<LocalName>Arial</LocalName>
+										<EnglishFullName/>
+										<EnglishFamilyName>Arial</EnglishFamilyName>
+										<MacID>0</MacID>
+										<CharCode>14</CharCode>
+										<CharCode>11</CharCode>
+										<CharCode>21</CharCode>
+										<CharCode>22</CharCode>
+										<CharCode>15</CharCode>
+										<CharCode>16</CharCode>
+										<CharCode>13</CharCode>
+										<CharCode>12</CharCode>
+									</FontFamilyInfo>
+								</FontFamily>
+								<SizeinModelUnit>2.2</SizeinModelUnit>
+							</Font>
+							<PenId>6</PenId>
+						</CharStyle>
+					</Run>
+					<NTabs>0</NTabs>
+					<NLineWidthsInModelUnits>1</NLineWidthsInModelUnits>
+					<LineWidthsInModelUnit>53.7654857142857</LineWidthsInModelUnit>
+				</RichText>
+				<DefaultTabScaleDown>1</DefaultTabScaleDown>
+			</RichText>
+			<WordDefault Mv="4" Sv="0">
+				<DocumentationElementDefault Mv="4" Sv="0">
+					<VBElementDefault Mv="4" Sv="0">
+						<DefaultElem>
+							<CategoryInfo Mv="1" Sv="0">
+								<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+							</CategoryInfo>
+							<AddOnDataArray Size="0"/>
+							<PropertyData/>
+							<ClassificationItemSet/>
+						</DefaultElem>
+					</VBElementDefault>
+				</DocumentationElementDefault>
+				<WordPen>6</WordPen>
+				<WordLayer>20100</WordLayer>
+				<WordCenter>7</WordCenter>
+				<WordSize>2.2</WordSize>
+				<WordSpac>-1</WordSpac>
+				<WordAngle>1.5707963267949</WordAngle>
+				<WordFace>0</WordFace>
+				<FontFamily>
+					<FontName>Arial Западный</FontName>
+				</FontFamily>
+				<WordJust>0</WordJust>
+				<Effects>0</Effects>
+				<WidthFactor>1</WidthFactor>
+				<CharSpaceFactor>1</CharSpaceFactor>
+				<FixedSize>true</FixedSize>
+				<UseContour>false</UseContour>
+				<UseFill>false</UseFill>
+				<ContourPen>1</ContourPen>
+				<FillPen>-1</FillPen>
+				<CountourOffset>0</CountourOffset>
+				<UsedFixedAngle>false</UsedFixedAngle>
+				<NonBreaking>true</NonBreaking>
+			</WordDefault>
+			<SymbDefault>
+				<GDLObjectDefault Mv="3" Sv="0">
+					<GDLBasedElemDefault Mv="3" Sv="0">
+						<ModelElementDefault Mv="3" Sv="0">
+							<VBElementDefault Mv="3" Sv="0">
+								<DefaultElem>
+									<CategoryInfo Mv="1" Sv="0">
+										<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+									</CategoryInfo>
+									<AddOnDataArray Size="0"/>
+									<PropertyData/>
+									<ClassificationItemSet/>
+								</DefaultElem>
+							</VBElementDefault>
+						</ModelElementDefault>
+						<MainPen>6</MainPen>
+						<Material>0</Material>
+						<OnePen>false</OnePen>
+						<InfoString/>
+						<LibPartId Mv="1" Sv="0">
+							<Name/>
+							<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+							<UnId>00000000-0000-0000-0000-000000000000</UnId>
+						</LibPartId>
+						<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+						<CreatorToolUnID>00000000-0000-0000-0000-000000000000</CreatorToolUnID>
+						<UserGDLParamList Mv="1" Sv="0"/>
+					</GDLBasedElemDefault>
+					<Layer>20100</Layer>
+					<Reflected>false</Reflected>
+					<Angle>0</Angle>
+					<Level>0</Level>
+					<XRatioOrSize>1</XRatioOrSize>
+					<YRatioOrSize>1</YRatioOrSize>
+					<OffsetX>0</OffsetX>
+					<OffsetY>0</OffsetY>
+					<LightIsOn>false</LightIsOn>
+					<LightRGBColorRed>0</LightRGBColorRed>
+					<LightRGBColorGreen>0</LightRGBColorGreen>
+					<LightRGBColorBlue>0</LightRGBColorBlue>
+					<ShowContour>
+						<HomeStory>true</HomeStory>
+						<AllBelow>false</AllBelow>
+						<AllAbove>false</AllAbove>
+						<RelativeBelow>0</RelativeBelow>
+						<RelativeAbove>0</RelativeAbove>
+					</ShowContour>
+					<AutoOnStoryVisibility>false</AutoOnStoryVisibility>
+					<FixPoint>0</FixPoint>
+					<PropAssType>0</PropAssType>
+					<UseXYFixSize>false</UseXYFixSize>
+					<ContourPen>1</ContourPen>
+					<FillPen>1</FillPen>
+					<BackgroundPen>1</BackgroundPen>
+					<Fill>0</Fill>
+					<LineType>1</LineType>
+					<UseLineType>false</UseLineType>
+					<UseMaterial>false</UseMaterial>
+					<UseSectionAttributes>false</UseSectionAttributes>
+					<GravityPar>0</GravityPar>
+					<HomeStory>0</HomeStory>
+					<DimensionsChained>false</DimensionsChained>
+				</GDLObjectDefault>
+			</SymbDefault>
+			<Layer>20100</Layer>
+			<WordAngle2Fixed>false</WordAngle2Fixed>
+			<SymbAngle2Fixed>false</SymbAngle2Fixed>
+			<LeaderLineStartAngle>4.71158647228807</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>false</LeaderLineStartAngleFixed>
+			<SquareRootAngle>1.0471975511966</SquareRootAngle>
+			<HideWithBaseElem>false</HideWithBaseElem>
+		</LabelDefault>
+		<HasNoteDef>false</HasNoteDef>
+		<HasReferenceStory>false</HasReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Annotation">
+		<Folder Name="Labels"/>
+	</Folder>
+</Favorites>

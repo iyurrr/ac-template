@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>9</ItemNum>
+		<Item>
+			<Name>Bond, concrete reinforced</Name>
+			<Index>2108</Index>
+			<RefId>1936876886</RefId>
+		</Item>
+		<Item>
+			<Name>P96 Opening, square</Name>
+			<Index>9602</Index>
+			<RefId>1920234561</RefId>
+		</Item>
+		<Item>
+			<Name>E21  Frame</Name>
+			<Index>2100</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Stucco - Yellow Rough</Name>
+			<Index>117</Index>
+			<RefId>1296127026</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Hidden Line</Name>
+			<Index>21</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="ColumnDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>F9EF3E16-FA64-450F-8C0F-4EF7DBDB5102</guid>
+			</OdbRef>
+			<CreaTime>895885</CreaTime>
+			<ModiTime>1342183</ModiTime>
+		</OdbObj>
+		<Name>Opening - V-Square</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1129270357</TypeId>
+		<SubTypeSignature>0</SubTypeSignature>
+		<ColumnDefault Mv="7" Sv="0">
+			<ModelElementDefault Mv="7" Sv="0">
+				<VBElementDefault Mv="7" Sv="0">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet>
+							<ClassificationSystemUserID>
+								<Name>ARCHICAD Classification</Name>
+								<EditionVersion>2X</EditionVersion>
+							</ClassificationSystemUserID>
+							<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+						</ClassificationItemSet>
+					</DefaultElem>
+				</VBElementDefault>
+			</ModelElementDefault>
+			<CoreLinePen>28</CoreLinePen>
+			<CoreType>4</CoreType>
+			<CoreDepth>0.1</CoreDepth>
+			<CoreWidth>0.2</CoreWidth>
+			<TopOffset>-0.2</TopOffset>
+			<Height>2.8</Height>
+			<BottomOffset>0</BottomOffset>
+			<Info>CRE - 016</Info>
+			<Layer>2100</Layer>
+			<Material>117</Material>
+			<Material>false</Material>
+			<Wrapping>false</Wrapping>
+			<PropertyAssignmentType>0</PropertyAssignmentType>
+			<Column3DPen>88</Column3DPen>
+			<VeneerType>1</VeneerType>
+			<VeneerThickness>0</VeneerThickness>
+			<CoreLineType>1</CoreLineType>
+			<AnchorPoint>0</AnchorPoint>
+			<Type>0</Type>
+			<SkipFindRoom>0</SkipFindRoom>
+			<Gravity>0</Gravity>
+			<VeneerLinePen>48</VeneerLinePen>
+			<VeneerLineType>1</VeneerLineType>
+			<CrossCorePar1>0.08</CrossCorePar1>
+			<CrossCorePar2>0.08</CrossCorePar2>
+			<Angle>0</Angle>
+			<CrossLinePen>20</CrossLinePen>
+			<ElemStructureType>3</ElemStructureType>
+			<BasicStructureIndex>2108</BasicStructureIndex>
+			<OverrideForegroundPen>false</OverrideForegroundPen>
+			<ForegroundPen>108</ForegroundPen>
+			<OverrideBackgroundPen>false</OverrideBackgroundPen>
+			<BackgroundPen>128</BackgroundPen>
+			<BasicStructureIndex2>3803</BasicStructureIndex2>
+			<DefaultElemProfile>
+				<ProfileBase>
+					<ProfileCategory>1</ProfileCategory>
+					<ProfileAttributeIndex>9602</ProfileAttributeIndex>
+					<ProfileVectorImage>
+						<VectorImageData Mv="9" Sv="1">
+							<PlatformSign>22359</PlatformSign>
+							<DataLen>136</DataLen>
+							<ImageHandle>
+								<![CDATA[8000000001245757824DC77261423347824DC77261423347824DC772614233C7824DC772614233C7010000000000000000000000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002500240024002500260024002400250025002400250024000800000000000000]]>
+							</ImageHandle>
+							<Objects nHatchObject="0" nObject="0">
+								<hatchObjectsTable/>
+							</Objects>
+						</VectorImageData>
+						<ParameterTable/>
+						<ParameterDefinitions/>
+						<AnchorDefinitions/>
+						<DimControls/>
+						<StretchData>
+							<HasHorizontalZone>false</HasHorizontalZone>
+							<HorizontalValue1>0</HorizontalValue1>
+							<HorizontalValue2>0</HorizontalValue2>
+							<HasVerticalZone>false</HasVerticalZone>
+							<VerticalValue1>0</VerticalValue1>
+							<VerticalValue2>0</VerticalValue2>
+						</StretchData>
+						<EdgeOverrideData>
+							<OverrideSectionLines>false</OverrideSectionLines>
+							<InnerLineType>4</InnerLineType>
+							<OuterLineType>1</OuterLineType>
+							<InnerPen>2</InnerPen>
+							<OuerPen>1</OuerPen>
+						</EdgeOverrideData>
+						<HatchUniqeIdToComponentIdTable/>
+						<AssociatedHotspotsTable/>
+					</ProfileVectorImage>
+				</ProfileBase>
+				<ParameterValueTable/>
+			</DefaultElemProfile>
+			<CrossSectType>1</CrossSectType>
+			<Slant>0</Slant>
+			<SlantAngle>1.5707963267949</SlantAngle>
+			<ThrowAway>0</ThrowAway>
+			<AboveViewLinePen>88</AboveViewLinePen>
+			<AboveViewLineType>21</AboveViewLineType>
+			<DisplayOption>0</DisplayOption>
+			<ViewDepthLimitation>0</ViewDepthLimitation>
+			<AutoOnStoryVisibility>true</AutoOnStoryVisibility>
+			<BelowViewLineType>1</BelowViewLineType>
+			<HomeStory>0</HomeStory>
+			<RelativeTopStory>1</RelativeTopStory>
+			<IsDepthAndWitdthLinked>false</IsDepthAndWitdthLinked>
+			<CommonDepthAndWitdth>0.2</CommonDepthAndWitdth>
+		</ColumnDefault>
+		<HasNoteDef>true</HasNoteDef>
+		<NoteDefault Mv="5" Sv="7">
+			<DocumentationElementDefault Mv="5" Sv="7">
+				<VBElementDefault Mv="5" Sv="7">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<NotePen>1</NotePen>
+			<FontFamily>
+				<FontName>@Kozuka Mincho Pr6N L Центральноевропейский</FontName>
+			</FontFamily>
+			<NoteSize>2</NoteSize>
+			<NoteAngle>0</NoteAngle>
+			<NoteStyle>0</NoteStyle>
+			<RowAnchor>0</RowAnchor>
+			<Alignment>1</Alignment>
+			<WidthFactor>1</WidthFactor>
+			<SpacingFactor>1</SpacingFactor>
+			<Effects>0</Effects>
+			<NoteUseContour>false</NoteUseContour>
+			<NoteUseFill>false</NoteUseFill>
+			<NoteContourPen>1</NoteContourPen>
+			<NoteFillPen>-1</NoteFillPen>
+			<HasLeaderLine>false</HasLeaderLine>
+			<LeaderLineStartAngle>1.0471975511966</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>false</LeaderLineStartAngleFixed>
+			<LeaderLineAttributes>
+				<ArrowForm>26</ArrowForm>
+				<ArrowSize>2</ArrowSize>
+				<ArrowPen>1</ArrowPen>
+				<LinePen>1</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>1</AnchorPoint>
+			</LeaderLineAttributes>
+			<Readable>true</Readable>
+		</NoteDefault>
+		<HasReferenceStory>true</HasReferenceStory>
+		<ReferenceStory>0</ReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Openings"/>
+</Favorites>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>5</ItemNum>
+		<Item>
+			<Name>S10  Single spaces (rooms)</Name>
+			<Index>10100</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Paint - Pale Blue</Name>
+			<Index>100</Index>
+			<RefId>1296127026</RefId>
+		</Item>
+		<Item>
+			<Name>Kitchen</Name>
+			<Index>4508</Index>
+			<RefId>1380795186</RefId>
+		</Item>
+		<Item>
+			<Name>Carpet</Name>
+			<Index>49</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="RoomDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>4101F43A-36D5-4436-A9AE-FF1E072F3CFB</guid>
+			</OdbRef>
+			<CreaTime>895869</CreaTime>
+			<ModiTime>1342181</ModiTime>
+		</OdbObj>
+		<Name>Zone - Single Space</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1380929357</TypeId>
+		<SubTypeSignature>0</SubTypeSignature>
+		<RoomDefault Mv="7" Sv="0">
+			<ModelElementDefault Mv="7" Sv="0">
+				<VBElementDefault Mv="7" Sv="0">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy>
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Zone Is Gross/Complex</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ZONES</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<HasVariant>true</HasVariant>
+							<Variant Type="BoolVariant">
+								<Status>Normal</Status>
+								<Value>false</Value>
+							</Variant>
+						</PropertyDataProxy>
+						<ClassificationItemSet>
+							<ClassificationSystemUserID>
+								<Name>ARCHICAD Classification</Name>
+								<EditionVersion>2X</EditionVersion>
+							</ClassificationSystemUserID>
+							<ClassificationItemUserID>Residential Space</ClassificationItemUserID>
+						</ClassificationItemSet>
+					</DefaultElem>
+				</VBElementDefault>
+			</ModelElementDefault>
+			<RoomPen>6</RoomPen>
+			<RoomLayer>10100</RoomLayer>
+			<RoomActCat>4508</RoomActCat>
+			<KeepStampPos>false</KeepStampPos>
+			<PropertyAssignmentType>0</PropertyAssignmentType>
+			<AutoRoom>1</AutoRoom>
+			<UzDataKind>0</UzDataKind>
+			<OneMaterial>true</OneMaterial>
+			<ReducePercent>0</ReducePercent>
+			<ShowFoundPoly>false</ShowFoundPoly>
+			<RoomInfo>1Z0</RoomInfo>
+			<RoomName>Zonaming</RoomName>
+			<RoomNoStr>0.0</RoomNoStr>
+			<TopOffset>-0.2</TopOffset>
+			<RoomBaseLev>0</RoomBaseLev>
+			<RoomHeight>2.8</RoomHeight>
+			<RoomFlThick>0</RoomFlThick>
+			<FontFamily>
+				<FontName>Arial Кириллический</FontName>
+			</FontFamily>
+			<RoomSize>2</RoomSize>
+			<Material>100</Material>
+			<UsedFixedAngle>true</UsedFixedAngle>
+			<UseLocalOrigo>false</UseLocalOrigo>
+			<UseContourLine>false</UseContourLine>
+			<Use3DHatching>false</Use3DHatching>
+			<UseFillType>false</UseFillType>
+			<FillType>49</FillType>
+			<FillPen>94</FillPen>
+			<FillBGPen>134</FillBGPen>
+			<ContourLinePen>74</ContourLinePen>
+			<ContourLineType>1</ContourLineType>
+			<HomeStory>0</HomeStory>
+			<RelativeTopStory>1</RelativeTopStory>
+			<SymbDefault>
+				<GDLObjectDefault Mv="3" Sv="0">
+					<GDLBasedElemDefault Mv="3" Sv="0">
+						<ModelElementDefault Mv="3" Sv="0">
+							<VBElementDefault Mv="3" Sv="0">
+								<DefaultElem>
+									<CategoryInfo Mv="1" Sv="0">
+										<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+									</CategoryInfo>
+									<AddOnDataArray Size="0"/>
+									<PropertyData/>
+									<ClassificationItemSet/>
+								</DefaultElem>
+							</VBElementDefault>
+						</ModelElementDefault>
+						<MainPen>6</MainPen>
+						<Material>0</Material>
+						<OnePen>false</OnePen>
+						<InfoString>1Z0</InfoString>
+						<LibPartId Mv="1" Sv="0">
+							<Name>Zone Stamp A1 22.gsm</Name>
+							<MainGuid>A3B6C08C-AC8D-4045-905F-3A467AB63BA7</MainGuid>
+							<UnId>C182F357-7F90-49FB-890F-8CC083A06499</UnId>
+						</LibPartId>
+						<MainGuid>A73622DE-E40A-4E63-ADB7-52D13422BD06</MainGuid>
+						<CreatorToolUnID>D7D930ED-DE44-42D3-888C-921571BB88CC</CreatorToolUnID>
+						<UserGDLParamList Mv="1" Sv="0">
+							<Location>AddPars\Favorite - RoomDefault - Zone - Single Space - Zone Stamp A1 22.gsm.xml</Location>
+						</UserGDLParamList>
+					</GDLBasedElemDefault>
+					<Layer>1</Layer>
+					<Reflected>false</Reflected>
+					<Angle>0</Angle>
+					<Level>0</Level>
+					<XRatioOrSize>1</XRatioOrSize>
+					<YRatioOrSize>1</YRatioOrSize>
+					<OffsetX>0</OffsetX>
+					<OffsetY>0</OffsetY>
+					<LightIsOn>false</LightIsOn>
+					<LightRGBColorRed>0</LightRGBColorRed>
+					<LightRGBColorGreen>0</LightRGBColorGreen>
+					<LightRGBColorBlue>0</LightRGBColorBlue>
+					<ShowContour>
+						<HomeStory>true</HomeStory>
+						<AllBelow>false</AllBelow>
+						<AllAbove>false</AllAbove>
+						<RelativeBelow>0</RelativeBelow>
+						<RelativeAbove>0</RelativeAbove>
+					</ShowContour>
+					<AutoOnStoryVisibility>false</AutoOnStoryVisibility>
+					<FixPoint>0</FixPoint>
+					<PropAssType>0</PropAssType>
+					<UseXYFixSize>true</UseXYFixSize>
+					<ContourPen>1</ContourPen>
+					<FillPen>1</FillPen>
+					<BackgroundPen>1</BackgroundPen>
+					<Fill>0</Fill>
+					<LineType>0</LineType>
+					<UseLineType>false</UseLineType>
+					<UseMaterial>false</UseMaterial>
+					<UseSectionAttributes>false</UseSectionAttributes>
+					<GravityPar>0</GravityPar>
+					<HomeStory>0</HomeStory>
+					<DimensionsChained>false</DimensionsChained>
+				</GDLObjectDefault>
+			</SymbDefault>
+		</RoomDefault>
+		<HasNoteDef>true</HasNoteDef>
+		<NoteDefault Mv="5" Sv="7">
+			<DocumentationElementDefault Mv="5" Sv="7">
+				<VBElementDefault Mv="5" Sv="7">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<NotePen>1</NotePen>
+			<FontFamily>
+				<FontName>@Kozuka Mincho Pr6N L Центральноевропейский</FontName>
+			</FontFamily>
+			<NoteSize>2</NoteSize>
+			<NoteAngle>0</NoteAngle>
+			<NoteStyle>0</NoteStyle>
+			<RowAnchor>0</RowAnchor>
+			<Alignment>1</Alignment>
+			<WidthFactor>1</WidthFactor>
+			<SpacingFactor>1</SpacingFactor>
+			<Effects>0</Effects>
+			<NoteUseContour>false</NoteUseContour>
+			<NoteUseFill>false</NoteUseFill>
+			<NoteContourPen>1</NoteContourPen>
+			<NoteFillPen>-1</NoteFillPen>
+			<HasLeaderLine>false</HasLeaderLine>
+			<LeaderLineStartAngle>1.0471975511966</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>false</LeaderLineStartAngleFixed>
+			<LeaderLineAttributes>
+				<ArrowForm>26</ArrowForm>
+				<ArrowSize>2</ArrowSize>
+				<ArrowPen>1</ArrowPen>
+				<LinePen>1</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>1</AnchorPoint>
+			</LeaderLineAttributes>
+			<Readable>true</Readable>
+		</NoteDefault>
+		<HasReferenceStory>true</HasReferenceStory>
+		<ReferenceStory>0</ReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Zones"/>
+</Favorites>

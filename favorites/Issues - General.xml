@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>7</ItemNum>
+		<Item>
+			<Name>T04  Title Blocks</Name>
+			<Index>20400</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Background</Name>
+			<Index>65</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Background</Name>
+			<Index>65</Index>
+			<RefId>1279351090</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="SymbDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>EE08496D-5A92-4081-90E5-CE2927367396</guid>
+			</OdbRef>
+			<CreaTime>895939</CreaTime>
+			<ModiTime>1342190</ModiTime>
+		</OdbObj>
+		<Name>Issues - General</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1398361410</TypeId>
+		<SubTypeSignature>1398361410</SubTypeSignature>
+		<SymbDefault>
+			<GDLObjectDefault Mv="3" Sv="0">
+				<GDLBasedElemDefault Mv="3" Sv="0">
+					<ModelElementDefault Mv="3" Sv="0">
+						<VBElementDefault Mv="3" Sv="0">
+							<DefaultElem>
+								<CategoryInfo Mv="1" Sv="0">
+									<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+								</CategoryInfo>
+								<AddOnDataArray Size="0"/>
+								<PropertyDataProxy/>
+								<ClassificationItemSet/>
+							</DefaultElem>
+						</VBElementDefault>
+					</ModelElementDefault>
+					<MainPen>4</MainPen>
+					<Material>0</Material>
+					<OnePen>false</OnePen>
+					<InfoString>FU - 005</InfoString>
+					<LibPartId Mv="1" Sv="0">
+						<Name>Revision History Simple 22.gsm</Name>
+						<MainGuid>FA2840EE-B2D0-4EC4-B5A5-7644B930E63D</MainGuid>
+						<UnId>A455A686-A127-4BC4-8CD6-427832EA60C1</UnId>
+					</LibPartId>
+					<MainGuid>F938E33A-329D-4A36-BE3E-85E126820996</MainGuid>
+					<CreatorToolUnID>951893CE-E83A-4317-A0B5-2B67879AF88E</CreatorToolUnID>
+					<UserGDLParamList Mv="1" Sv="0">
+						<Location>AddPars\Favorite - SymbDefault - Issues - General - Revision History Simple 22.gsm.xml</Location>
+					</UserGDLParamList>
+				</GDLBasedElemDefault>
+				<Layer>20400</Layer>
+				<Reflected>false</Reflected>
+				<Angle>0</Angle>
+				<Level>0</Level>
+				<XRatioOrSize>0.0896828295752882</XRatioOrSize>
+				<YRatioOrSize>0.0550000000000001</YRatioOrSize>
+				<OffsetX>0.0896828295752881</OffsetX>
+				<OffsetY>0</OffsetY>
+				<LightIsOn>false</LightIsOn>
+				<LightRGBColorRed>0</LightRGBColorRed>
+				<LightRGBColorGreen>0</LightRGBColorGreen>
+				<LightRGBColorBlue>0</LightRGBColorBlue>
+				<ShowContour>
+					<HomeStory>true</HomeStory>
+					<AllBelow>false</AllBelow>
+					<AllAbove>false</AllAbove>
+					<RelativeBelow>0</RelativeBelow>
+					<RelativeAbove>0</RelativeAbove>
+				</ShowContour>
+				<AutoOnStoryVisibility>false</AutoOnStoryVisibility>
+				<FixPoint>0</FixPoint>
+				<PropAssType>0</PropAssType>
+				<UseXYFixSize>true</UseXYFixSize>
+				<ContourPen>24</ContourPen>
+				<FillPen>104</FillPen>
+				<BackgroundPen>124</BackgroundPen>
+				<Fill>65</Fill>
+				<LineType>1</LineType>
+				<UseLineType>false</UseLineType>
+				<UseMaterial>true</UseMaterial>
+				<UseSectionAttributes>true</UseSectionAttributes>
+				<GravityPar>0</GravityPar>
+				<HomeStory>0</HomeStory>
+				<DimensionsChained>false</DimensionsChained>
+			</GDLObjectDefault>
+		</SymbDefault>
+		<HasNoteDef>true</HasNoteDef>
+		<NoteDefault Mv="5" Sv="7">
+			<DocumentationElementDefault Mv="5" Sv="7">
+				<VBElementDefault Mv="5" Sv="7">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<NotePen>1</NotePen>
+			<FontFamily>
+				<FontName>@Kozuka Mincho Pr6N L Центральноевропейский</FontName>
+			</FontFamily>
+			<NoteSize>2</NoteSize>
+			<NoteAngle>0</NoteAngle>
+			<NoteStyle>0</NoteStyle>
+			<RowAnchor>0</RowAnchor>
+			<Alignment>1</Alignment>
+			<WidthFactor>1</WidthFactor>
+			<SpacingFactor>1</SpacingFactor>
+			<Effects>0</Effects>
+			<NoteUseContour>false</NoteUseContour>
+			<NoteUseFill>false</NoteUseFill>
+			<NoteContourPen>1</NoteContourPen>
+			<NoteFillPen>-1</NoteFillPen>
+			<HasLeaderLine>false</HasLeaderLine>
+			<LeaderLineStartAngle>1.0471975511966</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>false</LeaderLineStartAngleFixed>
+			<LeaderLineAttributes>
+				<ArrowForm>26</ArrowForm>
+				<ArrowSize>2</ArrowSize>
+				<ArrowPen>1</ArrowPen>
+				<LinePen>1</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>1</AnchorPoint>
+			</LeaderLineAttributes>
+			<Readable>true</Readable>
+		</NoteDefault>
+		<HasReferenceStory>true</HasReferenceStory>
+		<ReferenceStory>0</ReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Documentation"/>
+</Favorites>

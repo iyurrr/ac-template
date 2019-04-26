@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profile guid="55C9DDBD-91AF-413C-8DAB-087EE6790162" name="a.technologies" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Profile/2005/01">
+	<SchemeRef componentType="24B978B9-B65D-4405-AF78-3990DCBEB13F" componentTypeName="Company Standards" guid="DF244041-4C32-405E-977F-A3E132F1F577" name="a.technologies"/>
+	<SchemeRef componentType="F078DB9E-D588-405D-9693-06F9D70B27CF" componentTypeName="Shortcut" guid="2CAE516A-1001-4271-98AA-EFF421D80004" name="a.technologies"/>
+	<SchemeRef componentType="D3EC122F-0A7F-4B14-94D0-0A6B7FFA66C3" componentTypeName="User Preferences" guid="4B46E0FA-5023-4ACD-A53F-DA6CBB14B8F0" name="a.technologies"/>
+	<SchemeRef componentType="AD074D1A-BFE2-48B7-B478-54652249B51D" componentTypeName="Tools" guid="192B7E9E-CD18-4404-9DE8-6127F779C817" name="a.technologies"/>
+	<SchemeRef componentType="40C3FF18-F1CE-4430-92B2-F6631BD465D3" componentTypeName="Workspace" guid="AB3F4161-529E-4E2D-8BC6-CB9BA4372648" name="a.technologies"/>
+	<SchemeRef componentType="6FCD168F-A26C-4547-AF9D-ED9A5FC54DD7" componentTypeName="Command Layout" guid="CF685196-AA57-45AF-889D-72679AC1E4D5" name="a.technologies"/>
+</Profile>

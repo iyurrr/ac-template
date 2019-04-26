@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Scheme componentType="24B978B9-B65D-4405-AF78-3990DCBEB13F" guid="DF244041-4C32-405E-977F-A3E132F1F577" name="a.technologies" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Scheme/2018/01">
+	<GlobalSettings Version="2">
+		<DataSafety Version="8">
+			<IsAutoSaveEnabled>1</IsAutoSaveEnabled>
+			<AutoSaveMethod>1</AutoSaveMethod>
+			<UndoSteps>20</UndoSteps>
+			<MakeBackup>1</MakeBackup>
+			<AutoSaveLoc>lan.flat:///C:/Users/i.yurasov/GRAPHISOFT</AutoSaveLoc>
+			<UseDefaultLoc>1</UseDefaultLoc>
+			<HLMCheckMode>1</HLMCheckMode>
+			<HLMAutomaticallyCheckStatus>1</HLMAutomaticallyCheckStatus>
+			<ReleaseAllOnClose>1</ReleaseAllOnClose>
+			<UseLimitNumOfMessages>0</UseLimitNumOfMessages>
+			<LimitNumOfMessages>100</LimitNumOfMessages>
+			<EnableSendReminderNotification>1</EnableSendReminderNotification>
+			<SendReminderNotificationMinutes>60</SendReminderNotificationMinutes>
+			<SendReminderNotificationSteps>50</SendReminderNotificationSteps>
+			<AutoReserveEnabled>1</AutoReserveEnabled>
+		</DataSafety>
+		<WebOptions Version="8">
+			<HtmlFormat>2</HtmlFormat>
+			<DefCSSFilePath>ListStyle.css</DefCSSFilePath>
+			<StyleSheetOption>2</StyleSheetOption>
+			<CheckForUpdates>1</CheckForUpdates>
+			<UpdateType>1</UpdateType>
+			<UpdateFrequency>3</UpdateFrequency>
+			<EnableCompression>0</EnableCompression>
+			<ProxyLocationMode>1</ProxyLocationMode>
+			<ManualProxyLocation/>
+			<MountingEnabled>1</MountingEnabled>
+		</WebOptions>
+		<SpecialFolders Version="2">
+			<TempFolderLoc>lan.flat:///C:/Users/i.yurasov/AppData/Local/GRAPHISOFT</TempFolderLoc>
+			<IsDefaultTempFolderUsed>1</IsDefaultTempFolderUsed>
+			<CacheFolderLoc>lan.flat:///C:/Users/i.yurasov/AppData/Local/GRAPHISOFT</CacheFolderLoc>
+			<IsDefaultCacheFolderUsed>1</IsDefaultCacheFolderUsed>
+			<TemplateFolderLoc>lan.flat:///C:/Users/i.yurasov/Documents</TemplateFolderLoc>
+			<IsDefaultTemplateFolderUsed>1</IsDefaultTemplateFolderUsed>
+		</SpecialFolders>
+	</GlobalSettings>
+</Scheme>

@@ -36,7 +36,7 @@
 				<guid>EFCE842A-7AF0-4C83-B38E-FA680428327F</guid>
 			</OdbRef>
 			<CreaTime>1342174</CreaTime>
-			<ModiTime>1342192</ModiTime>
+			<ModiTime>1444566</ModiTime>
 		</OdbObj>
 		<Name>Label - Slope Angle (P)</Name>
 		<Ind>0</Ind>
@@ -86,22 +86,22 @@
 				<CharSpaceFactor>1</CharSpaceFactor>
 				<IsFixed>true</IsFixed>
 				<CharCode>11</CharCode>
-				<Content>&lt;PROPERTY-ROOFS/Slope Angle (P)&gt;</Content>
+				<Content>&lt;PROPERTY-ROOFS/Roof Angle (P)&gt;</Content>
 				<NParagraph>1</NParagraph>
 				<RichText>
 					<From>0</From>
-					<Range>32</Range>
+					<Range>31</Range>
 					<Justification>0</Justification>
 					<FirstIndentInModelUnit>0</FirstIndentInModelUnit>
 					<IndentInModelUnit>0</IndentInModelUnit>
 					<RightIndentInModelUnit>0</RightIndentInModelUnit>
 					<LineSpacingInModelUnit>-1</LineSpacingInModelUnit>
 					<NEOLPosition>1</NEOLPosition>
-					<EolPositions>31</EolPositions>
+					<EolPositions>30</EolPositions>
 					<NRuns>1</NRuns>
 					<Run>
 						<From>0</From>
-						<Range>32</Range>
+						<Range>31</Range>
 						<CharStyle>
 							<Effects>8192</Effects>
 							<Font>
@@ -129,7 +129,7 @@
 					</Run>
 					<NTabs>0</NTabs>
 					<NLineWidthsInModelUnits>1</NLineWidthsInModelUnits>
-					<LineWidthsInModelUnit>53.6045714285714</LineWidthsInModelUnit>
+					<LineWidthsInModelUnit>52.2770285714286</LineWidthsInModelUnit>
 				</RichText>
 				<DefaultTabScaleDown>1</DefaultTabScaleDown>
 			</RichText>

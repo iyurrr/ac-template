@@ -56,7 +56,7 @@
 				<guid>F9EF3E16-FA64-450F-8C0F-4EF7DBDB5102</guid>
 			</OdbRef>
 			<CreaTime>895885</CreaTime>
-			<ModiTime>1342183</ModiTime>
+			<ModiTime>1444569</ModiTime>
 		</OdbObj>
 		<Name>Opening - V-Square</Name>
 		<Ind>0</Ind>
@@ -225,5 +225,7 @@
 		<Folder>00000000-0000-0000-0000-000000000000</Folder>
 		<Guid>00000000-0000-0000-0000-000000000000</Guid>
 	</Favorite>
-	<Folder Name="Openings"/>
+	<Folder Name="Elements">
+		<Folder Name="Openings"/>
+	</Folder>
 </Favorites>

@@ -56,7 +56,7 @@
 				<guid>B106A327-16D4-47D2-B241-96FE78A099FF</guid>
 			</OdbRef>
 			<CreaTime>895891</CreaTime>
-			<ModiTime>1342184</ModiTime>
+			<ModiTime>1444570</ModiTime>
 		</OdbObj>
 		<Name>Opening - V-Circle</Name>
 		<Ind>0</Ind>
@@ -225,5 +225,7 @@
 		<Folder>00000000-0000-0000-0000-000000000000</Folder>
 		<Guid>00000000-0000-0000-0000-000000000000</Guid>
 	</Favorite>
-	<Folder Name="Openings"/>
+	<Folder Name="Elements">
+		<Folder Name="Openings"/>
+	</Folder>
 </Favorites>

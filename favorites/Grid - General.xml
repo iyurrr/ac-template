@@ -61,7 +61,7 @@
 				<guid>603F5846-7768-47BA-B4BD-E28A230A01EE</guid>
 			</OdbRef>
 			<CreaTime>895929</CreaTime>
-			<ModiTime>1342189</ModiTime>
+			<ModiTime>1444568</ModiTime>
 		</OdbObj>
 		<Name>Grid - General</Name>
 		<Ind>0</Ind>
@@ -207,5 +207,7 @@
 		<Folder>00000000-0000-0000-0000-000000000000</Folder>
 		<Guid>00000000-0000-0000-0000-000000000000</Guid>
 	</Favorite>
-	<Folder Name="Grids"/>
+	<Folder Name="Elements">
+		<Folder Name="Grids"/>
+	</Folder>
 </Favorites>

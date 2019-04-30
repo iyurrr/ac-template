@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AddPar Index="4500" Name="Zone - RESIDENTIAL SPACES === - Basic Zone Stamp" UNID="{3BA7290C-B867-48F3-B4A4-D37DD1BA11E8}-{7797D7E2-4ED9-4590-BF00-8CEE90981365}">
+	
+<Parameters>
+		<Length Name="A">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Length>
+		<Length Name="B">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>1</Value>
+		</Length>
+		<RealNum Name="AC_TextSize_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>2</Value>
+		</RealNum>
+		<Integer Name="AC_TextStyle_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="AC_TextAlignment_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</Integer>
+		<RealNum Name="AC_TextLeading_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</RealNum>
+		<RealNum Name="AC_TextCharWidthFactor_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</RealNum>
+		<RealNum Name="AC_TextCharSpaceFactor_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</RealNum>
+		<PenColor Name="AC_TextPen_1">
+			<Description><![CDATA[""]]></Description>
+			<Value>6</Value>
+		</PenColor>
+		<String Name="ROOM_NAME">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["<zone name>"]]></Value>
+		</String>
+		<String Name="ROOM_NUMBER">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["001"]]></Value>
+		</String>
+		<RealNum Name="ROOM_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<Length Name="ROOM_PERIM">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<Length Name="ROOM_HOLES_PRM">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<Length Name="ROOM_WALLS_PRM">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<Integer Name="ROOM_CORNERS">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<Integer Name="ROOM_CONCAVES">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Integer>
+		<RealNum Name="ROOM_WALLS_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<Length Name="ROOM_DOORS_WID">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<RealNum Name="ROOM_DOORS_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<Length Name="ROOM_WINDS_WID">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<RealNum Name="ROOM_WINDS_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<Length Name="ROOM_BASELEV">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<Length Name="ROOM_FL_THICK">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<Length Name="ROOM_HEIGHT">
+			<Description><![CDATA[""]]></Description>
+			<Value>2.7</Value>
+		</Length>
+		<RealNum Name="ROOM_NET_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<Length Name="ROOM_NET_PERIMETER">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Length>
+		<RealNum Name="ROOM_WALL_EXTR_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_CURTAINWALL_EXTR_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_COLUMN_EXTR_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_FILL_EXTR_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_LOW_EXTR_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_TOTAL_EXTR_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_REDUCED_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_AREA_FACTOR">
+			<Description><![CDATA[""]]></Description>
+			<Value>1</Value>
+		</RealNum>
+		<RealNum Name="ROOM_CALC_AREA">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_VOLUME">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_BOUNDARY_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_TOP_SURFACE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_BOT_SURFACE">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_ROOF_TOP_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_ROOF_BOT_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_SLAB_TOP_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_SLAB_BOT_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_BEAM_TOP_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_BEAM_BOT_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_WALL_IN_TOP_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_WALL_IN_BACK_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<RealNum Name="ROOM_WALL_IN_SIDE_SURF">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</RealNum>
+		<String Name="AC_TextFont_1">
+			<Description><![CDATA[""]]></Description>
+			<Value><![CDATA["Arial"]]></Value>
+		</String>
+		<Integer Name="ROOM_POLY_STATUS">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<Boolean Name="bShowID">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</Boolean>
+		<Integer Name="iShowZoneIDAs">
+			<Description><![CDATA[""]]></Description>
+			<Value>2</Value>
+		</Integer>
+		<FillPattern Name="gs_fill_type">
+			<Description><![CDATA[""]]></Description>
+			<Value>65</Value>
+		</FillPattern>
+		<PenColor Name="gs_fill_pen">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</PenColor>
+		<Integer Name="gs_fill_pen_int">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<PenColor Name="gs_back_pen">
+			<Description><![CDATA[""]]></Description>
+			<Value>0</Value>
+		</PenColor>
+		<Integer Name="gs_back_pen_int">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<Value>0</Value>
+		</Integer>
+		<String Name="listZoneProperty">
+			<Description><![CDATA[""]]></Description>
+			<Flags>
+				<ParFlg_Hidden/>
+			</Flags>
+			<ArrayValues FirstDimension="3" SecondDimension="2">
+				<AVal Column="1" Row="1"><![CDATA["Zone Name"]]></AVal>
+				<AVal Column="2" Row="1"><![CDATA["<zone name>"]]></AVal>
+				<AVal Column="1" Row="2"><![CDATA["Zone Number"]]></AVal>
+				<AVal Column="2" Row="2"><![CDATA["001"]]></AVal>
+				<AVal Column="1" Row="3"><![CDATA["Area"]]></AVal>
+				<AVal Column="2" Row="3"><![CDATA["0,000 m2"]]></AVal>
+			</ArrayValues>
+		</String>
+	
+</Parameters>	
+</AddPar>

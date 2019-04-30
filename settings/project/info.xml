@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectInfo>
+<Version val="3"/>
+<FixKeys val="78">
+<Fix1>
+<UIKey>
+<![CDATA[Project Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTNAME]]>
+</DBKey>
+<value>
+<![CDATA[Projectname]]>
+</value>
+</Fix1>
+<Fix2>
+<UIKey>
+<![CDATA[Project Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]>
+</value>
+</Fix2>
+<Fix3>
+<UIKey>
+<![CDATA[Project ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_ID]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix3>
+<Fix4>
+<UIKey>
+<![CDATA[Project Code]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_CODE]]>
+</DBKey>
+<value>
+<![CDATA[PRJ]]>
+</value>
+</Fix4>
+<Fix5>
+<UIKey>
+<![CDATA[Project Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTNUMBER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix5>
+<Fix6>
+<UIKey>
+<![CDATA[Project Status]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTSTATUS]]>
+</DBKey>
+<value>
+<![CDATA[Р]]>
+</value>
+</Fix6>
+<Fix7>
+<UIKey>
+<![CDATA[Keywords]]>
+</UIKey>
+<DBKey>
+<![CDATA[KEYWORDS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix7>
+<Fix8>
+<UIKey>
+<![CDATA[Notes]]>
+</UIKey>
+<DBKey>
+<![CDATA[NOTES]]>
+</DBKey>
+<value>
+<![CDATA[ ]]>
+</value>
+</Fix8>
+<Fix9>
+<UIKey>
+<![CDATA[Site Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_NAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix9>
+<Fix10>
+<UIKey>
+<![CDATA[Site Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix10>
+<Fix11>
+<UIKey>
+<![CDATA[Site ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_ID]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix11>
+<Fix12>
+<UIKey>
+<![CDATA[Site Full Address]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEFULLADDRESS]]>
+</DBKey>
+<value>
+<![CDATA[Адреса за угодою Мiсто]]>
+</value>
+</Fix12>
+<Fix13>
+<UIKey>
+<![CDATA[Site Address1]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEADDRESS1]]>
+</DBKey>
+<value>
+<![CDATA[Адреса за угодою]]>
+</value>
+</Fix13>
+<Fix14>
+<UIKey>
+<![CDATA[Site Address2]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEADDRESS2]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix14>
+<Fix15>
+<UIKey>
+<![CDATA[Site Address3]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEADDRESS3]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix15>
+<Fix16>
+<UIKey>
+<![CDATA[Site Postal Box]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEPOSTBOX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix16>
+<Fix17>
+<UIKey>
+<![CDATA[Site City]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITECITY]]>
+</DBKey>
+<value>
+<![CDATA[Мiсто]]>
+</value>
+</Fix17>
+<Fix18>
+<UIKey>
+<![CDATA[Site State]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITESTATE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix18>
+<Fix19>
+<UIKey>
+<![CDATA[Site Postcode]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEPOSTCODE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix19>
+<Fix20>
+<UIKey>
+<![CDATA[Site Country]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITECOUNTRY]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix20>
+<Fix21>
+<UIKey>
+<![CDATA[Site Gross Perimeter]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEGROSSPERIMETER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix21>
+<Fix22>
+<UIKey>
+<![CDATA[Site Gross Area]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEGROSSAREA]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix22>
+<Fix23>
+<UIKey>
+<![CDATA[Building Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_NAME]]>
+</DBKey>
+<value>
+<![CDATA[Черга проектування I]]>
+</value>
+</Fix23>
+<Fix24>
+<UIKey>
+<![CDATA[Building Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix24>
+<Fix25>
+<UIKey>
+<![CDATA[Building ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_ID]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix25>
+<Fix26>
+<UIKey>
+<![CDATA[Contact Full Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_FULLNAME]]>
+</DBKey>
+<value>
+<![CDATA[Д. Директор]]>
+</value>
+</Fix26>
+<Fix27>
+<UIKey>
+<![CDATA[Contact Prefix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_PREFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix27>
+<Fix28>
+<UIKey>
+<![CDATA[Contact Given Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_GIVENNAME]]>
+</DBKey>
+<value>
+<![CDATA[Д.]]>
+</value>
+</Fix28>
+<Fix29>
+<UIKey>
+<![CDATA[Contact Middle Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_MIDDLENAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix29>
+<Fix30>
+<UIKey>
+<![CDATA[Contact Family Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_FAMILYNAME]]>
+</DBKey>
+<value>
+<![CDATA[Директор]]>
+</value>
+</Fix30>
+<Fix31>
+<UIKey>
+<![CDATA[Contact Suffix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_SUFFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix31>
+<Fix32>
+<UIKey>
+<![CDATA[Contact Name Order]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_NAMEORDER]]>
+</DBKey>
+<value>
+<![CDATA[p-g-m-f-s]]>
+</value>
+</Fix32>
+<Fix33>
+<UIKey>
+<![CDATA[Contact ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_ID]]>
+</DBKey>
+<value>
+<![CDATA[АГ № 574333]]>
+</value>
+</Fix33>
+<Fix34>
+<UIKey>
+<![CDATA[Contact Role]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_ROLE]]>
+</DBKey>
+<value>
+<![CDATA[CEO]]>
+</value>
+</Fix34>
+<Fix35>
+<UIKey>
+<![CDATA[Contact Department]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_DEPARTMENT]]>
+</DBKey>
+<value>
+<![CDATA[A–ZZ]]>
+</value>
+</Fix35>
+<Fix36>
+<UIKey>
+<![CDATA[CAD Technician Full Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_FULLNAME]]>
+</DBKey>
+<value>
+<![CDATA[Н. Нормаконтроль]]>
+</value>
+</Fix36>
+<Fix37>
+<UIKey>
+<![CDATA[CAD Technician Prefix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_PREFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix37>
+<Fix38>
+<UIKey>
+<![CDATA[CAD Technician Given Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_GIVENNAME]]>
+</DBKey>
+<value>
+<![CDATA[Н.]]>
+</value>
+</Fix38>
+<Fix39>
+<UIKey>
+<![CDATA[CAD Technician Middle Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_MIDDLENAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix39>
+<Fix40>
+<UIKey>
+<![CDATA[CAD Technician Family Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_FAMILYNAME]]>
+</DBKey>
+<value>
+<![CDATA[Нормаконтроль]]>
+</value>
+</Fix40>
+<Fix41>
+<UIKey>
+<![CDATA[CAD Technician Suffix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_SUFFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix41>
+<Fix42>
+<UIKey>
+<![CDATA[CAD Technician Name Order]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_NAMEORDER]]>
+</DBKey>
+<value>
+<![CDATA[p-g-m-f-s]]>
+</value>
+</Fix42>
+<Fix43>
+<UIKey>
+<![CDATA[Contact Company]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTCOMPANY]]>
+</DBKey>
+<value>
+<![CDATA[ТОВ «АРХІМАТИКА»]]>
+</value>
+</Fix43>
+<Fix44>
+<UIKey>
+<![CDATA[Contact Company Code]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_COMPANYCODE]]>
+</DBKey>
+<value>
+<![CDATA[ARM]]>
+</value>
+</Fix44>
+<Fix45>
+<UIKey>
+<![CDATA[Contact Full Address]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTFULLADDRESS]]>
+</DBKey>
+<value>
+<![CDATA[вул. Тургенєвська, буд. 38 5 поверх - Київ - Україна]]>
+</value>
+</Fix45>
+<Fix46>
+<UIKey>
+<![CDATA[Contact Address1]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTADDRESS1]]>
+</DBKey>
+<value>
+<![CDATA[вул. Тургенєвська, буд. 38]]>
+</value>
+</Fix46>
+<Fix47>
+<UIKey>
+<![CDATA[Contact Address2]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTADDRESS2]]>
+</DBKey>
+<value>
+<![CDATA[5 поверх]]>
+</value>
+</Fix47>
+<Fix48>
+<UIKey>
+<![CDATA[Contact Address3]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTADDRESS3]]>
+</DBKey>
+<value>
+<![CDATA[-]]>
+</value>
+</Fix48>
+<Fix49>
+<UIKey>
+<![CDATA[Contact Postal Box]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTPOSTBOX]]>
+</DBKey>
+<value>
+<![CDATA[01054]]>
+</value>
+</Fix49>
+<Fix50>
+<UIKey>
+<![CDATA[Contact City]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTCITY]]>
+</DBKey>
+<value>
+<![CDATA[Київ]]>
+</value>
+</Fix50>
+<Fix51>
+<UIKey>
+<![CDATA[Contact State]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTSTATE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix51>
+<Fix52>
+<UIKey>
+<![CDATA[Contact Postcode]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTPOSTCODE]]>
+</DBKey>
+<value>
+<![CDATA[-]]>
+</value>
+</Fix52>
+<Fix53>
+<UIKey>
+<![CDATA[Contact Country]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTCOUNTRY]]>
+</DBKey>
+<value>
+<![CDATA[Україна]]>
+</value>
+</Fix53>
+<Fix54>
+<UIKey>
+<![CDATA[Contact E-mail]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTEMAIL]]>
+</DBKey>
+<value>
+<![CDATA[office@archimatika.com]]>
+</value>
+</Fix54>
+<Fix55>
+<UIKey>
+<![CDATA[Contact Phone Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTPHONE]]>
+</DBKey>
+<value>
+<![CDATA[+380 44 228 7728]]>
+</value>
+</Fix55>
+<Fix56>
+<UIKey>
+<![CDATA[Contact Fax]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTFAX]]>
+</DBKey>
+<value>
+<![CDATA[+380 44 486 9004]]>
+</value>
+</Fix56>
+<Fix57>
+<UIKey>
+<![CDATA[Contact Web]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTWEB]]>
+</DBKey>
+<value>
+<![CDATA[archimatika.com]]>
+</value>
+</Fix57>
+<Fix58>
+<UIKey>
+<![CDATA[Client Full Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_FULLNAME]]>
+</DBKey>
+<value>
+<![CDATA[Одержувач К]]>
+</value>
+</Fix58>
+<Fix59>
+<UIKey>
+<![CDATA[Client Prefix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_PREFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix59>
+<Fix60>
+<UIKey>
+<![CDATA[Client Given Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_GIVENNAME]]>
+</DBKey>
+<value>
+<![CDATA[К]]>
+</value>
+</Fix60>
+<Fix61>
+<UIKey>
+<![CDATA[Client Middle Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_MIDDLENAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix61>
+<Fix62>
+<UIKey>
+<![CDATA[Client Family Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_FAMILYNAME]]>
+</DBKey>
+<value>
+<![CDATA[Одержувач]]>
+</value>
+</Fix62>
+<Fix63>
+<UIKey>
+<![CDATA[Client Suffix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_SUFFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix63>
+<Fix64>
+<UIKey>
+<![CDATA[Client Name Order]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_NAMEORDER]]>
+</DBKey>
+<value>
+<![CDATA[p-f-g-m-s]]>
+</value>
+</Fix64>
+<Fix65>
+<UIKey>
+<![CDATA[Client Company]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTCOMPANY]]>
+</DBKey>
+<value>
+<![CDATA[ТОВ «КОМПАНIЯ»]]>
+</value>
+</Fix65>
+<Fix66>
+<UIKey>
+<![CDATA[Client Full Address]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTFULLADDRESS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix66>
+<Fix67>
+<UIKey>
+<![CDATA[Client Address1]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTADDRESS1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix67>
+<Fix68>
+<UIKey>
+<![CDATA[Client Address2]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTADDRESS2]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix68>
+<Fix69>
+<UIKey>
+<![CDATA[Client Address3]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTADDRESS3]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix69>
+<Fix70>
+<UIKey>
+<![CDATA[Client Postal Box]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTPOSTBOX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix70>
+<Fix71>
+<UIKey>
+<![CDATA[Client City]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTCITY]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix71>
+<Fix72>
+<UIKey>
+<![CDATA[Client State]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTSTATE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix72>
+<Fix73>
+<UIKey>
+<![CDATA[Client Postcode]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTPOSTCODE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix73>
+<Fix74>
+<UIKey>
+<![CDATA[Client Country]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTCOUNTRY]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix74>
+<Fix75>
+<UIKey>
+<![CDATA[Client E-mail]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTEMAIL]]>
+</DBKey>
+<value>
+<![CDATA[contact@company.com]]>
+</value>
+</Fix75>
+<Fix76>
+<UIKey>
+<![CDATA[Client Phone Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTPHONE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix76>
+<Fix77>
+<UIKey>
+<![CDATA[Client Fax]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTFAX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix77>
+<Fix78>
+<UIKey>
+<![CDATA[EcoDesigner report header text]]>
+</UIKey>
+<DBKey>
+<![CDATA[EDREPORTHEADER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix78>
+</FixKeys>
+<CustomKeys val="26">
+<Custom1>
+<UIKey>
+<![CDATA[Project Status Code]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_STATUS_CODE]]>
+</DBKey>
+<value>
+<![CDATA[C]]>
+</value>
+</Custom1>
+<Custom2>
+<UIKey>
+<![CDATA[Project Status Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_STATUS_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[РОБОЧА ДОКУМЕНТАЦIЯ]]>
+</value>
+</Custom2>
+<Custom3>
+<UIKey>
+<![CDATA[Site Zone]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_ZONE]]>
+</DBKey>
+<value>
+<![CDATA[00]]>
+</value>
+</Custom3>
+<Custom4>
+<UIKey>
+<![CDATA[Building Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_NUMBER]]>
+</DBKey>
+<value>
+<![CDATA[001]]>
+</value>
+</Custom4>
+<Custom5>
+<UIKey>
+<![CDATA[Contact Designer]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-DESIGNER]]>
+</DBKey>
+<value>
+<![CDATA[А. Розробив]]>
+</value>
+</Custom5>
+<Custom6>
+<UIKey>
+<![CDATA[Contact Chief Architect]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-DESIGNER_CHIEF]]>
+</DBKey>
+<value>
+<![CDATA[А.Гап]]>
+</value>
+</Custom6>
+<Custom7>
+<UIKey>
+<![CDATA[Contact Verifier]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-DESIGNER_CHECKED_BY]]>
+</DBKey>
+<value>
+<![CDATA[А. Перевiрив]]>
+</value>
+</Custom7>
+<Custom8>
+<UIKey>
+<![CDATA[Client Copies Quantity Requirements]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_COPIESQUANTREQ]]>
+</DBKey>
+<value>
+<![CDATA[4]]>
+</value>
+</Custom8>
+<Custom9>
+<UIKey>
+<![CDATA[= CONFIG ==========]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-CONFIG]]>
+</DBKey>
+<value>
+<![CDATA[=========================================================]]>
+</value>
+</Custom9>
+<Custom10>
+<UIKey>
+<![CDATA[Project Settings]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-CONFIG_SETTINGS]]>
+</DBKey>
+<value>
+<![CDATA[# option & state (yes/no)enable_validation_reports = yesenable_validation_home = yesenable_validation_attributes = yeselement_mapping = basic]]>
+</value>
+</Custom10>
+<Custom11>
+<UIKey>
+<![CDATA[Project Globals]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-CONFIG_GLOBALS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom11>
+<Custom12>
+<UIKey>
+<![CDATA[= INPUT ===========]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT]]>
+</DBKey>
+<value>
+<![CDATA[=========================================================]]>
+</value>
+</Custom12>
+<Custom13>
+<UIKey>
+<![CDATA[Project Reports]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_REPORTS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom13>
+<Custom14>
+<UIKey>
+<![CDATA[Project Layers]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_LAYERS]]>
+</DBKey>
+<value>
+<![CDATA[---- LAYERS ----index	name	status	status	in use*****	*****	*****	*****	*****100	A00  === ANALYSIS ===	locked	hidden110	A10  Estimations	unlocked	hidden210	A21  Survey, insolation	unlocked	hidden220	A21  Survey, transport	unlocked	hidden500	E05  === SITE & EARTHWORK ===	locked	hidden600	E06  Earthwork	unlocked	hidden700	E07  Parking lots	unlocked	hidden803	E08  Site development	unlocked	hidden1000	E10  === SUBSTRUCTURE ===	locked	hidden1100	E11  Foundation	unlocked	hidden1200	E12  Basement & plinth	unlocked	hidden2000	E20  === SUPERSTRUCTURE ===	locked	hidden2100	E21  Frame	unlocked	hidden	in use2200	E22  Bearing elements	unlocked	hidden2510	E25  Walls, cladding, covering & finishing	unlocked	hidden2520	E25  Walls, curtain	unlocked	hidden	in use2530	E25  Walls, external	unlocked	hidden2540	E25  Walls, internal	unlocked	hidden	in use2560	E26  Partitions	unlocked	hidden2570	E27  Railings	unlocked	hidden	in use3100	E31  Floors	unlocked	hidden3110	E31  Floors covering & finishing	unlocked	hidden3200	E32  Ceilings	unlocked	hidden3210	E32  Ceilings covering & finishing	unlocked	hidden3300	E33  Roof	unlocked	hidden	in use3310	E33  Roof covering & finishing	unlocked	hidden3320	E33  Roof elements	unlocked	hidden3600	E36  Stairs	unlocked	hidden	in use3700	E37  Ramps	unlocked	hidden4000	E40  === EQUIPMENT & FURNISHINGS ===	locked	hidden4100	E41  Signage	unlocked	hidden4200	E42  Equipment	unlocked	hidden	in use4300	E43  Furnishings	unlocked	hidden4399	E43  Stuffage PRO	unlocked	hidden4499	E44  === ENGINEERING SERVICES & SYSTEMS ===	locked	hidden4500	E45  Transportation	unlocked	hidden5000	E50  Disposal	unlocked	hidden5500	E55  Piped Supply	unlocked	hidden6000	E60  HVAC	unlocked	hidden7000	E70  Electrical	unlocked	hidden7500	E75  Communication, security & automation	unlocked	hidden8500	E85  Special systems	unlocked	hidden9000	E90  === SPECIAL & AUX ELEMENTS ===	locked	hidden9100	E91  Solids.WIP	unlocked	hidden	in use9200	E92  Openings	unlocked	hidden9300	E93  Operators.WIP	unlocked	hidden9500	E95  === BIM & TECH PURPOSE ===	unlocked	hidden9600	E96  Hotlinks	unlocked	hidden9630	E96  Hotlinks, engineering.D	unlocked	hidden9640	E96  Hotlinks, structure.S	unlocked	hidden9700	E97  Drawings	unlocked	hidden	in use9800	E98  BIM & Technical Purpose	unlocked	hidden9810	E98  Classification Sources	locked	hidden	in use10000	S00  === SPACES, ZONES, AREAS ===	locked	hidden10100	S10  Single spaces (rooms)	unlocked	hidden	in use19100	S91  Zone boundries	unlocked	hidden19200	S92  Zone gross areas	unlocked	hidden19300	S93  Zone gross volumes	unlocked	hidden20000	T00  === TEXT & DRAWING CONTENT ===	locked	hidden20100	T01  Annotations	unlocked	hidden	in use20200	T02  Dimensions	unlocked	hidden	in use20201	T02  Dimensions.WIP	unlocked	hidden20202	T02  Dimensions, investment albums.IA	unlocked	hidden20203	T02  Dimensions, structural.S	unlocked	hidden20300	T03  Linework & Hatching.WIP	unlocked	hidden	in use20400	T04  Title Blocks	unlocked	hidden	in use21000	T10  === GRIDS & MARKUPS ===	locked	hidden21100	T11  Grid, structural	unlocked	hidden	in use21101	T11  Grid, structural.WIP	unlocked	hidden21200	T12  Grid, sectional	unlocked	hidden22000	T20  === MARKERS, VIEWS & TOOLS ===	locked	hidden22100	T21  Details & Worksheets	unlocked	hidden	in use22200	T22  Changes & Revisions	unlocked	hidden	in use22300	T23  Elevations	unlocked	hidden	in use22400	T24  Levels	unlocked	hidden	in use22500	T25  Sections	unlocked	hidden	in use]]>
+</value>
+</Custom14>
+<Custom15>
+<UIKey>
+<![CDATA[Project Materials]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_BMATS]]>
+</DBKey>
+<value>
+<![CDATA[M15	PREPARATORY & GROUNDWORKM16	Excavated earth & fills materials, groundworkM16	Soil, clayM16	Soil, earthM16	Soil, earth landscapingM16	Soil, gravelM16	Soil, recycledM16	Soil, sandM17	Non-rigid sheet, meat and strip preparatory pr.M17	Geo, cells & composites	M20	STRUCTURE & GENERAL MATERIALSM20	Cements and limesM21	Bond, cementM21	Bond, cement masonryM20	Aggregates, granulse & powdersM20	ConcretesM21	Bond, concrete structuralM21	Bond, concrete reinforcedM21	Prefabricated buildings and structuresM22	Precast, concrete structuralM22	Precast, concrete reinforcedM23	Sectional productsM23	Precast, structural metal sectionsM23	Precast, structual plastic sectionsM23	Precast, structural timber sectionsM24	Unit structure and general productsM24	Blocks, glassM23	Masonry walling unitsM24	Blocks, concreteM24	Blocks, concrete aeratedM24	Blocks, cast stoneM24	Blocks, ceramicM24	Blocks, gypsumM24	Blocks, natural stoneM24	Brick, solid ceramicM24	Brick, hollow ceramicM24	Brick, faced ceramic	M25	SKIN & NON-CORE MATERIALSM26	Infill, in-situ insulation foamM26	Infill, polyurethane insulationM27	Infill, loose insulationM27	Infill, Cellulose fibre loose insulationM27	Infill, Expanded cork loose insulation	M28	Soft, batt & fibrousM28	Soft, glass wool flexibleM28	Soft, mineral woolM28	Soft, bitumen & pitchM28	Soft, bitumen layerM28	Soft, Pitch polymer membranesM28	Soft, Reinforced bitumen roofingM28	Soft, nettingM28	Soft, plasticM28	Soft, polyvinyl chlorideM28	Soft, polymerM28	Soft, synthetic	M29	Hard, cellular glassM29	Hard, mineral woolM29	Hard, EPSM29	Hard, GRPM29	Hard, EPEM29	Hard, XPSM30	Plank, compositeM30	Plank, gypsumM30	Plank, metallicM30	Plank, plasticM30	Plank, plywoodM30	Plank, timber	M35	COVERING & FINISHING MATERIALS	M36	Coat, primer/sealerM36	Coat, defensiveM36	Coat, special	M37	Cover, carpetM37	Cover, paper & rollsM37	Cover, textileM38	Finish, paintingM38	Finish, plaster internalM38	Finish, render externalM38	Finish, render mosaicM38	Finish, surfacing	M39	Paving, asphalte concrete base coursesM39	Paving, grade bitumensM39	Paving, mastic asphalt	M40	Tile, cast stoneM40	Tile, ceramicM40	Tile, concreteM40	Tile, metalM40	Tile, mosaicM40	Tile, quarryM40	Tile, stoneM40	Tile, terazzoM40	Tile, FEPM41	Unit, wooden planksM41	Unit, wooden mosaics	M95	ENVIRONMENT, BASIC & SPECIAL MAT.M96	NaturalM96	Basic, Air SpaceM96	Basic, WaterM96	Basic & Generic MaterialsM97	Basic, commonM97	Basic, blockM97	Basic, brickM97	Basic, fillerM97	Basic, glassM97	Basic, insulationM97	Basic, membraneM97	Basic, metallicM97	Basic, plasterM97	Basic, polymerM97	Basic, soilM97	Basic, stoneM97	Basic, structuralM97	Basic, tileM97	Basic, woodM98	Special OperatorsM98	Bool, solid operatorM98	Bool, opening spaceM99	TemporaryM99	Temp, temporary material]]>
+</value>
+</Custom15>
+<Custom16>
+<UIKey>
+<![CDATA[Project Lines & Fills]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_LINEFILLS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom16>
+<Custom17>
+<UIKey>
+<![CDATA[Project Surfaces]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_SURFACES]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom17>
+<Custom18>
+<UIKey>
+<![CDATA[Project Composites]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_COMPOSITES]]>
+</DBKey>
+<value>
+<![CDATA[---- COMPOSITE STRUCTURES ----index	name	Wall	Slab	Roof	Shell	in use****	****	****	****	****	****	****18001	C18 = Paving systems =	1	0	0	018010	C18 G.Gra400-D.Rcc050	1	0	0	018020	C18 H.XPS200-G.Gra120-D.Cem040-T.Stn040	1	0	0	021000	C21 = Substructure  systems =	1	0	0	021200	C21 D.Rcc200	1	0	0	021250	C21 D.Rcc250	1	0	0	021300	C21 D.Rcc300	1	0	0	021400	C21 D.Rcc400	1	0	0	021600	C21 D.Rcc600	1	0	0	021800	C21 D.Rcc800	1	0	0	025001	C25 = Monolithic & panel wall structure systems =	1	0	0	025010	C25 D.Rcc100	1	0	0	025011	C25 D.Rcc100-F.RnE010 | F.RnE010	1	0	0	025020	C25 D.Rcc200	1	0	0	025021	C25 D.Rcc200-H.Mnw140-F.RnE010	1	0	0	025022	C25 D.Rcc200-H.Mnw140-F.RnE010 | H.XPS100	1	0	0	025023	C25 D.Rcc200-H.Mnw150-F.RnE010	1	0	0	025030	C25 D.Rcc250	1	0	0	025031	C25 D.Rcc250-F.PsI020	1	0	0	025032	C25 D.Rcc250-F.PsI020 | F.PsI020	1	0	0	025033	C25 D.Rcc250-F.RnE010 | H.XPS140-F.RnE010	1	0	0	025034	C25 D.Rcc250-F.RnE020	1	0	0	025035	C25 D.Rcc250-F.RnE020 | F.RnE020	1	0	0	025036	C25 D.Rcc250-H.Mnw050-F.RnE010	1	0	0	025037	C25 D.Rcc250-H.Mnw140-F.RnE010	1	0	0	025038	C25 D.Rcc250-H.Mnw140-F.RnE010 | F.PsI020	1	0	0	025039	C25 D.Rcc250-H.Mnw140-F.RnE010 | H.XPS140-F.RnE010	1	0	0	025040	C25 D.Rcc250-H.XPS120-F.RnE030	1	0	0	025041	C25 D.Rcc250-H.XPS130-F.RnE020	1	0	0	025042	C25 D.Rcc250-H.Mnw150-E.Air090-T.Crm010	1	0	0	025043	C25 D.Rcc250-H.Mnw150-E.Air090-T.Crm010 | F.PsI020	1	0	0	025050	C25 D.Rcc300	1	0	0	025060	C25 D.Rcc350	1	0	0	025510	C25 P.Rcc200	1	0	0	025520	C25 P.Scc200	1	0	0	026000	C26 = Unit wall structure systems =	1	0	0	026010	C26 B.CoA100	1	0	0	026020	C26 B.CoA200	1	0	0	026021	C26 B.CoA200-F.PsI020 | F.PsI020	1	0	0	026022	C26 B.CoA200-S.Mnw140-F.RnE010	1	0	0	026023	C26 B.CoA200-T.Crm050	1	0	0	026030	C26 B.CoA300	1	0	0	026031	C26 B.CoA300-S.Mnw150	1	0	0	026040	C26 B.CoA375	1	0	0	026050	C26 B.CoA400	1	0	0	026060	C26 B.Con090	1	0	0	026070	C26 B.Con115	1	0	0	026080	C26 B.Con190	1	0	0	026090	C26 B.Con250	1	0	0	026091	C26 B.Con250 | F.PsI020	1	0	0	026092	C26 B.Con250-F.PsI020 | F.PsI020	1	0	0	026093	C26 B.Con250-H.Mnw150-F.RnE020	1	0	0	026100	C26 B.Crm065	1	0	0	026109	C26 B.Crm120	1	0	0	026110	C26 B.Crm120 | F.PsI020	1	0	0	026111	C26 B.Crm120-F.PsI020 | F.PsI020	1	0	0	026112	C26 B.Crm120-H.Mnw140-F.RnE010	1	0	0	026113	C26 B.Crm120-H.Mnw120-F.RnE010	1	0	0	026114	C26 B.Crm120-H.Mnw120-F.RnE010 | F.PsI020	1	0	0	026115	C26 B.Crm120-H.Mnw150-E.Air090-T.Crm010	1	0	0	026116	C26 B.Crm120-H.Mnw150-E.Air090-T.Crm010 | F.PsI020	1	0	0	026119	C26 B.Crm250	1	0	0	026120	C26 B.Crm250-F.PsI020	1	0	0	026121	C26 B.Crm250-F.PsI020 | F.PsI020	1	0	0	026122	C26 B.Crm250-H.Mnw050-F.RnE010	1	0	0	026123	C26 B.Crm250-H.Mnw100-F.RnE010 | F.PsI020	1	0	0	026124	C26 B.Crm250-H.Mnw140-F.RnE010	1	0	0	026125	C26 B.Crm250-H.Mnw140-F.RnE010 | F.PsI020	1	0	0	026126	C26 B.Crm250-H.Mnw140-F.RnE010 | H.Mnw050-F.RnE010	1	0	0	026127	C26 B.Crm250-H.Mnw150-E.Air090-T.Crm010	1	0	0	026128	C26 B.Crm250-H.Mnw150-E.Air090-T.Crm010 | F.PsI020	1	0	0	026140	C26 B.Crm380	1	0	0	026141	C26 B.Crm380 | F.PsI020	1	0	0	026142	C26 B.Crm380-H.Mnw140-F.PsI010	1	0	0	026143	C26 B.Crm380-H.Mnw140-F.PsI010 | F.PsI020	1	0	0	026150	C26 B.Crm510-H.Mnw140-F.PsI010	1	0	0	026151	C26 B.Crm510-H.Mnw140-F.PsI010 | F.PsI020	1	0	0	026160	C26 B.Crm770-H.Mnw140-F.PsI010	1	0	0	026161	C26 B.Crm770-H.Mnw140-F.PsI010 | F.PsI020	1	0	0	026170	C26 K.HCe065	1	0	0	026180	C26 K.HCe120	1	0	0	026181	C26 K.HCe120 | F.PsI020	1	0	0	026182	C26 K.HCe120-F.PsI020 | F.PsI020	1	0	0	026183	C26 K.HCe120-H.Mnw120-F.RnE010 | F.PsI020	1	0	0	026200	C26 K.HCe250	1	0	0	026201	C26 K.HCe250 | F.PsI020	1	0	0	026202	C26 K.HCe250-F.PsI020 | F.PsI020	1	0	0	026203	C26 K.HCe250-H.EPS100-F.RnE010	1	0	0	026204	C26 K.HCe250-H.Mnw100-F.RnE010 | F.PsI020	1	0	0	026205	C26 K.HCe250-H.Mnw110-E.Air040-T.Crm010	1	0	0	026206	C26 K.HCe250-H.Mnw110-F.RnE010	1	0	0	026207	C26 K.HCe250-H.Mnw140-F.RnE010 | F.PsI020	1	0	0	026208	C26 K.HCe250-H.Mnw150-F.RnE010	1	0	0	026220	C26 K.HCe380	1	0	0	026221	C26 K.HCe380-F.PsI020	1	0	0	026222	C26 K.HCe380-F.PsI020 | F.PsI020	1	0	0	026231	C26 K.SCe065	1	0	0	0	in use26232	C26 K.SCe065-F.PsI020	1	0	0	026240	C26 K.SCe120	1	0	0	026241	C26 K.SCe120 | F.PsI020	1	0	0	026242	C26 K.SCe120-F.PsI020 | F.PsI020	1	0	0	026243	C26 K.SCe120-F.RnE020 | F.PsI020	1	0	0	026244	C26 K.SCe120-H.Mnw050-F.PsI010	1	0	0	026245	C26 K.SCe120-H.Mnw050-F.PsI010 | F.PsI020	1	0	0	026246	C26 K.SCe120-H.Mnw060 | F.PsI020	1	0	0	026247	C26 K.SCe120-H.Mnw140-F.RnE010	1	0	0	026248	C26 K.SCe120-H.Mnw140-F.RnE010 | F.PsI020	1	0	0	026249	C26 K.SCe120-H.XPS120-F.PsI010	1	0	0	026260	C26 K.SCe250	1	0	0	026261	C26 K.SCe250 | F.PsI010	1	0	0	026262	C26 K.SCe250 | F.PsI020	1	0	0	026263	C26 K.SCe250-F.PsI020 | F.PsI020	1	0	0	026264	C26 K.SCe250-F.RnE020 | F.RnE020	1	0	0	026265	C26 K.SCe250-H.Mnw050-F.PsI010 | F.PsI020	1	0	0	026266	C26 K.SCe250-H.Mnw140-F.RnE010	1	0	0	026267	C26 K.SCe250-H.Mnw140-F.RnE010 | F.PsI020	1	0	0	026268	C26 K.SCe250-S.Mnw140-F.RnE010	1	0	0	026280	C26 K.SCe380	1	0	0	026281	C26 K.SCe380 | F.PsI020	1	0	0	027000	C27 = Wall cladding & lining systems =	1	0	0	027011	C27 E.Air100-R.Mtl150	1	0	0	027012	C27 E.Air100-R.Mtl150 | R.Gps010	1	0	0	027021	C27 H.Mnw080-E.Air010-H.CeG040 | F.PsI010	1	0	0	027030	C27 R.Mtl150	1	0	0	028000	C28 = Wall covering and finish systems =	1	0	0	028010	C28 B.Gps025	1	0	0	028020	C28 B.Gps050	1	0	0	028030	C28 B.Gps075	1	0	0	028040	C28 B.Gps125	1	0	0	028050	C28 F.PsI010	1	0	0	028051	C28 F.PsI020	1	0	0	028060	C28 F.RnE010	1	0	0	028061	C28 F.RnE020	1	0	0	028071	C28 H.Mnw020-F.PsI010	1	0	0	028080	C28 H.Mnw050	1	0	0	028081	C28 H.Mnw050-F.PsI010	1	0	0	028082	C28 H.Mnw050-F.RnE010	1	0	0	028090	C28 H.Mnw060	1	0	0	028100	C28 H.Mnw080	1	0	0	028101	C28 H.Mnw080-F.PsI010	1	0	0	028102	C28 H.Mnw080-F.RnE010	1	0	0	028110	C28 H.Mnw100	1	0	0	028111	C28 H.Mnw100-F.RnE010	1	0	0	028121	C28 H.Mnw110-E.Air040-T.Crm010	1	0	0	028122	C28 H.Mnw110-F.RnE010	1	0	0	028131	C28 H.Mnw120-F.RnE010	1	0	0	028141	C28 H.Mnw130-F.RnE010	1	0	0	028151	C28 H.Mnw140-F.RnE010	1	0	0	028160	C28 H.Mnw150	1	0	0	028161	C28 H.Mnw150-E.Air040-T.Crm010	1	0	0	028162	C28 H.Mnw150-F.RnE010	1	0	0	028163	C28 H.Mnw150-E.Air090-T.Crm010	1	0	0	028170	C28 H.Mnw180	1	0	0	028180	C28 H.Mnw190	1	0	0	028181	C28 H.Mnw190-F.RnE010	1	0	0	028190	C28 H.Mnw200	1	0	0	028200	C28 H.XPS050	1	0	0	028201	C28 H.XPS050-F.RnE010	1	0	0	028202	C28 H.XPS050-F.RnE020	1	0	0	028211	C28 H.XPS080-F.RnE010	1	0	0	028220	C28 H.XPS100-F.RnE010	1	0	0	028230	C28 H.XPS120	1	0	0	028241	C28 H.XPS140-F.RnE010	1	0	0	028242	C28 H.XPS140-F.RnM010	1	0	0	028250	C28 H.XPS150	1	0	0	028260	C28 R.Gps010	1	0	0	028270	C28 R.Gps012	1	0	0	028271	C28 R.Gps012-S.Mnw100-R.Gps012	1	0	0	030001	C30 = Roof, floor, decking and balcony systems =	0	1	1	030011	C30 D.Cem070-G.Snd040-T.Stn040	0	1	1	030021	C30 D.Cem080-E.Air020	0	1	1	030022	C30 D.Cem080-T.Crm020	0	1	1	030041	C30 D.Cem180-G.Gra040-T.Stn080	0	1	1	030050	C30 D.Rcc100	0	1	1	030051	C30 D.Rcc100 | G.Gra350	0	1	1	030052	C30 D.Rcc100-D.Cem060-T.Qry040 | G.Eth200	0	1	1	030060	C30 D.Rcc150	0	1	1	030061	C30 D.Rcc150-T.Crm020	0	1	1	030070	C30 D.Rcc200	0	1	1	0	in use30071	C30 D.Rcc200-D.Cem030-H.XPS200-G.Gra060-T.Crm040	0	1	1	030072	C30 D.Rcc200-D.Cem080-E.Air020	0	1	1	030073	C30 D.Rcc200-D.Cem080-T.Crm020	0	1	1	030074	C30 D.Rcc200-D.Cem100	0	1	1	030075	C30 D.Rcc200-D.Cem140-H.XPS200-G.Gra060-T.Crm040	0	1	1	030076	C30 D.Rcc200-T.Crm020	0	1	1	030090	C30 D.Rcc250	0	1	1	0	in use30091	C30 D.Rcc250 | H.Mnw050	0	1	1	030092	C30 D.Rcc250-D.Cem080-T.Crm020	0	1	1	030100	C30 D.Rcc300	0	1	1	030101	C30 D.Rcc300-D.Cem080-E.Air020	0	1	1	030102	C30 D.Rcc300-D.Cem080-T.Crm020	0	1	1	030103	C30 D.Rcc300-D.Cem140-H.XPS200-G.Gra060-T.Crm040	0	1	1	030104	C30 D.Rcc300-H.XPS050	0	1	1	030110	C30 D.Rcc350	0	1	1	030120	C30 D.Rcc400	0	1	1	031000	C31 = Ceiling and soffit systems =	0	1	1	031010	C31 CORE | E.Air070-R.Gps010	0	1	1	031020	C31 CORE | H.EPS100	0	1	1	031021	C31 CORE | H.EPS100-F.RnE010	0	1	1	031030	C31 CORE | H.EPS200	0	1	1	031040	C31 CORE | H.Mnw030	0	1	1	031051	C31 CORE | H.Mnw040-F.RnE010	0	1	1	031060	C31 CORE | H.Mnw050	0	1	1	031061	C31 CORE | H.Mnw050-F.RnE010	0	1	1	031071	C31 CORE | H.Mnw100-F.RnE010	0	1	1	031081	C31 CORE | H.Mnw140-F.RnE010	0	1	1	031090	C31 CORE | H.Mnw150	0	1	1	031100	C31 CORE | H.Mnw160	0	1	1	031101	C31 CORE | H.Mnw160-F.RnE010	0	1	1	031111	C31 CORE | H.Mnw180-F.RnE010	0	1	1	031121	C31 CORE | H.Mnw200-F.RnE010	0	1	1	031130	C31 CORE | H.XPS050	0	1	1	031140	C31 CORE | H.XPS100	0	1	1	032000	C32 = Ceiling and soffit covering and finishing systems =	0	1	1	0]]>
+</value>
+</Custom18>
+<Custom19>
+<UIKey>
+<![CDATA[Project Profiles]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-INPUT_PROFILES]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom19>
+<Custom20>
+<UIKey>
+<![CDATA[Project Zone Codes]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-ZONES]]>
+</DBKey>
+<value>
+<![CDATA[---- ZONE CATEGORIES ----index	code	name	stamp	red	green	blue	in use****	****	****	****	****	****	****	****1500	S15 ===	SITE & PREPARATORY ZONES ===	Basic Zone Stamp	0	0	01501	S15 GSA	Site, earthwork, prep spaces	Zone Stamp A1 22	164	164	22000	S20 ===	ADMINISTRATIVE, COMMERCIAL, SERVICE ===	Basic Zone Stamp	0	0	02001	S20 GSA	Admin, comm, service spaces	Zone Stamp A1 22	245	111	462101	S21	Administrative spaces	Zone Stamp A1 22	251	143	792102	S21	Meeting rooms	Zone Stamp A1 22	251	143	792103	S21	Offices	Zone Stamp A1 22	251	143	792104	S21	Reception areas	Zone Stamp A1 22	251	143	792201	S22	Commercial spaces	Zone Stamp A1 22	250	200	692202	S22	Ambient wholesale spaces	Zone Stamp A1 22	250	200	692203	S22	Auction rooms	Zone Stamp A1 22	250	200	692204	S22	Checkout points	Zone Stamp A1 22	250	200	692205	S22	Department store shop floors	Zone Stamp A1 22	250	200	692206	S22	Financial and professional services outlets	Zone Stamp A1 22	250	200	692207	S22	Fitting rooms	Zone Stamp A1 22	250	200	692208	S22	Food and drink outlets	Zone Stamp A1 22	250	200	692209	S22	Hair and beauty salons	Zone Stamp A1 22	250	200	692210	S22	Kiosks	Zone Stamp A1 22	250	200	692211	S22	Livestock auction rooms	Zone Stamp A1 22	250	200	692212	S22	Mail order sorting and despatch facilities	Zone Stamp A1 22	250	200	692213	S22	Market stalls	Zone Stamp A1 22	250	200	692214	S22	Motor vehicle showrooms	Zone Stamp A1 22	250	200	692215	S22	Refrigerated wholesale spaces	Zone Stamp A1 22	250	200	692216	S22	Supermarket shop floors	Zone Stamp A1 22	250	200	692217	S22	Tattoo and piercing parlours	Zone Stamp A1 22	250	200	692218	S22	Waste and scrap yards	Zone Stamp A1 22	250	200	692301	S23	Service spaces	Zone Stamp A1 22	224	196	952311	S23	Legislative spaces	Zone Stamp A1 22	224	196	952321	S23	Motor vehicle maintenance and fuelling spaces	Zone Stamp A1 22	224	196	952331	S23	Postal communications spaces	Zone Stamp A1 22	224	196	952341	S23	Security spaces	Zone Stamp A1 22	224	196	952401	S24	Special spaces	Zone Stamp A1 22	170	170	852411	S24	Military and protective spaces	Zone Stamp A1 22	170	170	852421	S24	Parade spaces	Zone Stamp A1 22	170	170	852431	S24	Judicial spaces	Zone Stamp A1 22	170	170	852441	S24	Detention spaces	Zone Stamp A1 22	170	170	852451	S24	Weapons training ranges	Zone Stamp A1 22	170	170	852461	S24	Fire and rescue spaces	Zone Stamp A1 22	170	170	852471	S24	Incident support spaces	Zone Stamp A1 22	170	170	852500	S25 ===	CULTURAL, EDUCATION, SCIENTIFIC ===	Basic Zone Stamp	0	0	02501	S25 GSA	Cultural, scientific spaces	Zone Stamp A1 22	167	115	2192601	S26	Educational spaces	Zone Stamp A1 22	188	149	2272602	S26	Art classrooms	Zone Stamp A1 22	188	149	2272603	S26	Assembly halls	Zone Stamp A1 22	188	149	2272604	S26	Biology teaching laboratories	Zone Stamp A1 22	188	149	2272605	S26	Chemistry teaching laboratories	Zone Stamp A1 22	188	149	2272606	S26	Classrooms	Zone Stamp A1 22	188	149	2272607	S26	Common rooms	Zone Stamp A1 22	188	149	2272608	S26	Craft classrooms	Zone Stamp A1 22	188	149	2272609	S26	Dance studios	Zone Stamp A1 22	188	149	2272610	S26	Dissection theatres	Zone Stamp A1 22	188	149	2272611	S26	Drama studios	Zone Stamp A1 22	188	149	2272612	S26	Driving skid pans	Zone Stamp A1 22	188	149	2272613	S26	Driving tuition spaces	Zone Stamp A1 22	188	149	2272614	S26	Educational workshops	Zone Stamp A1 22	188	149	2272615	S26	Food technology classrooms	Zone Stamp A1 22	188	149	2272616	S26	ICT laboratories	Zone Stamp A1 22	188	149	2272617	S26	Language laboratories	Zone Stamp A1 22	188	149	2272618	S26	Lecture theatres	Zone Stamp A1 22	188	149	2272619	S26	Music rooms	Zone Stamp A1 22	188	149	2272620	S26	Physics teaching laboratories	Zone Stamp A1 22	188	149	2272621	S26	Seminar rooms	Zone Stamp A1 22	188	149	2272622	S26	Study rooms	Zone Stamp A1 22	188	149	2272701	S27	Design &15 exhibition spaces	Zone Stamp A1 22	255	128	2554000	S40 ===	RECREATION SPACES ===	Basic Zone Stamp	0	0	04001	S40 GSA	Recreation spaces	Zone Stamp A1 22	176	193	604102	S41	Amusement spaces	Zone Stamp A1 22	176	193	604103	S41	Dining spaces	Zone Stamp A1 22	176	193	604104	S41	Performing arts spaces	Zone Stamp A1 22	176	193	604200	S42 ===	SPORTS & ACTIVITY SPACES ===	Basic Zone Stamp	0	0	04201	S42 GSA	Sports & activity spaces	Zone Stamp A1 22	176	193	604301	S43	Indoor activity spaces	Zone Stamp A1 22	176	193	604302	S43	Outdoor activity spaces	Zone Stamp A1 22	176	193	604500	S44 ===	RESIDENTIAL SPACES ===	Basic Zone Stamp	0	0	04501	S44 GSA	Residential spaces	Zone Stamp A1 22	190	222	65	in use4502	S45	Bedrooms	Zone Stamp A1 22	251	241	1744503	S45	Bed & studies	Zone Stamp A1 22	251	241	1744504	S45	Entrance spaces	Zone Stamp A1 22	192	241	1094505	S45	Corridor sites	Zone Stamp A1 22	192	241	1094506	S45	Guestrooms	Zone Stamp A1 22	252	222	1734507	S45	Dining rooms	Zone Stamp A1 22	147	225	2254508	S45	Kitchen	Zone Stamp A1 22	147	225	225	in use4509	S45	Living rooms	Zone Stamp A1 22	252	222	1734510	S45	Workplaces	Zone Stamp A1 22	192	192	1924511	S45	Store rooms	Zone Stamp A1 22	138	234	1504512	S45	Sanitary	Zone Stamp A1 22	186	177	2484513	S45	Utility rooms	Zone Stamp A1 22	192	192	1924514	S45	Verandas, balconies etc	Zone Stamp A1 22	213	191	2134515	S45	Wardrobes, common	Zone Stamp A1 22	192	192	1924516	S45	Wardrobes, walk-in	Zone Stamp A1 22	192	192	1924601	S46 0C	Apt Bedroom x0 Studio	Zone Stamp A1 22	220	243	1824602	S46 0P	Apt Bedroom x0 Traditional	Zone Stamp A1 22	208	235	1264611	S46 1C	Apt Bedroom x1 Studio	Zone Stamp A1 22	190	222	654612	S46 1P	Apt Bedroom x1 Traditional	Zone Stamp A1 22	214	233	1054621	S46 2C	Apt Bedroom x2 Studio	Zone Stamp A1 22	217	217	494622	S46 2P	Apt Bedroom x2 Traditional	Zone Stamp A1 22	242	211	1194631	S46 3C	Apt Bedroom x3 Studio	Zone Stamp A1 22	236	190	514632	S46 3P	Apt Bedroom x3 Traditional	Zone Stamp A1 22	233	174	1168000	S80 ===	TRANSPORT SPACES ===	Basic Zone Stamp	0	0	08001	S80 GSA	Transport spaces	Zone Stamp A1 22	193	130	1088101	S81	Indoor car parking spaces	Zone Stamp A1 22	193	130	1088102	S81	Outdoor car parking spaces	Zone Stamp A1 22	208	175	1429000	S90 ===	CIRCULATION AND STORAGES SPACES ===	Basic Zone Stamp	0	0	09001	S90 GSA	Circulation, common, storage spaces	Zone Stamp A1 22	162	169	1399101	S91	Circulation & common spaces	Zone Stamp A1 22	162	169	1399102	S91	Air locks	Zone Stamp A1 22	162	169	1399103	S91	Breezeways	Zone Stamp A1 22	162	169	1399104	S91	Corridors	Zone Stamp A1 22	162	169	1399105	S91	Covered walkways and internal bridges	Zone Stamp A1 22	162	169	1399106	S91	Drop-off and collection areas	Zone Stamp A1 22	162	169	1399107	S91	Escalators and travellators	Zone Stamp A1 22	162	169	1399108	S91	Fire stairways	Zone Stamp A1 22	162	169	1399109	S91	Goods conveyors	Zone Stamp A1 22	162	169	1399110	S91	Hallways	Zone Stamp A1 22	162	169	1399111	S91	Landings	Zone Stamp A1 22	162	169	1399112	S91	Lift cars	Zone Stamp A1 22	162	169	1399113	S91	Lobbies	Zone Stamp A1 22	162	169	1399114	S91	Porches	Zone Stamp A1 22	162	169	1399115	S91	Public squares	Zone Stamp A1 22	162	169	1399116	S91	Retail circulation spaces	Zone Stamp A1 22	162	169	1399117	S91	Shelters	Zone Stamp A1 22	162	169	1399118	S91	Stairways	Zone Stamp A1 22	162	169	1399119	S91	Vestibules	Zone Stamp A1 22	162	169	1399120	S91	Walkways	Zone Stamp A1 22	162	169	1399121	S91	Wheelchair circulation spaces	Zone Stamp A1 22	162	169	1399201	S92	Storage spaces	Zone Stamp A1 22	173	146	1569301	S93	Unoccupied voids	Zone Stamp A1 22	139	180	1599401	S94	Plant and control spaces	Zone Stamp A1 22	171	179	2019402	S94	Boiler rooms	Zone Stamp A1 22	171	179	2019403	S94	Control rooms	Zone Stamp A1 22	171	179	2019404	S94	Furnace rooms	Zone Stamp A1 22	171	179	2019405	S94	Lift machine rooms	Zone Stamp A1 22	171	179	2019406	S94	Plant rooms	Zone Stamp A1 22	171	179	2019407	S94	Server rooms	Zone Stamp A1 22	171	179	2019500	S95 ===	BIM & TECHNICAL PURPOSE SPACES ===	Basic Zone Stamp	0	0	09602	S96 GSA	Gross areas	Zone Stamp A1 22	94	174	255	in use9603	S96 GSP	Gross by purpose	Zone Stamp A1 22	94	174	2559604	S96 GSV	Gross volumes	Zone Stamp A1 22	94	174	2559999	SXX ====	Separator	Zone Stamp 01 22	0	0	0]]>
+</value>
+</Custom20>
+<Custom21>
+<UIKey>
+<![CDATA[Building Story Structure]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-STORY_STRUCTURE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom21>
+<Custom22>
+<UIKey>
+<![CDATA[Building Offset X]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-OFFSET_X]]>
+</DBKey>
+<value>
+<![CDATA[0]]>
+</value>
+</Custom22>
+<Custom23>
+<UIKey>
+<![CDATA[Building Offset Y]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-OFFSET_Y]]>
+</DBKey>
+<value>
+<![CDATA[0]]>
+</value>
+</Custom23>
+<Custom24>
+<UIKey>
+<![CDATA[Building Offset Z]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-OFFSET_Z]]>
+</DBKey>
+<value>
+<![CDATA[0]]>
+</value>
+</Custom24>
+<Custom25>
+<UIKey>
+<![CDATA[Building Offset A]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-OFFSET_A]]>
+</DBKey>
+<value>
+<![CDATA[0]]>
+</value>
+</Custom25>
+<Custom26>
+<UIKey>
+<![CDATA[Contact Template]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-6AE71749-1FD6-4864-9CC6-7C2E0E6DD993]]>
+</DBKey>
+<value>
+<![CDATA[AC2X Template - Ihor Yurasov]]>
+</value>
+</Custom26>
+</CustomKeys>
+</ProjectInfo>

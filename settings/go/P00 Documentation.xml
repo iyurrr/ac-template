@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>P00 Fills - Transparent Objects</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>65</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>221</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>0</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>false</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>1</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1398361410</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>F938E33A-329D-4A36-BE3E-85E126820996</MainGuid>
+								<RevGuid>EB0375B7-0ED2-D840-82F3-D4E8F10229F2</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>P00 Fills - Transparent Zones</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>0</FillBGPen>
+			<OverrideCutFillBGPen>false</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>true</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>false</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>1</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>1380929357</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>A73622DE-E40A-4E63-ADB7-52D13422BD06</MainGuid>
+								<RevGuid>7B9F1AF8-28E9-3049-BD36-EBBC357E9B7E</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>P00 Documentation</Name>
+		<ReferencedRule>P00 Fills - Transparent Objects</ReferencedRule>
+		<ReferencedRule>P00 Fills - Transparent Zones</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

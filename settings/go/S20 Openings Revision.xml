@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>S20 Openings Revision</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>232</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>232</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>true</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>true</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>75</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>0</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>0</PrimaryId>
+								<HasGuidId>true</HasGuidId>
+								<Guid>0F43553E-58E7-4661-8CEB-8B4E5D2ED50A</Guid>
+								<HasNameId>false</HasNameId>
+								<Name/>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>0</PrimaryId>
+									<HasGuidId>true</HasGuidId>
+									<Guid>04AEF261-330C-4837-8E1F-0EA4E1E05745</Guid>
+									<HasNameId>false</HasNameId>
+									<Name/>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="IntVariant">
+									<Status>Normal</Status>
+									<Value>9630</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W00 All - Plan Grey</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>102</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>102</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>true</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>true</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>true</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>true</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>false</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>1</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>0</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>S20 Openings Revision</Name>
+		<ReferencedRule>S20 Openings Revision</ReferencedRule>
+		<ReferencedRule>W00 All - Plan Grey</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

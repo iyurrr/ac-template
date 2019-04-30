@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>X95 Reported Items</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>true</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>240</LineMarkerTextPen>
+			<OverrideFillType>true</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>true</OverrideCoverFillType>
+			<OverrideDraftFillType>true</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>240</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>true</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>true</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>240</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>true</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>true</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>19</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>true</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>0</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Element Reported</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>BIM – REVIEW &amp; VALIDATION</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="BoolVariant">
+									<Status>Normal</Status>
+									<Value>true</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>X95 Validation - Reported Objects</Name>
+		<ReferencedRule>X95 Reported Items</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

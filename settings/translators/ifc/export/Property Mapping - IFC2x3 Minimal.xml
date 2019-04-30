@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SchemeItemList>
+	<SchemeProperty IFCEntityType="IfcDistributionPort" PropertySetName="Pset_DesignPoint">
+		<PropertyDef>
+			<Name>IsDesignPoint</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCBOOLEAN"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcDistributionPort" PropertySetName="Pset_DistributionPortDuct">
+		<PropertyDef>
+			<Name>PortNumber</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCINTEGER"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcDistributionPort" PropertySetName="Pset_DistributionPortDuct">
+		<PropertyDef>
+			<Name>ConnectionType</Name>
+			<PropertyType>
+				<TypePropertyEnumeratedValue>
+					<DataType type="IFCLABEL"/>
+					<EnumList name="PEnum_DuctConnectionType">
+						<EnumItem>BEADEDSLEEVE</EnumItem>
+						<EnumItem>COMPRESSION</EnumItem>
+						<EnumItem>CRIMP</EnumItem>
+						<EnumItem>DRAWBAND</EnumItem>
+						<EnumItem>DRIVESLIP</EnumItem>
+						<EnumItem>FLANGED</EnumItem>
+						<EnumItem>OUTSIDESLEEVE</EnumItem>
+						<EnumItem>SLIPON</EnumItem>
+						<EnumItem>SOLDERED</EnumItem>
+						<EnumItem>SSLIP</EnumItem>
+						<EnumItem>STANDINGSEAM</EnumItem>
+						<EnumItem>SWEDGE</EnumItem>
+						<EnumItem>WELDED</EnumItem>
+						<EnumItem>OTHER</EnumItem>
+						<EnumItem>NONE</EnumItem>
+						<EnumItem>USERDEFINED</EnumItem>
+						<EnumItem>NOTDEFINED</EnumItem>
+					</EnumList>
+				</TypePropertyEnumeratedValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcDistributionPort" PropertySetName="Pset_DistributionPortPipe">
+		<PropertyDef>
+			<Name>PortNumber</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCINTEGER"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcDistributionPort" PropertySetName="Pset_DistributionPortPipe">
+		<PropertyDef>
+			<Name>ConnectionType</Name>
+			<PropertyType>
+				<TypePropertyEnumeratedValue>
+					<DataType type="IFCLABEL"/>
+					<EnumList name="PEnum_PipeEndStyleTreatment">
+						<EnumItem>BRAZED</EnumItem>
+						<EnumItem>COMPRESSION</EnumItem>
+						<EnumItem>FLANGED</EnumItem>
+						<EnumItem>GROOVED</EnumItem>
+						<EnumItem>OUTSIDESLEEVE</EnumItem>
+						<EnumItem>SOLDERED</EnumItem>
+						<EnumItem>SWEDGE</EnumItem>
+						<EnumItem>THREADED</EnumItem>
+						<EnumItem>WELDED</EnumItem>
+						<EnumItem>OTHER</EnumItem>
+						<EnumItem>NONE</EnumItem>
+						<EnumItem>UNSET</EnumItem>
+					</EnumList>
+				</TypePropertyEnumeratedValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcProxy" PropertySetName="Pset_DrainageOutfall">
+		<PropertyDef>
+			<Name>InvertLevel</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCLENGTHMEASURE"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcOpeningElement" PropertySetName="Pset_OpeningElementCommon">
+		<PropertyDef>
+			<Name>Reference</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCIDENTIFIER"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcOpeningElement" PropertySetName="Pset_OpeningElementCommon">
+		<PropertyDef>
+			<Name>Purpose</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCLABEL"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcOpeningElement" PropertySetName="Pset_OpeningElementCommon">
+		<PropertyDef>
+			<Name>FireExit</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCBOOLEAN"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcOpeningElement" PropertySetName="Pset_OpeningElementCommon">
+		<PropertyDef>
+			<Name>ProtectedOpening</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCBOOLEAN"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcOpeningElement" PropertySetName="Pset_OpeningElementCommon">
+		<PropertyDef>
+			<Name>ParallelJambs</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCBOOLEAN"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+	<SchemeProperty IFCEntityType="IfcElement" PropertySetName="Pset_Draughting">
+		<RulesTable>
+			<RulesTableItem IFCEntityType="IfcElement">
+				<Rules>
+					<Rule>
+						<GroupValue>
+							<ACBuiltInPropertyValue PropertyDefinitionGuid="25826253-26F2-4D30-BE1B-0FFBB1314903"/>
+						</GroupValue>
+					</Rule>
+				</Rules>
+			</RulesTableItem>
+		</RulesTable>
+		<PropertyDef>
+			<Name>LayerName</Name>
+			<PropertyType>
+				<TypePropertySingleValue>
+					<DataType type="IFCINTEGER"/>
+				</TypePropertySingleValue>
+			</PropertyType>
+		</PropertyDef>
+	</SchemeProperty>
+</SchemeItemList>

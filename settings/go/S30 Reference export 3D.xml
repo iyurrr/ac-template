@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>W30 Openings - C</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>250</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>250</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>70</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>C</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - E</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>243</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>243</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>77</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>E</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - F</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>238</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>238</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>72</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>F</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - H</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>240</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>240</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>19</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>H</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - L</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>244</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>244</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>76</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>zl</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - P</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>246</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>246</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>75</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>P</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - UFA</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>252</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>252</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>32</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>UFA</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - UGC</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>251</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>251</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>20</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>3</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>Opening Mark</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>OPENINGS</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<Value>
+								<Variant Type="StringVariant">
+									<Status>Normal</Status>
+									<Value>UGC</Value>
+								</Variant>
+							</Value>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W30 Openings - Z</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>101</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>64</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>101</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>-1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>99</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>58E4905F-AD57-45F5-8D26-0100000F60BF</ClassGuid>
+					<PropertyCriterion Mv="5" Sv="0">
+						<VBEF::ConditionIO Mv="1" Sv="0">
+							<PropertyDefinitionUserId Version="2">
+								<PrimaryId>1</PrimaryId>
+								<HasGuidId>false</HasGuidId>
+								<Guid>00000000-0000-0000-0000-000000000000</Guid>
+								<HasNameId>true</HasNameId>
+								<Name>ARCHICAD Classification - 2X</Name>
+								<PropertyDefinitionGroupUserId Version="2">
+									<PrimaryId>1</PrimaryId>
+									<HasGuidId>false</HasGuidId>
+									<Guid>00000000-0000-0000-0000-000000000000</Guid>
+									<HasNameId>true</HasNameId>
+									<Name>ClassificationSystemPropertyDefinitionGroup</Name>
+								</PropertyDefinitionGroupUserId>
+							</PropertyDefinitionUserId>
+							<CriteriaOperatorEnum>0</CriteriaOperatorEnum>
+							<ClassificationValue>
+								<ClassificationItemUserID>Empty Opening</ClassificationItemUserID>
+							</ClassificationValue>
+						</VBEF::ConditionIO>
+					</PropertyCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>S30 Reference export 3D</Name>
+		<ReferencedRule>W30 Openings - C</ReferencedRule>
+		<ReferencedRule>W30 Openings - E</ReferencedRule>
+		<ReferencedRule>W30 Openings - F</ReferencedRule>
+		<ReferencedRule>W30 Openings - H</ReferencedRule>
+		<ReferencedRule>W30 Openings - L</ReferencedRule>
+		<ReferencedRule>W30 Openings - P</ReferencedRule>
+		<ReferencedRule>W30 Openings - UFA</ReferencedRule>
+		<ReferencedRule>W30 Openings - UGC</ReferencedRule>
+		<ReferencedRule>W30 Openings - Z</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<PlanTypeValue Mv="3" Sv="0">
+	<CustomCategoryValue Mv="1" Sv="1">
+		<GeneratedId>true</GeneratedId>
+		<Visible>true</Visible>
+		<UsableAsCriteria>true</UsableAsCriteria>
+		<Name>03 After Demolition</Name>
+	</CustomCategoryValue>
+	<FilterSize>3</FilterSize>
+	<Filter>
+		<FilterValue>0</FilterValue>
+		<FilterValue>2</FilterValue>
+		<FilterValue>2</FilterValue>
+		<ExtraOverrideSize>3</ExtraOverrideSize>
+		<ExtraOverride>
+			<ExtraOverrideSize>2</ExtraOverrideSize>
+			<ExtraOverrideValue>1634</ExtraOverrideValue>
+			<ExtraOverrideValue>2</ExtraOverrideValue>
+			<ExtraOverrideSize>2</ExtraOverrideSize>
+			<ExtraOverrideValue>1536</ExtraOverrideValue>
+			<ExtraOverrideValue>0</ExtraOverrideValue>
+			<ExtraOverrideSize>2</ExtraOverrideSize>
+			<ExtraOverrideValue>4094</ExtraOverrideValue>
+			<ExtraOverrideValue>66</ExtraOverrideValue>
+		</ExtraOverride>
+	</Filter>
+</PlanTypeValue>

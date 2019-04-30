@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Scheme_Settings ID="X95" Last_Modified="0" Name="=== " Scheme_Type="Surface_List" Version="22.0.0">
+	<View_Settings>
+		<Hide_Main_Header value="false"/>
+		<Hide_Column_Header value="false"/>
+		<Picture_Draw_Type value="0"/>
+		<Keep_Components_Together value="false"/>
+		<Zoom value="1"/>
+		<List_All_Items value="true"/>
+		<Records_by_Rows value="0"/>
+		<Summarize_Reference_Row value="-1"/>
+		<Page_Break value="2"/>
+		<Use_First_Par_As value="false"/>
+		<Headline_Number value="1"/>
+		<Insert_Separation_Row value="false"/>
+		<Use_Name_As_Subtitle_Prefix value="false"/>
+	</View_Settings>
+	<Criteria_Settings>
+		<Complex_Criteria/>
+	</Criteria_Settings>
+	<W2D_Settings>
+		<Default_Pen value="1"/>
+		<Row_Types>
+			<Row Type="Header">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Picture">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Value">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Gridheader">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Total">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Headline">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Grandtotal">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Footer">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Pagenum">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+			<Row Type="Headline_Separator">
+				<Font_Size value="3.5"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="1"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="6"/>
+				<Column_Width value="30"/>
+				<Border_Type value="1"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="true"/>
+			</Row>
+		</Row_Types>
+	</W2D_Settings>
+	<Header_Items/>
+	<DimensionSettings>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+		<DimensionSetting>
+			<AutomaticDimensioning value="false"/>
+			<IESDimensionInfoDimPosition value="9"/>
+			<IESDimensionInfoDimType value="1"/>
+			<DimDistance value="300"/>
+		</DimensionSetting>
+	</DimensionSettings>
+	<FieldCustomDataStore>
+		<NumberOf value="0"/>
+	</FieldCustomDataStore>
+</Scheme_Settings>

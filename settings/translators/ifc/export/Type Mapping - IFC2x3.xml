@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IFCTypeMappingItemList ClassificationSystemEditionVersion="2X" ClassificationSystemName="ARCHICAD Classification" Direction="Export">
+	<ClassificationSystemIFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="">
+	</ClassificationSystemIFCType>
+	<UnClassifiedElementIFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="">
+	</UnClassifiedElementIFCType>
+	<MappingItem>
+		<ClassificationItem Id="Beam"/>
+		<IFCType IFCObject="IfcBeam" IFCObjectPredefinedType="" IFCTypeObject="IfcBeamType" IFCTypeObjectPredefinedType="BEAM"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Lintel"/>
+		<IFCType IFCObject="IfcBeam" IFCObjectPredefinedType="" IFCTypeObject="IfcBeamType" IFCTypeObjectPredefinedType="LINTEL"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Column"/>
+		<IFCType IFCObject="IfcColumn" IFCObjectPredefinedType="" IFCTypeObject="IfcColumnType" IFCTypeObjectPredefinedType="COLUMN"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Ceiling"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="CEILING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Cladding"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="CLADDING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Flooring"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="FLOORING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Insulation"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="INSULATION"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Membrane"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="MEMBRANE"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Roofing"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="ROOFING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Sleeving"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="SLEEVING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Wrapping"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="WRAPPING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Covering"/>
+		<IFCType IFCObject="IfcCovering" IFCObjectPredefinedType="CEILING" IFCTypeObject="IfcCoveringType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Curtain Wall"/>
+		<IFCType IFCObject="IfcCurtainWall" IFCObjectPredefinedType="" IFCTypeObject="IfcCurtainWallType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Footing"/>
+		<IFCType IFCObject="IfcFooting" IFCObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Member"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Pile"/>
+		<IFCType IFCObject="IfcPile" IFCObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Plate"/>
+		<IFCType IFCObject="IfcPlate" IFCObjectPredefinedType="" IFCTypeObject="IfcPlateType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Railing"/>
+		<IFCType IFCObject="IfcRailing" IFCObjectPredefinedType="HANDRAIL" IFCTypeObject="IfcRailingType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Rail"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Railing Post"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Railing Panel"/>
+		<IFCType IFCObject="IfcPlate" IFCObjectPredefinedType="" IFCTypeObject="IfcPlateType" IFCTypeObjectPredefinedType="SHEET"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Curtain Wall Panel"/>
+		<IFCType IFCObject="IfcPlate" IFCObjectPredefinedType="" IFCTypeObject="IfcPlateType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Curtain Wall Frame"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Ramp"/>
+		<IFCType IFCObject="IfcRamp" IFCObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Ramp Flight"/>
+		<IFCType IFCObject="IfcRampFlight" IFCObjectPredefinedType="" IFCTypeObject="IfcRampFlightType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Roof"/>
+		<IFCType IFCObject="IfcRoof" IFCObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Shell"/>
+		<IFCType IFCObject="IfcSlab" IFCObjectPredefinedType="FLOOR" IFCTypeObject="IfcSlabType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Slab"/>
+		<IFCType IFCObject="IfcSlab" IFCObjectPredefinedType="FLOOR" IFCTypeObject="IfcSlabType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair"/>
+		<IFCType IFCObject="IfcStair" IFCObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair Step"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair Riser"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair Flight"/>
+		<IFCType IFCObject="IfcStairFlight" IFCObjectPredefinedType="" IFCTypeObject="IfcStairFlightType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair Landing"/>
+		<IFCType IFCObject="IfcSlab" IFCObjectPredefinedType="LANDING" IFCTypeObject="IfcSlabType" IFCTypeObjectPredefinedType="LANDING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Ramp Landing"/>
+		<IFCType IFCObject="IfcSlab" IFCObjectPredefinedType="LANDING" IFCTypeObject="IfcSlabType" IFCTypeObjectPredefinedType="LANDING"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair Tread"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Stair Structure"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Wall"/>
+		<IFCType IFCObject="IfcWall" IFCObjectPredefinedType="" IFCTypeObject="IfcWallType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Empty Opening"/>
+		<IFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Door"/>
+		<IFCType IFCObject="IfcDoor" IFCObjectPredefinedType="" IFCTypeObject="IfcDoorStyle" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Skylight"/>
+		<IFCType IFCObject="IfcWindow" IFCObjectPredefinedType="" IFCTypeObject="IfcWindowStyle" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Window"/>
+		<IFCType IFCObject="IfcWindow" IFCObjectPredefinedType="" IFCTypeObject="IfcWindowStyle" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Building Element Proxy"/>
+		<IFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Morph"/>
+		<IFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Site Geometry"/>
+		<IFCType IFCObject="IfcSite" IFCObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Ventilation Block"/>
+		<IFCType IFCObject="IfcMember" IFCObjectPredefinedType="" IFCTypeObject="IfcMemberType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Truss"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="ACCESSORY_ASSEMBLY"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Slab Field"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="SLAB_FIELD"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Rigid Frame"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="RIGID_FRAME"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Girder"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="GIRDER"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Braced Frame"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="BRACED_FRAME"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Beam Grid"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="BEAM_GRID"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Arch"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="ARCH"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Assembled Accessory"/>
+		<IFCType IFCObject="IfcElementAssembly" IFCObjectPredefinedType="ACCESSORY_ASSEMBLY"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Massing"/>
+		<IFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Grid Axis"/>
+		<IFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="USERDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Furnishing"/>
+		<IFCType IFCObject="IfcFurnishingElement" IFCObjectPredefinedType="" IFCTypeObject="IfcFurnishingElementType" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Furniture"/>
+		<IFCType IFCObject="IfcFurnishingElement" IFCObjectPredefinedType="" IFCTypeObject="IfcFurnitureType" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="System Furniture"/>
+		<IFCType IFCObject="IfcFurnishingElement" IFCObjectPredefinedType="" IFCTypeObject="IfcSystemFurnitureElementType" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="MEP Element"/>
+		<IFCType IFCObject="IfcDistributionElement" IFCObjectPredefinedType="" IFCTypeObject="IfcDistributionElementType" IFCTypeObjectPredefinedType=""/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Distribution Control Element"/>
+		<IFCType IFCObject="IfcDistributionControlElement" IFCObjectPredefinedType="" IFCTypeObject="IfcControllerType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id=""/>
+		<IFCType IFCObject="IfcDistributionControlElement" IFCObjectPredefinedType="" IFCTypeObject="IfcActuatorType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id=""/>
+		<IFCType IFCObject="IfcDistributionControlElement" IFCObjectPredefinedType="" IFCTypeObject="IfcAlarmType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Distribution Flow Element"/>
+		<IFCType IFCObject="IfcFlowSegment" IFCObjectPredefinedType="" IFCTypeObject="IfcCableCarrierSegmentType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Transport Element"/>
+		<IFCType IFCObject="IfcTransportElement" IFCObjectPredefinedType="" IFCTypeObject="IfcTransportElementType" IFCTypeObjectPredefinedType="NOTDEFINED"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Elevator"/>
+		<IFCType IFCObject="IfcTransportElement" IFCObjectPredefinedType="" IFCTypeObject="IfcTransportElementType" IFCTypeObjectPredefinedType="ELEVATOR"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Escalator"/>
+		<IFCType IFCObject="IfcTransportElement" IFCObjectPredefinedType="" IFCTypeObject="IfcTransportElementType" IFCTypeObjectPredefinedType="ESCALATOR"/>
+	</MappingItem>
+	<MappingItem>
+		<ClassificationItem Id="Moving Walkway"/>
+		<IFCType IFCObject="IfcTransportElement" IFCObjectPredefinedType="" IFCTypeObject="IfcTransportElementType" IFCTypeObjectPredefinedType="MOVINGWALKWAY"/>
+	</MappingItem>
+</IFCTypeMappingItemList>

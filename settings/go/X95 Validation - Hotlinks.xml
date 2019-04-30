@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicOverrideSettings>
+	<OverrideRule>
+		<Name>X95 Hotlinks</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>true</OverrideFillFGPen>
+			<FillFGPen>49</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>true</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>true</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>true</OverrideFillBGPen>
+			<FillBGPen>49</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>true</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>true</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>70</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>2</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>B4B7B134-EC56-4D40-8D4C-71D7C5A2493A</ClassGuid>
+					<ElemTypeCriterion Mv="2" Sv="3">
+						<VBEF::CritToolType Mv="1" Sv="0">
+							<ElemRegistryRefId>0</ElemRegistryRefId>
+							<ElemCreatorToolUnID>
+								<MainGuid>00000000-0000-0000-0000-000000000000</MainGuid>
+								<RevGuid>00000000-0000-0000-0000-000000000000</RevGuid>
+							</ElemCreatorToolUnID>
+						</VBEF::CritToolType>
+						<LogicalOperator>1</LogicalOperator>
+					</ElemTypeCriterion>
+				</CompositeCriterion>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>4220BFFF-B524-429D-A660-3AA994A240F2</ClassGuid>
+					<RefCriterion Mv="3" Sv="0">
+						<AttributeCriterion Mv="1" Sv="0">
+							<AttributeGuid>10758B9F-58B8-4D18-8755-B870EC31E4DE</AttributeGuid>
+						</AttributeCriterion>
+						<ClassGuid>A250441B-02DF-49AB-8856-3813648BBD09</ClassGuid>
+						<HotlinkedModuleCondition Mv="1" Sv="0">
+							<Relation>1</Relation>
+							<FloorNumber>0</FloorNumber>
+							<Name/>
+							<Type>0</Type>
+						</HotlinkedModuleCondition>
+					</RefCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W00 All - Model Outlines</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>true</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>true</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>61</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>false</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>1</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideRule>
+		<Name>W00 All - Model White</Name>
+		<OverrideRuleStyle>
+			<OverrideLineType>false</OverrideLineType>
+			<LineType>1</LineType>
+			<OverrideLineMarkerTextPen>false</OverrideLineMarkerTextPen>
+			<LineMarkerTextPen>1</LineMarkerTextPen>
+			<OverrideFillType>false</OverrideFillType>
+			<FillType>1</FillType>
+			<OverrideCutFillType>true</OverrideCutFillType>
+			<OverrideCoverFillType>false</OverrideCoverFillType>
+			<OverrideDraftFillType>false</OverrideDraftFillType>
+			<OverrideFillFGPen>false</OverrideFillFGPen>
+			<FillFGPen>1</FillFGPen>
+			<OverrideCutFillFGPen>true</OverrideCutFillFGPen>
+			<OverrideCoverFillFGPen>false</OverrideCoverFillFGPen>
+			<OverrideDraftFillFGPen>false</OverrideDraftFillFGPen>
+			<OverrideFillBGPen>false</OverrideFillBGPen>
+			<FillBGPen>1</FillBGPen>
+			<OverrideCutFillBGPen>true</OverrideCutFillBGPen>
+			<OverrideCoverFillBGPen>false</OverrideCoverFillBGPen>
+			<OverrideDraftFillBGPen>false</OverrideDraftFillBGPen>
+			<OverrideSurfaceType>true</OverrideSurfaceType>
+			<OverrideCutSurfaceType>true</OverrideCutSurfaceType>
+			<OverrideUncutSurfaceType>true</OverrideUncutSurfaceType>
+			<SurfaceType>18</SurfaceType>
+			<OverridePenThickness>true</OverridePenThickness>
+			<ShowSkinSeparators>false</ShowSkinSeparators>
+		</OverrideRuleStyle>
+		<Type>Normal</Type>
+		<CriterionExpression Mv="2" Sv="1">
+			<TextMatchType>1</TextMatchType>
+			<Size>1</Size>
+			<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+			<CompositeCriterion Mv="2" Sv="1">
+				<LogicalOperator>2</LogicalOperator>
+				<CriteriaCount>1</CriteriaCount>
+				<ClassGuid>C6EBD1BD-7702-46FF-8ED9-9CC37648A7C7</ClassGuid>
+				<CompositeCriterion Mv="2" Sv="1">
+					<LogicalOperator>1</LogicalOperator>
+					<CriteriaCount>1</CriteriaCount>
+					<ClassGuid>2C7FF58A-DE0F-4B5A-82EE-EA6A943E1951</ClassGuid>
+					<ModelElementCriterion Mv="2" Sv="0">
+						<LogicalOperator>1</LogicalOperator>
+					</ModelElementCriterion>
+				</CompositeCriterion>
+			</CompositeCriterion>
+		</CriterionExpression>
+	</OverrideRule>
+	<OverrideCombination>
+		<Name>X95 Validation - Hotlinks</Name>
+		<ReferencedRule>X95 Hotlinks</ReferencedRule>
+		<ReferencedRule>W00 All - Model Outlines</ReferencedRule>
+		<ReferencedRule>W00 All - Model White</ReferencedRule>
+	</OverrideCombination>
+</GraphicOverrideSettings>

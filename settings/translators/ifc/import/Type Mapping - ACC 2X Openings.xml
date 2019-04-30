@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<IFCTypeMappingItemList ClassificationSystemEditionVersion="2X" ClassificationSystemName="ARCHICAD Classification" Direction="Import">
+	<ClassificationSystemIFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="">
+	</ClassificationSystemIFCType>
+	<UnClassifiedElementIFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType="" IFCTypeObject="IfcBuildingElementProxyType" IFCTypeObjectPredefinedType="">
+	</UnClassifiedElementIFCType>
+	<MappingItem>
+		<ClassificationItem Id="Empty Opening"/>
+		<IFCType IFCObject="IfcBuildingElementProxy" IFCObjectPredefinedType=""/>
+	</MappingItem>
+</IFCTypeMappingItemList>

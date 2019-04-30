@@ -1,0 +1,3019 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<PropertyDefinitionGroups>
+		<PropertyDefinitionGroup>
+			<Name>BIM – REVIEW &amp; VALIDATION</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Element Attributes</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Zone", CONCAT ( IF ( CONTAINS ( {Property:25826253-26F2-4D30-BE1B-0FFBB1314903}, {Property:ProjectInfoPropertyDefinitionGroup/Project Layers}, TRUE ), "", "Layer " ), IF ( CONTAINS ( {Property:C55E9728-EB60-40A2-AA76-77B061FA4ADA}, {Property:ProjectInfoPropertyDefinitionGroup/Project Zone Codes}, TRUE ), "", "Category " ) ), "N/A" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:7EC8476C-8E79-44D8-8BDE-F95C81F21EC2} = "Basic", CONCAT ( IF ( CONTAINS ( {Property:25826253-26F2-4D30-BE1B-0FFBB1314903}, {Property:ProjectInfoPropertyDefinitionGroup/Project Layers}, TRUE ), "", "Layer " ), IF ( CONTAINS ( {Property:B9179DB7-97BC-4985-94DC-06C201F79EF4}, {Property:ProjectInfoPropertyDefinitionGroup/Project Materials}, TRUE ), "", "Material " ) ), "N/A" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:7EC8476C-8E79-44D8-8BDE-F95C81F21EC2} = "Composite", CONCAT ( IF ( CONTAINS ( {Property:25826253-26F2-4D30-BE1B-0FFBB1314903}, {Property:ProjectInfoPropertyDefinitionGroup/Project Layers}, TRUE ), "", "Layer " ), IF ( CONTAINS ( {Property:20CF3744-CA2D-4FB2-ACBC-F69C619AE362}, {Property:ProjectInfoPropertyDefinitionGroup/Project Composites}, TRUE ), "", "Composite " ) ), "N/A" ), "Disabled" )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Construction Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Column</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Covering</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ceiling</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cladding</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flooring</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Insulation</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Membrane</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roofing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Sleeving</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wrapping</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Footing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Member</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pile</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Plate</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rail</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Post</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roof</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Shell</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Step</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Riser</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Tread</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Structure</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Door</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Skylight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Window</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Massing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Building Element Proxy</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Morph</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Site Geometry</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Element Assembly</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Assembled Accessory</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Arch</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam Grid</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Braced Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Girder</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rigid Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab Field</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Truss</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ventilation Block</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Grid Axis</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furnishing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>System Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>MEP Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Control Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Flow Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Moving Walkway</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Escalator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elevator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Part</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Element Dimension Bugs</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Beam", IF ( MROUNDDOWN ( {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 1 mm ) &lt;&gt; {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, "Beam Height", IF ( MROUNDDOWN ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E}, 1 mm ) &lt;&gt; {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E}, "Beam Width", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:70A2913F-BE52-44A9-81CD-D39FB4797C27}, 1 mm ) &lt;&gt; {Property:70A2913F-BE52-44A9-81CD-D39FB4797C27}, "Beam Offset", IF ( AND ( {Property:CCC9ED1E-32D6-410C-9928-EF4C629AFAFB} = 0 D, MROUNDDOWN ( {Property:2A877C2E-D0E6-4442-8733-8ED7CB6E2B60}, 1 mm ) &lt;&gt; {Property:2A877C2E-D0E6-4442-8733-8ED7CB6E2B60} ), "Beam Length", IF ( MROUNDDOWN ( {Property:CCC9ED1E-32D6-410C-9928-EF4C629AFAFB}, 1 D ) &lt;&gt; {Property:CCC9ED1E-32D6-410C-9928-EF4C629AFAFB}, "Slant Angle", IF ( AND ( {Property:1E09F610-A925-4179-A285-834FAFFADA25} &gt; 0, MROUNDDOWN ( {Property:911E1770-F467-435A-83FE-C5705BB405CA}, 1 mm ) &lt;&gt; {Property:911E1770-F467-435A-83FE-C5705BB405CA} ), "Hole Height", IF ( AND ( {Property:1E09F610-A925-4179-A285-834FAFFADA25} &gt; 0, MROUNDDOWN ( {Property:756BA7D2-8EA4-499B-9BE1-3F09FD76BF0B}, 1 mm ) &lt;&gt; {Property:756BA7D2-8EA4-499B-9BE1-3F09FD76BF0B} ), "Hole Width", IF ( AND ( {Property:1E09F610-A925-4179-A285-834FAFFADA25} &gt; 0, MROUNDDOWN ( {Property:0E2F0EB1-F811-40CD-8C71-EC9CC8D988B1}, 1 mm ) &lt;&gt; {Property:0E2F0EB1-F811-40CD-8C71-EC9CC8D988B1} ), "Hole Level", "No" ) ) ) ) ) ) ) ) ), "-1" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Column", IF ( MROUNDDOWN ( {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 1 mm ) &lt;&gt; {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, "Column Height", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( ABS ( ROUND ( STRTONUM ( STRCALCUNIT ( {Property:1606C1A4-A80B-4EA6-A179-0983C8120B46} ) ), 0 ) ) * 1 mm &lt;&gt; ABS ( {Property:1606C1A4-A80B-4EA6-A179-0983C8120B46} ), "Top Offset", IF ( MROUNDDOWN ( {Property:33FC4E36-A004-46FE-A8C7-ACC1792F2B49}, 1 D ) &lt;&gt; {Property:33FC4E36-A004-46FE-A8C7-ACC1792F2B49}, "Slant Angle", IF ( MROUNDDOWN ( {Property:013560E7-ED78-4382-9937-32DCB47EE13A}, 1 mm ) &lt;&gt; {Property:013560E7-ED78-4382-9937-32DCB47EE13A}, "Column Depth", IF ( MROUNDDOWN ( {Property:52D78720-2BC6-42C5-BEAF-D620B361B697}, 1 mm ) &lt;&gt; {Property:52D78720-2BC6-42C5-BEAF-D620B361B697}, "Column Width", "No" ) ) ) ) ) ), "-3" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Mesh", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:174704F5-98B7-429D-85C1-7E31A5AD9936}, 1 mm ) &lt;&gt; {Property:174704F5-98B7-429D-85C1-7E31A5AD9936}, "Mesh Perimeter", IF ( MROUNDDOWN ( {Property:8AEA06D5-D6FC-4AC4-9C1D-619466E81F97}, 1 mm ) &lt;&gt; {Property:8AEA06D5-D6FC-4AC4-9C1D-619466E81F97}, "Skirt Height", "No" ) ) ), "-9" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Morph", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:174704F5-98B7-429D-85C1-7E31A5AD9936}, 1 mm ) &lt;&gt; {Property:174704F5-98B7-429D-85C1-7E31A5AD9936}, "Morph Perimeter", IF ( AND ( {Property:9955EB8D-DE29-4569-8FF0-C900F645247E} &lt;&gt; TRUE, {Property:9955EB8D-DE29-4569-8FF0-C900F645247E} &lt;&gt; FALSE ), "Shadows", "No" ) ) ), "-8" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Roof", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:48706EB0-152A-47A0-8963-AD00AA7CC11D}, 1 mm ) &lt;&gt; {Property:48706EB0-152A-47A0-8963-AD00AA7CC11D}, "Roof Thickness", IF ( MROUNDDOWN ( {Property:7D5920C2-FC66-41EB-BAEC-54B9BFC47F73}, 1 D ) &lt;&gt; {Property:7D5920C2-FC66-41EB-BAEC-54B9BFC47F73}, "Pitch", "No" ) ) ), "-7" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Slab", IF ( MROUNDDOWN ( {Property:A7B55E43-7C56-4C9E-836D-7A56F1D9D760}, 1 mm ) &lt;&gt; {Property:A7B55E43-7C56-4C9E-836D-7A56F1D9D760}, "Slab Thickness", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:174704F5-98B7-429D-85C1-7E31A5AD9936}, 1 mm ) &lt;&gt; {Property:174704F5-98B7-429D-85C1-7E31A5AD9936}, "Slab Perimeter", IF ( MROUNDDOWN ( {Property:626D3C32-C2F3-466A-8FA8-3B11F19A373C}, 1 mm ) &lt;&gt; {Property:626D3C32-C2F3-466A-8FA8-3B11F19A373C}, "Elevation Top", "No" ) ) ) ), "-4" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Wall", IF ( MROUNDDOWN ( {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 1 mm ) &lt;&gt; {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, "Wall Height", IF ( MROUNDDOWN ( {Property:A7B55E43-7C56-4C9E-836D-7A56F1D9D760}, 1 mm ) &lt;&gt; {Property:A7B55E43-7C56-4C9E-836D-7A56F1D9D760}, "Wall Thickness", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDUP ( {Property:1606C1A4-A80B-4EA6-A179-0983C8120B46}, 1 mm ) &lt;&gt; {Property:1606C1A4-A80B-4EA6-A179-0983C8120B46}, "Top Offset", IF ( MROUNDDOWN ( {Property:59D1CBE9-6C29-4B97-BA57-7EC9011B8D67}, 1 D ) &lt;&gt; {Property:59D1CBE9-6C29-4B97-BA57-7EC9011B8D67}, "Slant Angle", IF ( MROUNDDOWN ( {Property:736276CC-0825-4738-A2E8-CDD740C7F635}, 1 mm ) &lt;&gt; {Property:736276CC-0825-4738-A2E8-CDD740C7F635}, "Wall Length", IF ( MROUNDDOWN ( {Property:F1D5F9A5-FD16-4AC3-B76C-0453C654D290}, 1 mm ) &lt;&gt; {Property:F1D5F9A5-FD16-4AC3-B76C-0453C654D290}, "Doors Width", IF ( MROUNDDOWN ( {Property:532AC797-9D3F-489A-8DC0-FC7AE1CB9C68}, 1 mm ) &lt;&gt; {Property:532AC797-9D3F-489A-8DC0-FC7AE1CB9C68}, "Windows Width", "No" ) ) ) ) ) ) ) ), "-2" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Skylight", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 1 mm ) &lt;&gt; {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, "Opening Height", IF ( MROUNDDOWN ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E}, 1 mm ) &lt;&gt; {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E}, "Opening Width", IF ( MROUNDDOWN ( {Property:55E58BBA-EFA2-49B2-9C45-044DB36183AD}, 1 mm ) &lt;&gt; {Property:55E58BBA-EFA2-49B2-9C45-044DB36183AD}, "Curb Height", "No" ) ) ) ), "-10" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( OR ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Door", {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Window" ), IF ( MROUNDDOWN ( {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 1 mm ) &lt;&gt; {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, "Opening Height", IF ( MROUNDDOWN ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E}, 1 mm ) &lt;&gt; {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E}, "Opening Width", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:D0DE52C1-AC02-4566-9B79-CE0231299AD2}, 1 mm ) &lt;&gt; {Property:D0DE52C1-AC02-4566-9B79-CE0231299AD2}, "Frame Thickness", IF ( MROUNDDOWN ( {Property:F110B340-CF55-4634-ADE1-352093207C7A}, 1 mm ) &lt;&gt; {Property:F110B340-CF55-4634-ADE1-352093207C7A}, "Sill Height", IF ( MROUNDDOWN ( {Property:945CD93E-F4C4-4F1D-B97A-F50C23B101F9}, 1 mm ) &lt;&gt; {Property:945CD93E-F4C4-4F1D-B97A-F50C23B101F9}, "Head Height", "No" ) ) ) ) ) ), "-6" ), "Disabled" )</Expression>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Zone", IF ( MROUNDUP ( {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, 1 mm ) &lt;&gt; {Property:C4B62357-1289-4D43-A3F6-AB02B192864C}, "Zone Height", IF ( MROUNDDOWN ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, 1 mm ) &lt;&gt; {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0}, "Home Offset", IF ( MROUNDDOWN ( {Property:1606C1A4-A80B-4EA6-A179-0983C8120B46}, 1 mm ) &lt;&gt; {Property:1606C1A4-A80B-4EA6-A179-0983C8120B46}, "Top Offset", IF ( MROUNDDOWN ( {Property:46ABEB73-F338-4103-AE39-0BFF099D0423}, 1 mm ) &lt;&gt; {Property:46ABEB73-F338-4103-AE39-0BFF099D0423}, "Zone Perimeter", "No" ) ) ) ), "-12" ), "Disabled" )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Construction Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Column</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Covering</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ceiling</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cladding</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flooring</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Insulation</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Membrane</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roofing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Sleeving</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wrapping</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Footing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Member</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pile</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Plate</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rail</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Post</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roof</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Shell</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Step</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Riser</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Tread</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Structure</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Door</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Skylight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Window</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Massing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Building Element Proxy</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Morph</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Site Geometry</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Element Assembly</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Assembled Accessory</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Arch</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam Grid</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Braced Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Girder</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rigid Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab Field</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Truss</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ventilation Block</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Grid Axis</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furnishing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>System Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>MEP Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Control Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Flow Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Moving Walkway</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Escalator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elevator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Part</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Element Position &amp; Home Relation</Name>
+					<Description>Checks actual position (offset) of element agains it's home story</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( CONTAINS ( "enable_validation_home", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), IF ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0} &lt;&gt; 0 m, IF ( ABS ( {Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0} ) &lt;= 1000 mm / 3, "Average", "Critical" ), "Normal" ), "n/a" )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Construction Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Column</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Covering</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ceiling</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cladding</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flooring</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Insulation</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Membrane</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roofing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Sleeving</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wrapping</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Footing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Member</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pile</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Plate</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rail</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Post</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roof</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Shell</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Step</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Riser</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Tread</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Structure</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Door</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Skylight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Window</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Massing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Building Element Proxy</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Morph</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Site Geometry</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Element Assembly</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Assembled Accessory</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Arch</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam Grid</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Braced Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Girder</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rigid Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab Field</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Truss</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ventilation Block</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furnishing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>System Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>MEP Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Control Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Flow Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Moving Walkway</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Escalator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elevator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Part</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Element Reported</Name>
+					<Description>Checks, if this element has been previously reported.
+Project Info &gt; Project Details &gt; Project Reports</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Boolean</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( CONTAINS ( "enable_validation_reports = yes", {Property:ProjectInfoPropertyDefinitionGroup/Project Settings}, TRUE ), CONTAINS ( {Property:9C609FB7-E28E-4475-8ADC-E878E78A3858}, {Property:ProjectInfoPropertyDefinitionGroup/Project Reports}, FALSE ), FALSE )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Construction Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Column</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Covering</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ceiling</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cladding</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Flooring</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Insulation</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Membrane</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roofing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Sleeving</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wrapping</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Footing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Member</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Pile</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Plate</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rail</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Post</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Railing Panel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ramp Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Roof</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Shell</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Step</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Riser</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Flight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Landing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Tread</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Stair Structure</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Wall</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Door</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Skylight</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Window</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Massing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Building Element Proxy</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Morph</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Site Geometry</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Element Assembly</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Assembled Accessory</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Arch</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Beam Grid</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Braced Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Girder</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Rigid Frame</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Slab Field</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Truss</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ventilation Block</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furnishing</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>System Furniture</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>MEP Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Control Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Distribution Flow Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Moving Walkway</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Escalator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Elevator</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Element</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Curtain Wall Part</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BEAMS – Lintels</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Lintel Mark</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>E046E509-BF05-4857-B762-7625C590B745</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>&lt;Undefined&gt;</Value>
+									</Variant>
+								</Value>
+								<Key>D80E941B-DCFB-460B-8BB1-47873A096377</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>1ПБ10-1</Value>
+									</Variant>
+								</Value>
+								<Key>5000A042-A8ED-427A-AB64-6CA6422B3782</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>1ПБ13-1</Value>
+									</Variant>
+								</Value>
+								<Key>929DDF9F-BA28-44F4-AD58-00432D7517B2</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>1ПБ16-1</Value>
+									</Variant>
+								</Value>
+								<Key>8F8CDE17-4D91-4737-BFE8-117CF79EC388</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ10-1</Value>
+									</Variant>
+								</Value>
+								<Key>01600582-4F7C-486D-B1E9-315F05CC5804</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ13-1</Value>
+									</Variant>
+								</Value>
+								<Key>AAC7BBA6-A941-4ADC-BEB6-80CF6521086E</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ16-2</Value>
+									</Variant>
+								</Value>
+								<Key>F286981D-DC5C-4E68-A6E3-35B39C7569A0</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ17-2</Value>
+									</Variant>
+								</Value>
+								<Key>84EE365D-3981-4FBB-B0D3-EE26CACBA316</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ19-3-П</Value>
+									</Variant>
+								</Value>
+								<Key>7FE1D721-30A4-470B-9263-48782CF9FCCD</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ22-3-П</Value>
+									</Variant>
+								</Value>
+								<Key>79D76253-2317-453E-B0D3-0CA745846D30</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ25-3-П</Value>
+									</Variant>
+								</Value>
+								<Key>BE83F340-67E9-449B-A3AF-F174BDF32240</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ26-4-П</Value>
+									</Variant>
+								</Value>
+								<Key>2F6670C0-84B6-47FF-9D83-3370F58B883D</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>2ПБ29-4-П</Value>
+									</Variant>
+								</Value>
+								<Key>DB470237-A0D8-4A8C-B6BA-D71E6206099B</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>3ПБ13-37</Value>
+									</Variant>
+								</Value>
+								<Key>3EA4069C-1A8D-4854-94D7-F91DDC37A0BA</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>3ПБ18-37</Value>
+									</Variant>
+								</Value>
+								<Key>3544FDF0-B6EB-4DD1-A42B-268975391EC7</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>3ПБ34-4</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>E046E509-BF05-4857-B762-7625C590B745</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Series</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>5C3CA3A3-E6D9-4866-9018-A81359E76A94</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>&lt;Undefined&gt;</Value>
+									</Variant>
+								</Value>
+								<Key>A1EAB8B9-8C2B-4B20-826A-421F6FBE4C3A</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>ДСТУ Б В.2.6-55:2008</Value>
+									</Variant>
+								</Value>
+								<Key>971F2902-589A-4DEB-8ADC-3666EC658551</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 1</Value>
+									</Variant>
+								</Value>
+								<Key>F811E92E-11F8-412A-9034-E32EC1151569</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 2</Value>
+									</Variant>
+								</Value>
+								<Key>F57B9EAA-1AD9-49EE-A8E8-207466D9598D</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 3</Value>
+									</Variant>
+								</Value>
+								<Key>C7F9E2C9-80DB-4EB7-ADE6-032AC932F0EF</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 4</Value>
+									</Variant>
+								</Value>
+								<Key>8B20FA42-CEFF-411F-8A89-7EC49FDFF88C</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 5</Value>
+									</Variant>
+								</Value>
+								<Key>69BC4CD1-28B6-4583-8F49-FE784FCE11CE</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 6</Value>
+									</Variant>
+								</Value>
+								<Key>71A5362C-EC7F-4F41-BCA7-79F81573C426</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 7</Value>
+									</Variant>
+								</Value>
+								<Key>927E1D91-97FB-438F-8938-843E2C1BC89E</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 8</Value>
+									</Variant>
+								</Value>
+								<Key>718B27F0-0C7F-4B26-8F84-1A54ABE5F54E</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 9</Value>
+									</Variant>
+								</Value>
+								<Key>5BFD8261-E3F1-4C0C-B2B1-ADF9E7B258EF</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 10</Value>
+									</Variant>
+								</Value>
+								<Key>E87204DC-5D06-48DF-8569-40608D60861C</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Серия 1.038.1-1, вып. 11</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>5C3CA3A3-E6D9-4866-9018-A81359E76A94</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Type</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>UserUndefined</Status>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Bar Number</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Integer</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E} = {Property:98E721E3-372F-4D9E-85EC-2C763372CEBD}, 1, IF ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E} / {Property:98E721E3-372F-4D9E-85EC-2C763372CEBD} &gt;= 5, 5, IF ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E} / {Property:98E721E3-372F-4D9E-85EC-2C763372CEBD} &gt;= 4, 4, IF ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E} / {Property:98E721E3-372F-4D9E-85EC-2C763372CEBD} &gt;= 3, 3, IF ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E} / {Property:98E721E3-372F-4D9E-85EC-2C763372CEBD} &gt;= 2, 2, IF ( {Property:3799B10A-61C5-4566-BF9C-EAA9CE49196E} / {Property:98E721E3-372F-4D9E-85EC-2C763372CEBD} &gt;= 1, 1, 0 ) ) ) ) ) )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Bar Material</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value>&lt;Undefined&gt;</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Bar Weight</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Integer</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="IntVariant">
+							<Status>Normal</Status>
+							<Value>0</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Sum Weight</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Volume</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:BEAMS – Lintels/Lintel Bar Weight} * {Property:BEAMS – Lintels/Lintel Bar Number} * 1 l</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Lintel Position</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>SPLITLEFT ( {Property:8583BC95-C85D-48A3-9C2E-1EBED328BBFE}, " ", 1 )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Lintel</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>GRIDS</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Grid Mark</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:7E221F33-829B-4FBC-A670-E74DABCE6289}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Grid Axis</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Grid Type</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( {Property:25826253-26F2-4D30-BE1B-0FFBB1314903} = "T11  Grid, structural", "Primary", "Secondary" )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Grid Axis</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>OPENINGS</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Opening Cut</Name>
+					<Description>Opening section</Description>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>AFF3F63D-E6F8-418F-9866-CA6C05D3793F</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Прямоугольный</Value>
+									</Variant>
+								</Value>
+								<Key>3078B0DD-64E3-4F3C-BFE6-2F7503E274EA</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Круглый</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>AFF3F63D-E6F8-418F-9866-CA6C05D3793F</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Elevation</Name>
+					<Description>Opening elevation to home story</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Length</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:FD43A58A-C7AC-4265-BB3B-CF5426D157C0} + {Property:OPENINGS/Opening Elevation (Fix)}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Elevation (Fix)</Name>
+					<Description>Custom correction to opening elevation (if necessary)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Length</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="NumVariant">
+							<Status>Normal</Status>
+							<Value>0</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Function</Name>
+					<Description>Functional purpose</Description>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>C3242CAB-DE66-43FD-8C45-91CCDE526D40</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>-</Value>
+									</Variant>
+								</Value>
+								<Key>23534D2D-D135-4B23-BF99-8503E442FA94</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>C</Value>
+									</Variant>
+								</Value>
+								<Key>1E6AD929-7309-4E55-9B77-B994D48C4BCC</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>D</Value>
+									</Variant>
+								</Value>
+								<Key>64117C29-C224-4609-B67A-7B2666289281</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>E</Value>
+									</Variant>
+								</Value>
+								<Key>35FADB44-102A-4CF8-9AE8-25F441E4240C</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>F</Value>
+									</Variant>
+								</Value>
+								<Key>C363567D-C67C-4418-98D0-F393F63C5E93</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>H</Value>
+									</Variant>
+								</Value>
+								<Key>F9375795-EF6E-4E23-A01D-FB851DBC803F</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>L</Value>
+									</Variant>
+								</Value>
+								<Key>D4F73FFA-5390-4B6D-B784-BE5B5B207D2E</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>P</Value>
+									</Variant>
+								</Value>
+								<Key>193EA490-A8C3-44AA-95A9-82FDE8F5A805</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Y</Value>
+									</Variant>
+								</Value>
+								<Key>68601E45-C726-4AE2-BF42-358C070AB498</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>UFA</Value>
+									</Variant>
+								</Value>
+								<Key>43F747BC-1E41-4AE9-B525-F98805E2636D</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>UGC</Value>
+									</Variant>
+								</Value>
+								<Key>21ECFA15-1A9C-4F71-82AA-FA95F50B482B</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Z</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>C3242CAB-DE66-43FD-8C45-91CCDE526D40</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Mark</Name>
+					<Description>Discipline mark</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( OR ( {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "C", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "D", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "E", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "F", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "H", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "L", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "P", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "Y", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "X", {Property:F98F297A-AFA7-4B0D-824B-975C78E02995} = "Z" ), {Property:F98F297A-AFA7-4B0D-824B-975C78E02995}, {Property:OPENINGS/Opening Function} )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Notes</Name>
+					<Description>Additional notes</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value>-</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Type</Name>
+					<Description>Opening type &amp; purpose</Description>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>87CC2723-FBCC-4B9F-979C-59675F0AEB14</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Канал</Value>
+									</Variant>
+								</Value>
+								<Key>A87A983C-0CF3-43F0-8F18-3A948F976BA4</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Отверстие</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>A87A983C-0CF3-43F0-8F18-3A948F976BA4</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Empty Opening</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>OPENINGS - WD</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Opening Orientation</Name>
+					<Description>Windows and Doords orientation</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( {Property:3C5E6BC4-E8E9-4B34-AAC4-637532D440EB} = "L", "Л", IF ( {Property:3C5E6BC4-E8E9-4B34-AAC4-637532D440EB} = "R", "П", "" ) )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Door</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Window</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Opening Marker</Name>
+					<Description>Windows and Doors marking (based on id and orientation)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>CONCAT ( {Property:7E221F33-829B-4FBC-A670-E74DABCE6289}, IF ( {Property:3C5E6BC4-E8E9-4B34-AAC4-637532D440EB} = "L", "л", "" ) )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Door</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Window</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>ROOFS</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Roof Angle (D)</Name>
+					<Description>Slope angle in degrees (D)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Angle</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Roof", ABS ( {Property:7D5920C2-FC66-41EB-BAEC-54B9BFC47F73} ), 0 D )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Roof</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Roof Angle (P)</Name>
+					<Description>Slope angle in percents (P)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( {Property:A16BA200-27C1-4D1A-9C7F-4F2F9C5C6E21} = "Roof", CONCAT ( STR ( TAN ( {Property:7D5920C2-FC66-41EB-BAEC-54B9BFC47F73} ) ), "%" ), "n/a" )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Roof</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>ZONES</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Zone Is Gross/Complex</Name>
+					<Description>Defines whether this zone is a complex gross space entity</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Boolean</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="BoolVariant">
+							<Status>Normal</Status>
+							<Value>false</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Zone Complex ID</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:7E221F33-829B-4FBC-A670-E74DABCE6289}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Zone Complex Naming</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:CAF8D1EB-0BAD-48DE-AEA4-9932ECA3D913}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Zone Complex Number</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:77367980-3D5A-452B-9900-D88C53E82176}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Access Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Commercial Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Communication Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Cultural Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Educational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Equipment Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Medical Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Office Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Production Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Recreational Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Research Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Storage Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Transport Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>ZONES – Appartments</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Appartment Tag</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( CONTAINS ( "D", {Property:7E221F33-829B-4FBC-A670-E74DABCE6289}, TRUE ) = TRUE, CONCAT ( "LD-", {Property:7E221F33-829B-4FBC-A670-E74DABCE6289} ), CONCAT ( "L", STR ( {Property:14D1CF3B-6A96-4E77-B84C-E39D407B1DEF}, 0 ), "-", {Property:7E221F33-829B-4FBC-A670-E74DABCE6289}, "" ) )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Appartment Area Gross</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Area</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:9F8B3DFA-39D7-472D-A258-B988427C7EF9}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Appartment Area Live</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Numeric</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Area</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IF ( OR ( {Property:C55E9728-EB60-40A2-AA76-77B061FA4ADA} = "Bedrooms", {Property:C55E9728-EB60-40A2-AA76-77B061FA4ADA} = "Living rooms" ), {Property:9F8B3DFA-39D7-472D-A258-B988427C7EF9}, 0 m2 )</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Residential Space</ItemID>
+							<SystemIDName>ARCHICAD Classification</SystemIDName>
+							<SystemIDVersion>2X</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+	</PropertyDefinitionGroups>
+</BuildingInformation>

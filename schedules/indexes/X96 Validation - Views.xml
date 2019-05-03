@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Scheme_Settings ID="X96" Last_Modified="1556887391" Name="Validation - Views" Scheme_Type="View_List" Version="22.0.0">
+	<View_Settings>
+		<Hide_Main_Header value="false"/>
+		<Hide_Column_Header value="false"/>
+		<Picture_Draw_Type value="0"/>
+		<Keep_Components_Together value="false"/>
+		<Zoom value="1"/>
+		<List_All_Items value="true"/>
+		<Records_by_Rows value="0"/>
+		<Summarize_Reference_Row value="-1"/>
+		<Page_Break value="2"/>
+		<Use_First_Par_As value="true"/>
+		<Headline_Number value="1"/>
+		<Insert_Separation_Row value="false"/>
+		<Use_Name_As_Subtitle_Prefix value="false"/>
+	</View_Settings>
+	<Criteria_Settings>
+		<Complex_Criteria/>
+	</Criteria_Settings>
+	<W2D_Settings>
+		<Default_Pen value="1"/>
+		<Row_Types>
+			<Row Type="Header">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="5"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Picture">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Value">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Gridheader">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Total">
+				<Font_Size value="2"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="233"/>
+				<Row_Height value="5"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="1"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-1"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="1"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Headline">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Grandtotal">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Footer">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Pagenum">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+			<Row Type="Headline_Separator">
+				<Font_Size value="1.8"/>
+				<Line_Type value="1"/>
+				<Line_Pen value="102"/>
+				<Font_Type>Arial</Font_Type>
+				<Font_Pen value="1"/>
+				<Row_Height value="4"/>
+				<Column_Width value="30"/>
+				<Border_Type value="2"/>
+				<Font_Face value="0"/>
+				<Align_laid_table value="3"/>
+				<LeadingFactor value="-0.95"/>
+				<WidthFactor value="1"/>
+				<SpacingFactor value="0.95"/>
+				<TextEffects value="0"/>
+				<Wrap_Text value="false"/>
+			</Row>
+		</Row_Types>
+	</W2D_Settings>
+	<Header_Items>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="-1"/>
+			<ID_of_Item value="2354901828352"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="0"/>
+			<ID_of_firstChild value="2354901832832"/>
+			<ID_of_previous value="0"/>
+			<ID_of_next value="0"/>
+			<Caption>Validation - Views</Caption>
+			<Width_of_cell_portrait value="30"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="2"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="0"/>
+			<Sort_below value="1"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="false"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="0"/>
+			<Parameter_Index value="0"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name/>
+			<Parameter_Flags value="0"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="2F1A5BE6-3A44-41D9-8468-489011870B63"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="1"/>
+			<ID_of_Item value="2354901832832"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="0"/>
+			<ID_of_next value="2354921538384"/>
+			<Caption/>
+			<Width_of_cell_portrait value="2"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="1"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="12"/>
+			<Parameter_Index value="-1269"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>View Map</Parameter_Desc_Name>
+			<Parameter_Flags value="0"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="C947B809-49C5-4061-88C3-9F94DB2172D4"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="2"/>
+			<ID_of_Item value="2354921538384"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354901832832"/>
+			<ID_of_next value="2354921526224"/>
+			<Caption>ID</Caption>
+			<Width_of_cell_portrait value="10"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="12"/>
+			<Parameter_Index value="-1264"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>View ID</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="AEF6B0A6-E602-4C3E-B764-263A05D0D3AF"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="3"/>
+			<ID_of_Item value="2354921526224"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921538384"/>
+			<ID_of_next value="2354921527504"/>
+			<Caption>View Name</Caption>
+			<Width_of_cell_portrait value="49.9999"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="12"/>
+			<Parameter_Index value="-1263"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>View Name</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="3FB848F1-E41B-418D-8402-206D4CB84225"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="4"/>
+			<ID_of_Item value="2354921527504"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921526224"/>
+			<ID_of_next value="2354921528144"/>
+			<Caption>Scale</Caption>
+			<Width_of_cell_portrait value="10"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="113"/>
+			<Parameter_Index value="-1266"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Scale</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="06576167-FC38-4E64-9AD8-622470FFB370"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="5"/>
+			<ID_of_Item value="2354921528144"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921527504"/>
+			<ID_of_next value="2354921528784"/>
+			<Caption>Dimension</Caption>
+			<Width_of_cell_portrait value="40"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="116"/>
+			<Parameter_Index value="-1267"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Dimension</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="682B4D5C-33C1-4FE5-A94F-9C63E861083E"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="6"/>
+			<ID_of_Item value="2354921528784"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921528144"/>
+			<ID_of_next value="2354921529424"/>
+			<Caption>Renovation Filter</Caption>
+			<Width_of_cell_portrait value="40"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="166"/>
+			<Parameter_Index value="-6001"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Renovation Filter</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="85E2B273-8FF6-41FB-95F9-3977DF451B33"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="7"/>
+			<ID_of_Item value="2354921529424"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921528784"/>
+			<ID_of_next value="2354921530704"/>
+			<Caption>Structure Display</Caption>
+			<Width_of_cell_portrait value="40"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="7"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="135"/>
+			<Parameter_Index value="-1368"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Structure Display</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="B07A4590-BEC0-4832-96A9-0E3937608912"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="8"/>
+			<ID_of_Item value="2354921530704"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921529424"/>
+			<ID_of_next value="2354921531344"/>
+			<Caption>Layer Combination</Caption>
+			<Width_of_cell_portrait value="40"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="0"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="112"/>
+			<Parameter_Index value="-1265"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Layer Combination</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="31B504A1-1246-4A3F-B110-9D0213136439"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="9"/>
+			<ID_of_Item value="2354921531344"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921530704"/>
+			<ID_of_next value="2354921533264"/>
+			<Caption>Graphic Override</Caption>
+			<Width_of_cell_portrait value="40.0000000000001"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="0"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="183"/>
+			<Parameter_Index value="-1605"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Graphic Override Combination</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="CA712E07-7248-4474-94D4-98E4957A3E23"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="10"/>
+			<ID_of_Item value="2354921533264"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921531344"/>
+			<ID_of_next value="2355032541232"/>
+			<Caption>Model View Option</Caption>
+			<Width_of_cell_portrait value="39.9999999999999"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="0"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="117"/>
+			<Parameter_Index value="-1268"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Model View Option Combination</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="886B4DD9-1273-40A6-9010-5EFC277741CB"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="11"/>
+			<ID_of_Item value="2355032541232"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2354921533264"/>
+			<ID_of_next value="2355032538672"/>
+			<Caption>Pen Set</Caption>
+			<Width_of_cell_portrait value="39.9999999999999"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="0"/>
+			<Align_below value="1"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="122"/>
+			<Parameter_Index value="-1275"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Pen Set</Parameter_Desc_Name>
+			<Parameter_Flags value="128"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="C0CF5A33-D892-4F16-BCD9-C16FE7353C13"/>
+		</Header_Item>
+		<Header_Item>
+			<Numbers_of_Columns value="12"/>
+			<Index_of_Columns value="12"/>
+			<ID_of_Item value="2355032538672"/>
+			<ID_of_Ancient value="2354901828352"/>
+			<ID_of_Parent value="2354901828352"/>
+			<ID_of_firstChild value="0"/>
+			<ID_of_previous value="2355032541232"/>
+			<ID_of_next value="0"/>
+			<Caption>Pub</Caption>
+			<Width_of_cell_portrait value="10.0000000000001"/>
+			<Height_of_cell_landscape value="0"/>
+			<Height_of_cell_portrait value="0"/>
+			<Align_below value="2"/>
+			<AlignPicture value="0"/>
+			<Align value="1"/>
+			<LeadingFactor value="-0.95"/>
+			<WidthFactor value="1"/>
+			<SpacingFactor value="0.95"/>
+			<TextEffects value="0"/>
+			<Face value="1"/>
+			<Sort_below value="0"/>
+			<Total value="0"/>
+			<Unit value=""/>
+			<Has_Unit value="true"/>
+			<Has_Flag value="false"/>
+			<Parameter_Type value="13"/>
+			<Parameter_Index value="-1271"/>
+			<Parameter_Type_Mod value="0"/>
+			<Parameter_Name value=""/>
+			<Parameter_Desc_Name>Published</Parameter_Desc_Name>
+			<Parameter_Flags value="0"/>
+			<IFCPropertySetName value=""/>
+			<IFCTypeForProperties value="0"/>
+			<IFCClassificationField value="0"/>
+			<IFCPropertyType value="0"/>
+			<IFCAssignmentType value="0"/>
+			<IFCAssignmentName value=""/>
+			<IFCTypeProductType value="0"/>
+			<IFCTypeProductSpecificType value="0"/>
+			<IFCTypeProductName value=""/>
+			<DatabaseGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyGuid value="00000000-0000-0000-0000-000000000000"/>
+			<ACPropertyName value=""/>
+			<ACPropertyGroup value=""/>
+			<ACPropertyType value=""/>
+			<ACPropertyFieldSelector value="00000000-0000-0000-0000-000000000000"/>
+			<UniValue>
+				<HasVariant>false</HasVariant>
+			</UniValue>
+			<GraphicOverrideCombination value="00000000-0000-0000-0000-000000000000"/>
+			<UniqueID value="24756CF2-965F-4C98-8E32-BF11FF06C1B3"/>
+		</Header_Item>
+	</Header_Items>
+	<FieldCustomDataStore>
+		<NumberOf value="0"/>
+	</FieldCustomDataStore>
+</Scheme_Settings>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Scheme componentType="D3EC122F-0A7F-4B14-94D0-0A6B7FFA66C3" guid="EFE851EB-02CC-4CF0-9F17-5B534633924E" name="a.technologies" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Scheme/2018/01">
+	<GlobalSettings Version="34">
+		<ImagingAndCalculation Version="3">
+			<AutoRebuild3D>1</AutoRebuild3D>
+			<Activate3DOnChange>0</Activate3DOnChange>
+			<KeepZoomedSection>1</KeepZoomedSection>
+			<ShowProgressWindow>1</ShowProgressWindow>
+			<InterruptOnError>0</InterruptOnError>
+			<Generate3DReport>1</Generate3DReport>
+			<ReportLevel>2</ReportLevel>
+			<SelElemsListing>1</SelElemsListing>
+			<BackgroundUpdate>1</BackgroundUpdate>
+		</ImagingAndCalculation>
+		<SelAndElemInfo Version="3">
+			<HighlightSelElems>1</HighlightSelElems>
+			<HighlightDefaultColor B="0" G="190" R="0">
+			</HighlightDefaultColor>
+			<BoldConturLines>1</BoldConturLines>
+			<HighlightSubElemContourColor B="255" G="0" R="0">
+			</HighlightSubElemContourColor>
+			<SelDotColor B="0" G="0" R="0">
+			</SelDotColor>
+			<EditableSelDotColor B="183" G="0" R="183">
+			</EditableSelDotColor>
+			<HighlightSurfacesIn3D>1</HighlightSurfacesIn3D>
+			<HighlightSurfaceColor B="0" G="255" R="0">
+			</HighlightSurfaceColor>
+			<HighlightIntensity>10</HighlightIntensity>
+			<HighlightConturBeforeSel>1</HighlightConturBeforeSel>
+			<ConturColorBeforeSel B="213" G="85" R="0">
+			</ConturColorBeforeSel>
+			<BoldBeforeSelConturLines>1</BoldBeforeSelConturLines>
+			<HighlightDelayTime>1.000000</HighlightDelayTime>
+			<HighlightConturWhileEditing>1</HighlightConturWhileEditing>
+			<ConturEditingColor B="200" G="0" R="0">
+			</ConturEditingColor>
+			<BoldEditingConturLines>1</BoldEditingConturLines>
+			<InfoTagDelayTime>0.500000</InfoTagDelayTime>
+			<ShowElementInfo>1</ShowElementInfo>
+			<ShowShortInfo>0</ShowShortInfo>
+			<UseTrackerColors>1</UseTrackerColors>
+			<UseSmallFonts>0</UseSmallFonts>
+		</SelAndElemInfo>
+		<DialogPreferences Version="9">
+			<UpdateDelay>1500</UpdateDelay>
+			<ShowLockedLayers>1</ShowLockedLayers>
+			<EnableUDAnimation>1</EnableUDAnimation>
+			<AnimationSpeed>500</AnimationSpeed>
+			<AutoPosUDDialogs>1</AutoPosUDDialogs>
+			<EnableUDPanelClose>1</EnableUDPanelClose>
+			<PetPaletteMovement>0</PetPaletteMovement>
+			<AppearDist>55</AppearDist>
+			<FollowDist>100</FollowDist>
+			<TextPalettePosMode>0</TextPalettePosMode>
+			<ShowPalettesInBG>0</ShowPalettesInBG>
+		</DialogPreferences>
+		<TrackerPreferences Version="3">
+			<InputPropertyPreference>0</InputPropertyPreference>
+			<EditTrackerSize>0</EditTrackerSize>
+			<ShowZProperty>0</ShowZProperty>
+			<HideAllTrackers>0</HideAllTrackers>
+			<UseCoordBoxShortcuts>1</UseCoordBoxShortcuts>
+			<ShowParameterTags>1</ShowParameterTags>
+			<UseCustomColors>1</UseCustomColors>
+			<ForegroundColor B="254" G="100" R="32">
+			</ForegroundColor>
+			<BackgroundColor B="255" G="255" R="255">
+			</BackgroundColor>
+			<FrameColor B="255" G="170" R="130">
+			</FrameColor>
+			<Opacity>72</Opacity>
+			<UseRelativeAngle>1</UseRelativeAngle>
+			<ShowNullLevelTracker>0</ShowNullLevelTracker>
+			<AnglePointerLineRelativeness>1</AnglePointerLineRelativeness>
+			<ShowFrame>0</ShowFrame>
+			<UseSmallFonts>0</UseSmallFonts>
+			<RelativeTracker>1</RelativeTracker>
+			<DirectInput>1</DirectInput>
+			<XYAlwaysRelativeToUserOrigin>0</XYAlwaysRelativeToUserOrigin>
+		</TrackerPreferences>
+		<PointerLinePreferences Version="4">
+			<ArePointerLinesEnabled>1</ArePointerLinesEnabled>
+			<PermanentColor B="64" G="128" R="255">
+			</PermanentColor>
+			<TemporaryColor B="255" G="132" R="9">
+			</TemporaryColor>
+			<AnimationDelay>1.000000</AnimationDelay>
+		</PointerLinePreferences>
+		<MouseConstraints Version="4">
+			<IsHorizVertEnabled>1</IsHorizVertEnabled>
+			<IsGridHorEnabled>1</IsGridHorEnabled>
+			<IsFixedAngleEnabled>1</IsFixedAngleEnabled>
+			<IsRelToGridEnabled>1</IsRelToGridEnabled>
+			<FixedAngle>45.000000</FixedAngle>
+			<Gravity>5</Gravity>
+			<IsLDCADLikeEnabled>1</IsLDCADLikeEnabled>
+			<UseWheelForPan>0</UseWheelForPan>
+			<UseTouchDeviceWheelForPan>1</UseTouchDeviceWheelForPan>
+		</MouseConstraints>
+		<PublishingOptions>
+			<LogLocation>lan.flat:///C:/Users/i.yurasov/GRAPHISOFT/Publisher%20log%20files</LogLocation>
+		</PublishingOptions>
+		<VariousOptions Version="10">
+			<UpdateAutoBuildModelViewPoints>1</UpdateAutoBuildModelViewPoints>
+			<CreateDWBoundaryInDWWind>1</CreateDWBoundaryInDWWind>
+			<IsNavPreviewDataSaveEnabled>0</IsNavPreviewDataSaveEnabled>
+			<IsAutoIDIncreaseEnabled>1</IsAutoIDIncreaseEnabled>
+			<IsSoundEnabled>0</IsSoundEnabled>
+			<IsAlertInTeamworkEnabled>1</IsAlertInTeamworkEnabled>
+			<IsPlaceDoesntLaunchACEnabled>0</IsPlaceDoesntLaunchACEnabled>
+			<IsAdjustDrawingFrameToViewZoomEnabled>1</IsAdjustDrawingFrameToViewZoomEnabled>
+			<IsOpenViewsInNewWindowEnabled>0</IsOpenViewsInNewWindowEnabled>
+			<IsOpenLayoutsInNewWindowEnabled>0</IsOpenLayoutsInNewWindowEnabled>
+			<RulerVisibility>0</RulerVisibility>
+			<IsOpenProjectInEmtptyACEnabled>0</IsOpenProjectInEmtptyACEnabled>
+		</VariousOptions>
+		<ExperimentalFeatures Version="1">
+			<IsLinkingAlongCommonViewSettingEnabled>0</IsLinkingAlongCommonViewSettingEnabled>
+		</ExperimentalFeatures>
+		<AdvancedOptions Version="2">
+			<NavDisplayModel>2</NavDisplayModel>
+			<HwAccelerationLevel2D>2</HwAccelerationLevel2D>
+			<PerformanceLevel>5</PerformanceLevel>
+			<AntialiasQuality>0</AntialiasQuality>
+			<AntialiasQualityOpenGL3D>1</AntialiasQualityOpenGL3D>
+			<HorizontalVerticalAntialiasDisable>1</HorizontalVerticalAntialiasDisable>
+		</AdvancedOptions>
+		<OnScreenOptions Version="5">
+			<IsGhostBoundingBoxEnabled>0</IsGhostBoundingBoxEnabled>
+			<IsAutoHideSnapMarkerEnabled>1</IsAutoHideSnapMarkerEnabled>
+			<IsColorShiftEnabled>0</IsColorShiftEnabled>
+			<IsEditPlaneDisplayDuringEditingOnly>0</IsEditPlaneDisplayDuringEditingOnly>
+			<IsUniformColorForMasterItemsEnabled>1</IsUniformColorForMasterItemsEnabled>
+			<UniformColorForMasterItems B="0" G="0" R="255">
+			</UniformColorForMasterItems>
+			<SnapMarkerColor B="0" G="0" R="0">
+			</SnapMarkerColor>
+			<SourceMarkerBoundColor B="150" G="255" R="255">
+			</SourceMarkerBoundColor>
+			<FeedbackColor B="0" G="0" R="0">
+			</FeedbackColor>
+			<IsShowLibPartFavoriteContoursEnabled>0</IsShowLibPartFavoriteContoursEnabled>
+			<MarkerOnScreenPen>65</MarkerOnScreenPen>
+			<MarkerOnScreenLineType>1</MarkerOnScreenLineType>
+			<TwHighLightColor B="0" G="0" R="255">
+			</TwHighLightColor>
+			<TwPassiveColor B="192" G="192" R="192">
+			</TwPassiveColor>
+			<TwFreeElementsColor B="255" G="0" R="0">
+			</TwFreeElementsColor>
+			<TwRequestedByMeColor B="255" G="0" R="255">
+			</TwRequestedByMeColor>
+			<TwRequestedFromMeColor B="50" G="120" R="160">
+			</TwRequestedFromMeColor>
+			<IsUniformWireFrameColor>0</IsUniformWireFrameColor>
+				<WireFrameColor A="0" B="122" G="122" R="122">
+				</WireFrameColor>
+				<EnergyEvaluationExternalStructureColor A="0" B="52" G="136" R="248">
+				</EnergyEvaluationExternalStructureColor>
+				<EnergyEvaluationUpwardStructureColor A="0" B="16" G="34" R="251">
+				</EnergyEvaluationUpwardStructureColor>
+				<EnergyEvaluationDownwardStructureColor A="0" B="206" G="188" R="67">
+				</EnergyEvaluationDownwardStructureColor>
+				<EnergyEvaluationFloorColor A="0" B="188" G="119" R="21">
+				</EnergyEvaluationFloorColor>
+				<EnergyEvaluationBelowFloorColor A="0" B="162" G="79" R="47">
+				</EnergyEvaluationBelowFloorColor>
+				<EnergyEvaluationUndergroundColor A="0" B="107" G="104" R="128">
+				</EnergyEvaluationUndergroundColor>
+				<EnergyEvaluationInternalColor A="0" B="128" G="189" R="89">
+				</EnergyEvaluationInternalColor>
+				<EnergyEvaluationOpeningsColor A="0" B="17" G="212" R="255">
+				</EnergyEvaluationOpeningsColor>
+			<ShowTwistedElemsHighlightColor>1</ShowTwistedElemsHighlightColor>
+				<TwistedElemsHighlightColor A="255" B="255" G="63" R="255">
+				</TwistedElemsHighlightColor>
+		</OnScreenOptions>
+	</GlobalSettings>
+</Scheme>

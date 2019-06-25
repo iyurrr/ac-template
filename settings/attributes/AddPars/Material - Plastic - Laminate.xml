@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="37690667-59BE-4B9C-93E5-FE3BAB97851E" Index="23" Name="Material - Plastic - Laminate">
+<Par Guid="49C03BEC-1771-41E8-B94D-13C3156E8EF1" Index="23" Name="Material - Plastic - Laminate">
 	
 <Parameters>
 		<Integer Name="C4D_CHSIZE_HORSIZE">

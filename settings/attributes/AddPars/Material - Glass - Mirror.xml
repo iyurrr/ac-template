@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Par Guid="BE020000-3342-4304-9D24-7AD46BFD707A" Index="91" Name="Material - Glass - Mirror">
+<Par Guid="7A8B1456-63DF-43B6-A4A5-9E965E4E5399" Index="91" Name="Material - Glass - Mirror">
 	
 <Parameters>
 		<Integer Name="C4D_VER_MAIN">

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Favorites>
+	<AttrTable>
+		<ActPlatformSign>22359</ActPlatformSign>
+		<Version>101</Version>
+		<ItemNum>2</ItemNum>
+		<Item>
+			<Name>T24  Levels</Name>
+			<Index>22400</Index>
+			<RefId>1279479602</RefId>
+		</Item>
+		<Item>
+			<Name>Solid Line</Name>
+			<Index>1</Index>
+			<RefId>1297306713</RefId>
+		</Item>
+	</AttrTable>
+	<Favorite Type="DimDefault">
+		<OdbObj Mv="8" Sv="4">
+			<OdbRef>
+				<guid>BA61F8CC-8C2D-4526-9BF8-AA8EB86BF5C4</guid>
+			</OdbRef>
+			<CreaTime>1511693</CreaTime>
+			<ModiTime>1517088</ModiTime>
+		</OdbObj>
+		<Name>Level - Section</Name>
+		<Ind>0</Ind>
+		<Flags>0</Flags>
+		<ModiTime>0</ModiTime>
+		<Version>0</Version>
+		<PlatformSign>22359</PlatformSign>
+		<TypeId>1145654623</TypeId>
+		<SubTypeSignature>0</SubTypeSignature>
+		<DimDefault Mv="5" Sv="0">
+			<DimensionBaseDefault Mv="5" Sv="0">
+				<DocumentationElementDefault Mv="5" Sv="0">
+					<VBElementDefault Mv="5" Sv="0">
+						<DefaultElem>
+							<CategoryInfo Mv="1" Sv="0">
+								<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+							</CategoryInfo>
+							<AddOnDataArray Size="0"/>
+							<PropertyDataProxy/>
+							<ClassificationItemSet/>
+						</DefaultElem>
+					</VBElementDefault>
+				</DocumentationElementDefault>
+				<OnlyDimensionText>false</OnlyDimensionText>
+			</DimensionBaseDefault>
+			<MarkPen>85</MarkPen>
+			<LinePen>85</LinePen>
+			<Layer>22400</Layer>
+			<Way>0</Way>
+			<Appear>3</Appear>
+			<MarkerForm>2</MarkerForm>
+			<WitnessForm>2</WitnessForm>
+			<StaticNote>true</StaticNote>
+			<Nominal>0</Nominal>
+			<Kind>0</Kind>
+			<MarkerSize>1.25</MarkerSize>
+			<WitnessGap>0.15</WitnessGap>
+			<WitnessLen>0.003</WitnessLen>
+			<ElevationDimForm>7</ElevationDimForm>
+			<ElevationFillUSArr>0</ElevationFillUSArr>
+			<ElevationArrowAngle>1</ElevationArrowAngle>
+			<ElevationNeedPlus>true</ElevationNeedPlus>
+			<ElevationFillArr>false</ElevationFillArr>
+			<ElevationUpArr>false</ElevationUpArr>
+			<ElevationOrigin>0</ElevationOrigin>
+			<ElevationGetSingle>false</ElevationGetSingle>
+			<ElevationMarkerSize>2</ElevationMarkerSize>
+			<ClipOtherSide>false</ClipOtherSide>
+			<AutoThick>1</AutoThick>
+			<TextPosition>0</TextPosition>
+			<HorizontalText>false</HorizontalText>
+			<TextPosition3D>1</TextPosition3D>
+			<HorizontalText3D>true</HorizontalText3D>
+			<DimLayout>1</DimLayout>
+			<PushNeighborEnabled>false</PushNeighborEnabled>
+			<PlaceUnderEnabled>false</PlaceUnderEnabled>
+			<Advanced>false</Advanced>
+		</DimDefault>
+		<HasNoteDef>true</HasNoteDef>
+		<NoteDefault Mv="5" Sv="7">
+			<DocumentationElementDefault Mv="5" Sv="7">
+				<VBElementDefault Mv="5" Sv="7">
+					<DefaultElem>
+						<CategoryInfo Mv="1" Sv="0">
+							<CategoryInfoIdListSize>0</CategoryInfoIdListSize>
+						</CategoryInfo>
+						<AddOnDataArray Size="0"/>
+						<PropertyDataProxy/>
+						<ClassificationItemSet/>
+					</DefaultElem>
+				</VBElementDefault>
+			</DocumentationElementDefault>
+			<NotePen>5</NotePen>
+			<FontFamily>
+				<FontName>Arial Западный</FontName>
+			</FontFamily>
+			<NoteSize>2</NoteSize>
+			<NoteAngle>0</NoteAngle>
+			<NoteStyle>0</NoteStyle>
+			<RowAnchor>0</RowAnchor>
+			<Alignment>1</Alignment>
+			<WidthFactor>1</WidthFactor>
+			<SpacingFactor>1</SpacingFactor>
+			<Effects>0</Effects>
+			<NoteUseContour>false</NoteUseContour>
+			<NoteUseFill>true</NoteUseFill>
+			<NoteContourPen>1</NoteContourPen>
+			<NoteFillPen>19</NoteFillPen>
+			<HasLeaderLine>false</HasLeaderLine>
+			<LeaderLineStartAngle>1.5707963267949</LeaderLineStartAngle>
+			<LeaderLineStartAngleFixed>true</LeaderLineStartAngleFixed>
+			<LeaderLineAttributes>
+				<ArrowForm>26</ArrowForm>
+				<ArrowSize>2</ArrowSize>
+				<ArrowPen>45</ArrowPen>
+				<LinePen>85</LinePen>
+				<LineType>1</LineType>
+				<Shape>0</Shape>
+				<HideArrow>false</HideArrow>
+				<HideArrowScale>1000</HideArrowScale>
+				<AnchorPoint>3</AnchorPoint>
+			</LeaderLineAttributes>
+			<Readable>true</Readable>
+		</NoteDefault>
+		<HasReferenceStory>false</HasReferenceStory>
+		<Folder>00000000-0000-0000-0000-000000000000</Folder>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+	</Favorite>
+	<Folder Name="Annotation">
+		<Folder Name="Markers"/>
+	</Folder>
+</Favorites>

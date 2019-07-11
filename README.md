@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5622AQHsMvykTdWOOQ/feedshare-shrink_8192/0?e=1559779200&v=beta&t=P8EhRGaem_JFizG_aRq9NWfzfBSWBnWXgZ992crqYAU">
+<img src="http://git.archimatika.com/bim/archicad/template/raw/master/template.png">
 
 Dowload zip link (top right button):<br/>
 http://git.archimatika.com/bim/archicad/template/repository/master/archive.zip
